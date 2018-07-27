@@ -1,0 +1,3850 @@
+
+second, dubbed the “other approved lender list,” 
+contains the remaining five.
+
+The three options on the top-tiered preferred 
+lender list include a large financial institution, a 
+nonprofit lender and a local lender.
+
+To be considered for either list, loan compa-
+nies must fulfill requirements such as providing 
+personnel and technology to improve loan pro-
+cessing, as well as presenting timely and relevant 
+information to staff and students. Companies 
+looking to be one of three choices on UCSD’s 
+preferred lender list must also provide a special 
+electronic service that eliminates paperwork, 
+thus expediting loan processing.
+
+De Anda said he sees preferred lender lists as 
+a positive component of financial aid, as long as 
+they are constructed in the best interests of the 
+students. 
+
+“If done correctly, the list helps students avoid 
+predatory lenders and ‘fly-by-night’ lenders, who 
+get in and get out with quick profits and won’t be 
+there when it is time to service the loan,” he said. 
+“There has been a marked increase on direct-to-
+consumer marketing, especially on the Web, and I 
+worry about students and parents obtaining loans 
+
+By Sarah de Crescenzo
+Contributing Writer
+
+In an effort to curb “deceptive practices” in 
+the $85-billion-per-year student loan industry, a 
+set of new regulations issued Nov. 1 by the U.S.  
+Department of Education requires colleges and 
+universities to add a minimum of three unaffiliated 
+loan companies to the preferred lender lists they 
+provide to students. 
+
+Effective July 2008, these regulations follow an 
+inquiry of the college loan industry by New York 
+Attorney General Andrew Cuomo, who conducted 
+a nationwide investigation in March into possible 
+corrupt relationships between universities and loan 
+companies. Cuomo found evidence of questionable  
+practices, ranging from stifled competition among 
+the lending industry — resulting in a poor range 
+of loan terms — to discreet financial arrangements 
+between colleges and lenders that enriched loan 
+companies at students’ expense.
+
+He then contacted more than 400 colleges and 
+universities nationwide, requesting that they end 
+relationships with lenders that coerce students into 
+entering loan agreements that are not in their best 
+interest, or that may have hidden consequences. 
+Cuomo argued that universities should ensure that 
+
+By Serena Renner
+Senior Staff Writer
+
+In response to growing concerns 
+about liberal alcohol policies regu-
+lating local beaches, the San Diego 
+City Council voted Nov. 5 to endorse 
+a yearlong ban that would prohibit 
+drinking at the city’s beaches, bays 
+and coastal parks.
+
+Councilman Kevin Faulconer, 
+whose district includes Mission, 
+Pacific and Ocean beaches, pressed 
+for a permanent ban but was unable 
+to rally enough council support. 
+City Attorney Michael Aguirre then 
+proposed a one-year trial ban; the 
+compromise passed in a 5-2 vote. 
+Councilman Ben Hueso cast the 
+deciding vote when he switched in 
+favor of the ban last minute, meeting 
+the minimum threshold for passage.
+
+Faulconer began his council ten-
+ure opposed to such a regulation, but 
+agreed to establish a Beach Alcohol 
+Task Force to examine the issue fur-
+ther. After eight months, the commit-
+tee was united on 21 proposals but 
+gridlocked over whether to permit 
+drinking on San Diego shores.
+
+Motives changed after Labor Day, 
+however, when Pacific Beach faced 
+national media attention for a drunk-
+en brawl that broke out after a man 
+trying to recover an all-terrain police 
+vehicle from the surf was arrested. 
+Police officers were pelted with beer 
+cans and water bottles by the combat-
+ive mob, and lifeguards had to shut 
+
+City Council Bars Booze from Local Beaches 
+
+WILL PARSON/GUARDIAN
+San Diego residents Scott Koehler (left) and Jesse Bandle enjoy a keg of beer along the shores of Pacific 
+Beach. The San Diego City Council approved a one-year ban of all alcohol at city beaches on Nov. 5.
+
+Local officials approve 
+one-year ban on alcohol 
+at all beaches. Ordinance 
+will take effect after 
+second vote next week.
+
+JACOBS SCHOOL 
+ROLLS OUT 
+
+WORLD-RECORD 
+SILICON CHIP
+
+down four towers and two stations 
+to assist in stopping the fray. Mace, 
+pepper balls and officers in riot gear 
+finally quelled the unruly crowd.
+
+Faulconer called the event “an 
+embarrassment and a disgrace,” and 
+said he never wanted to see such 
+behavior again. He has since been 
+pushing to prohibit drinking at local 
+beaches.
+
+Councilman Tony Young, one of 
+the two councilmembers who voted 
+against the ban, called the move “dra-
+conian” and an “overreaction” to one 
+specific incident.
+
+“Most people want to come to the 
+beach, have a good time, have a beer 
+or not have a beer and not commit the 
+terrible acts that opponents are trying 
+to portray,” Young said.
+
+He cited the 350,000 people and 
+limited law enforcement present on 
+Labor Day as other major factors — 
+along with alcohol — that contributed 
+to the scuffle.
+
+Though similar measures are in 
+place up and down the Southern 
+California coast, La Jolla is currently 
+the only area in San Diego County 
+where alcohol consumption is illegal 
+24 hours a day.
+
+Mayor Jerry Sanders took mid-
+dle ground on the issue, proposing 
+that alcohol be barred only on three 
+summer holidays: Memorial Day, the 
+Fourth of July and Labor Day, when 
+
+See BEACHES, page 7
+
+By Christina Homer
+Staff Writer
+
+Scientists at UCSD’s Jacobs 
+School of Engineering have devel-
+oped a first-of-its-kind computer 
+chip that acts as a powerful minia-
+ture electronic version of a satellite 
+dish, a discovery that could dramat-
+ically improve military applications 
+such as radar and missile tracking.
+
+The device, called a phased 
+array, is a broadcasting or receiv-
+ing mechanism that contains many 
+small antennas. The signals sent to 
+each of these antennas are delayed, 
+and their phase is shifted in a specif-
+ic pattern that electronically simu-
+lates the signal delay of a physically 
+curved satellite dish. 
+
+Phased arrays have an advantage 
+over normal antennas because they 
+can selectively receive or broad-
+cast signals in one particular direc-
+tion. This decreases interference 
+from other signals and increases the 
+speed of data exchange. 
+
+The military, which uses phased 
+arrays in radar systems, depends 
+heavily on the speed at which a 
+phased array can electronically 
+“swivel.” While tracking a missile, 
+for example, there may be no time 
+to manually turn an antenna.
+
+The chip represents a revolution 
+in phased array technology with 
+its unprecedented complexity and 
+small size.
+
+Until now, phased arrays had 
+mostly been used for military appli-
+cations because their size — which 
+can be as large as a highway bill-
+board — and million-dollar pricetag 
+made them impractical for commer-
+cial purposes.
+
+Working for about a year, two 
+graduate students in the electrical 
+and computer engineering depart-
+ment, Jason May and Kwang-Jin 
+Koh, fit an entire phased array onto 
+a single chip. 
+
+Koh, who researches phased 
+arrays for his doctoral thesis, was 
+drawn to work with phased arrays 
+because of the increasing demand 
+for commercial applications, which 
+was hampered only by the tradition 
+of constructing them with many 
+separate chips made from high-cost  
+semiconductors.
+
+May said that fitting the phased 
+array onto one chip makes the 
+
+See CHIP, page 7 See LOANS, page 3
+
+Education Dept. Orders Expansion of College Lender Choices
+students and parents understand that repayment 
+benefits offered by a “preferred lender” may not 
+remain intact if the loan is later sold to a different 
+lender.
+
+Cuomo also addressed other problematic rela-
+tionships between academic institutions and lend-
+ing companies, including financial agreements 
+between schools and lenders such as revenue shar-
+ing, referral fees or reciprocal benefits that were 
+kept secret from potential borrowers.
+
+The UCSD Financial Aid Office offers a list 
+with eight suggestions for loan companies. Though 
+this type of list has been troublesome in the past, 
+UCSD Financial Aid Director Vincent De Anda 
+said he believes that the variety of lenders on the 
+university’s list keeps options open for students 
+seeking loans.
+
+“We have done our best to assemble a list of 
+lenders that offer stability and the best terms 
+and service in the industry,” he said in an e-mail. 
+“Additionally, the list contains a mixture of dif-
+ferent kind of lenders, so that our students have 
+a choice.”
+
+The lenders recommended by UCSD are 
+divided into two categories: “tier one” and “tier 
+two.” The first, labeled the “preferred lender list,” 
+contains three recommended lenders, while the 
+
+Nov. 13
+H 77 L 56
+
+Nov. 14
+ H 76 L 54
+
+Nov. 15
+H 72 L 53
+
+Nov. 16
+H 67 L 53
+
+LOCAL NEWS
+
+Campus engineers 
+develop breakthrough 
+computer chip with 
+revolutionary potential 
+for military technology.
+
+REGENTS SLAM THE DOOR ON STUDENTS ▶ OPINION, PAGE 4
+
+SPORTS 
+
+Overtime Heartbreak
+
+Check That Keg
+· City Attorney Michael Aguirre 
+proposed a one-year trial ban, 
+which passed 5-2.
+
+· Councilman Kevin Faulconer 
+was unable to muster support for 
+permanent ban.
+
+FOCUS
+
+Broken Links Currents ................................2 Lights and Sirens .................3 
+Editorial Cartoon ..................5
+Column .................................8
+Classifieds ..........................12  
+Crossword ..........................12 
+
+SOURCE: SAN DIEGO CITY COUNCIL
+
+www.ucsdguardian.org The Student Voice Since 1967
+
+U N I V E R S I T Y  O F  C A L I F O R N I A ,  S A N  D I E G O
+
+WEATHERINSIDE
+
+UCSD community members discuss the architectural 
+missteps that built today’s disconnected campus.
+page 8 
+
+Women’s soccer season ends after a disappointing  
+playoff loss to rival Cal State Dominguez Hills. 
+page 16 
+
+Tuesday, November 13, 2007
+
+
+
+2 NEWS THE UCSD GUARDIAN TUESDAY, NOVEMBER 13, 2007
+
+CURRENTS
+
+Catch up on the latest news, 
+without those dirty hands.
+
+All Available on 
+Guardian Web!
+
+ Classifieds 
+
+ Comment on stories 
+
+www.ucsdguardian.org
+
+GUARDIAN ONLINE
+
+NEWS
+
+OPINION 
+
+FOCUS
+
+HIATUS
+
+SPORTS
+
+Boss ditties: Hear 
+samples of your 
+favorite tunes.
+
+Local directions: Map 
+out the driving 
+
+routes to Site Seen.
+
+Schedules: Find the 
+best games for Fall 
+
+Quarter.
+
+UCSD Donors Awarded 
+for Philanthropy
+
+Jerome Katzin, San Diego civic 
+leader and former Qualcomm direc-
+tor, his wife Miriam and Amylin 
+Pharmaceuticals will be hon-
+ored by the San Diego Chapter 
+of the Association of Fundraising 
+Professionals on Nov. 14 for their 
+contributions in support of UCSD’s 
+various campus initiatives.  
+
+In celebration of National 
+Philanthropy Day, the Katzins 
+will be presented with the 2007 
+Outstanding Philanthropist Award 
+at the Manchester Grand Hyatt. 
+
+“Being involved with UCSD 
+challenges my intellectual curios-
+ity and keeps me occupied, and I 
+like being with an organization that 
+I regard as worthwhile,” Jerome 
+Katzin said in a press release. “It 
+fulfills my life.”
+
+Amylin Pharmaceuticals, a com-
+pany renowned for its continuous 
+commitment to strengthening the 
+community through participation 
+and leadership in educational, 
+civic and cultural initiatives, will 
+receive AFP’s 2007 Outstanding 
+Philanthropic Corporation award.
+
+Both Amylin Pharmaceuticals 
+and the Katzins have donated 
+numerous gifts, ranging from stu-
+dent scholarships and fellowships 
+to endowed faculty chairs and 
+academic programming. They are 
+ranked among UCSD’s most loyal 
+friends and benefactors.  
+
+“By supporting a wide range 
+of science education initiatives at 
+UCSD, Amylin [Pharmaceuticals] 
+is investing in the cultivation of 
+the next round of human capital, 
+a talent pool which is essential 
+
+The UCSD Guardian is published Mondays and Thursdays 
+during the academic year by UCSD students and for the 
+UCSD community. Reproduction of this newspaper in 
+any form, whether in whole or in part, without permission 
+is strictly prohibited. © 2007, all rights reserved. The 
+UCSD Guardian is not responsible for the return of unso-
+licited manuscripts or art. The views expressed herein 
+do not necessarily represent the opinions of the UCSD 
+Guardian, the University of California or Associated 
+Students. The UCSD Guardian is funded solely by adver-
+tising. Oops, my bad.
+
+General Editorial: 858-534-6580 
+editor@ucsdguardian.org
+
+News: 858-534-5226, news1@ucsdguardian.org
+Focus: 858-534-5226, features@ucsdguardian.org
+Hiatus: 858-534-6583, hiatus@ucsdguardian.org 
+
+Opinion: 858-534-6582, opinion@ucsdguardian.org
+Sports: 858-534-6582, sports@ucsdguardian.org
+Photo: 858-534-6582, photo@ucsdguardian.org
+
+Advertising: 858-534-3466
+ads@ucsdguardian.org
+
+Fax: 858-534-7691
+
+Page Layout
+Emily Ku, Michelle Lee, Natasha Naraghi, Kent Ngo, 
+
+Simone Wilson, Michael Wu, Kathleen Yip
+Copy Readers
+
+Ashley Erickson, Najwa Mayer, Nicole Teixeira, 
+Anita Vergis, Teresa Wu
+
+Charles Nguyen
+
+Matthew McArdle 
+Hadley Mendoza
+
+Serena Renner
+
+Eric Kim 
+Nathan Miklos
+
+Matthew L’Heureux
+
+Kimberly Cheng
+Sonia Minden
+
+Natasha Naraghi
+
+Marissa Blunschi
+
+Rael Enteen
+
+Danai Leininger
+
+Alyssa Bereznak
+
+Simone Wilson
+
+Jia Gu
+Christopher Mertan
+
+Will Parson
+
+Erik Jepsen
+
+Richard Choi
+
+Wendy Shieu
+
+Christina Aushana
+
+Editor in Chief
+
+Managing Editors
+
+Copy Editors
+
+News Editor
+
+Associate News Editors
+ 
+
+Opinion Editor
+
+Associate Opinion Editor
+
+Sports Editor
+
+Associate Sports Editor
+
+Focus Editor
+
+Hiatus Editor
+
+Associate Hiatus Editors
+
+Photo Editor
+
+Associate Photo Editor
+
+Design Editor
+
+Associate Design Editor
+
+Art Editor
+
+UC SDGUA RD I AN . O RG
+
+The UCSD Guardian
+9500 Gilman Drive, 0316
+La Jolla, CA 92093-0316
+
+Anna Gandolfi
+
+Michael Foulks
+
+Mike Martinez
+
+General Manager
+
+Advertising Manager
+
+Advertising Art Director
+
+Student Advertising Manager
+Tiffany Hsu
+
+Advertising Representative
+Julia Peterson
+
+Business Assistant
+Heather Cohen
+
+Advertisement Design and Layout 
+Nick Alesi, Jennifer Chan, George Chen
+
+Distributors
+Cimron Dhugga, Danai Leininger, 
+
+Nick Raushenbush
+
+NEKO  BY CHRISTINA AUSHANA
+
+to the future of the life science 
+and high tech industries,” Amylin 
+Pharmaceuticals spokeswoman 
+Julia Brown said in a press release.  
+
+ 
+
+Tau Beta Pi Wins Most 
+Outstanding Chapter
+
+UCSD’s engineering honor soci-
+ety, Tau Beta Pi, was recently pre-
+sented with the Robert Clayton 
+Matthews Most Outstanding 
+Chapter Award for its many service 
+activities and social events.
+
+Tau Beta Pi continuously strives 
+to bring students together and 
+encourages interactions with engi-
+neering professors through the 
+coordination of both on- and off-
+campus events. The award is given 
+to one Tau Beta Pi chapter out of 
+232 chapters across the nation, 
+based on the activities that the 
+chapters host.
+
+The UCSD chapter, open to the 
+top eighth of juniors and top fifth 
+of seniors at the Jacobs School of 
+Engineering, initiated 94 new mem-
+bers and held about 70 events last 
+year, many of which were open to 
+the entire campus. 
+
+Its various activities included 
+teaching engineering and science 
+fundamentals to 75 fifth-grade stu-
+dents, tutoring fellow UCSD under-
+graduates, cleaning local beaches, 
+cooking a Thanksgiving dinner for a 
+needy local family and helping with 
+trail restoration.  
+
+“We were selected not only 
+because we hold many events 
+throughout the year but also 
+because of the quality of our 
+events,” Nadia Cheng, last year’s  
+Tau Beta Pi president, said in a 
+press release.  
+
+Web poll: Would changing “a-g” 
+requirements boost competition 
+
+among UC applicants?
+
+
+
+TUESDAY, NOVEMBER 13, 2007 THE UCSD GUARDIAN NEWS  3
+
+LIGHTS & SIRENS
+Friday, Nov. 2
+7:55 a.m.: Domestic violence 
+▶ A white female was seen jumping 
+out of a moving vehicle when a white 
+male driver got out of the car to try and 
+push her back inside. The female was 
+last seen running toward Center Hall. 
+12:44 p.m.: Citizen contact
+▶ A staff member at the Center for 
+Molecular Genetics reported that his 
+coworker had been repeatedly harassed 
+by animal rights activists and feared 
+they would return to look for him.
+
+Saturday, Nov. 3
+8:30 a.m.: Suspicious person
+▶ A white male in his 30s wearing 
+glasses and a tan corduroy suit was 
+seen taking components out of a call-
+box by the Sixth College Apartments.
+9:04 p.m.: Medical aid
+▶ A male on Lot 408 reported hives 
+breaking out on his hands and face.
+11:33 p.m.: Noise disturbance
+▶ People making loud noises and pos-
+sibly “building something” were heard 
+from a Miramar Street apartment for 
+three nights in a row. 
+
+Sunday, Nov. 4
+10:35 p.m.: Suspicious person
+▶ A 5-foot-2-inch Latina female in 
+her 40s was reported as looking into 
+Galbraith Hall windows.
+
+Monday, Nov. 5
+5:02 a.m.: Medical aid
+▶ A 21-year-old female at Cuzco Hall 
+required medical assistance for severe 
+abdominal cramps.
+8:59 a.m.: Report of vandalism
+▶ A “big anarchy symbol” was report-
+ed as painted in the middle of the free 
+speech zone at Price Center. 
+2:44 p.m.: Missing person
+▶ An 86-year-old white female carry-
+ing a large flowered purse was report-
+ed as missing. The woman, whose 
+memory is “going,” had “been missing 
+before.”
+8:15 p.m.: Welfare check
+▶ An Asian female on the sixth floor of 
+
+Gilman Parking Structure was report-
+ed as looking very depressed.
+
+Tuesday, Nov. 6
+1:31 p.m.: Lewd act in public
+▶ Two men in the fourth-floor bath-
+room of Mayer Hall, one taller than 
+the other, were seen performing oral 
+copulation. 
+8:07 p.m.: Suspicious person
+▶ An Asian male in his 40s was seen 
+going through trash on Miramar 
+Street. Unable to locate.
+
+Wednesday, Nov. 7
+11:54 a.m.: Medical aid
+▶ A 22-year-old male at York Hall, sus-
+pected of taking psychiatric medica-
+tion, was found having trouble breath-
+ing and speaking incoherently. 
+7:15 p.m.: Injury
+▶ A male student jumped up and hit 
+his head on a door jam at the Revelle 
+College residence halls, but remained 
+conscious and breathing.
+
+Thursday, Nov. 8
+9:15 a.m.: Suspicious person
+▶ Two people were seen in trees on 
+Expedition Way. Arrest felony.
+11:05 a.m.: Medical aid
+▶ A 40-year-old male was having hot 
+flashes at the Matthews Apartments 
+cul-de-sac.
+2:15 p.m.: General disturbance
+▶ A white, middle-aged male tran-
+sient wearing a blue sweatshirt was 
+found urinating in the bushes and 
+“yelling at himself.” Field interview 
+administered.
+3:07 p.m.: Domestic violence
+▶ A 24-year-old Latino male wearing a 
+plaid shirt was reported as pushing his 
+wife at their home on Regents Road.
+5:05 p.m.: Citizen contact
+▶ A student reported that his room-
+mate had been using marijuana in 
+their shared living space, and was 
+afraid of getting in trouble. 
+
+— Compiled by Sonia Minden
+Associate News Editor
+
+WEEKLY 
+ENTERTAINMENT
+
+BLOCKBUSTER FILMS
+
+TUESDAY,
+NOV. 13
+
+THURSDAY, NOV.  15 &
+SATURDAY, NOV.  17
+
+AT PRICE CENTER THEATRE
+
+FALL 2007
+
+E-LIST
+
+WEEK 7
+
+PRICE CENTER THEATRE
+6 & 9pm • $3
+
+SICKO
+
+SIMPSONS
+PRICE CENTER THEATRE
+6 & 9pm • $3
+
+THE
+
+NOVEMBER 11 - NOVEMBER 17  
+for more info call 858.822.2068 or visit universitycenters.ucsd.edu
+
+music•food•f
+un
+
+WEDNESDAY, NOV. 14
+GUEST PROFESSOR
+
+FRED
+PERK’S, UCSD BOOKSTORE
+6pm • FREE • SIGN UPS AT 5:30pm
+
+FRIDAY, NOV. 16
+F12 PERFORMANCE BY:
+
+THE DJ’s &
+VINYLPHILES CLUB
+
+CHLOE DAY
+PORTERS PUB PATIO
+12pm •  FREE 
+
+ROUND TABLE PIZZA PATIO
+1:30pm-4:30pm •  FREE 
+
+concert series
+
+ LONGWORTH
+
+PUB AFTER DARK PERFORMANCE BY:
+
+DAPHNEY
+LOVES DERBY
+PORTERS PUB, STUDENT CENTER
+DOOR: 7:30pm • SHOW: 8pm • FREE
+
+W/ 5 STAR FALLOUT  & JOSH DAMIGO
+
+from some of these companies they 
+know nothing about.”
+
+Though UCSD compiles lists 
+detailing lenders that it feels will 
+provide students with proper loan 
+assistance, the Financial Aid Office 
+does emphasize that students can 
+choose any loan company they 
+desire. Presently, UCSD conducts 
+business with more than 30 different 
+lenders.
+
+The office distributes a letter 
+authored by De Anda that explains 
+the process behind constructing 
+UCSD’s preferred lender lists, and 
+informs students that they have every 
+right to choose any lender whether 
+or not the lender appears on UCSD’s 
+preferred lists.
+
+This process helps to avoid a 
+problem Cuomo listed as evident in 
+the student loan industry — financial 
+kickbacks. 
+
+“Lenders pay financial kickbacks 
+to schools based on a percentage 
+of the loans that are directed to the 
+lenders,” Cuomo said. “The kickbacks 
+are designed to be larger if a school 
+directs more student loans to the 
+lender. And the kickbacks are even 
+greater if the schools make the lender 
+their ‘exclusive’ preferred lender.”
+
+De Anda said that UCSD has no 
+financial contracts with any lend-
+ers on the preferred list, receives no 
+“kickbacks” and does not share any of 
+the profits from student loans. 
+
+The new regulations requires that 
+colleges ensure that three unaffiliated 
+companies are on their lender list, 
+and disclose to students the process 
+by which these specific loan compa-
+nies were chosen. 
+
+Readers can contact Sarah de 
+Crescenzo at sdecresc@ucsd.edu. 
+
+Campus Has 
+No Financial 
+
+Ties to Lenders
+▶ LOANS, from page 1
+
+
+
+TUESDAY, NOVEMBER 13, 2007 THE UCSD GUARDIAN NEWS  7
+
+alcohol is destroying the coastal town’s 
+family atmosphere.
+
+The ban will go into effect one 
+month after a second council vote 
+slated for next week. But considering 
+the past, the council’s word may not 
+be final.
+
+In 1991, the council approved a 
+one-year trial ban that was revoked 
+
+when opponents gathered ample sig-
+natures for a referendum. The city 
+settled with  proposal that restricted 
+drinking between 8 p.m. and noon.
+
+In 2002, the council attempted to 
+impose an 18-month, around-the-
+clock ban from South Mission Jetty 
+to Felspar Street in Pacific Beach. 
+Signatures were again collected from 
+
+JOIN UCAB
+
+determinepo
+licies
+
+governingthe
+University
+
+Centerssuch
+ashoursof
+
+operation?
+
+determine how
+spaceisallocatedin
+thePriceCenter
+&StudentCenter?
+
+TheUNIVERSITY CENTERSADVISORYBOARD
+is accepting applications for two
+Member-at-Large positions.
+
+For questions ormore info
+EMAIL laguila@ucsd.edu
+
+APPLICATIONDEADLINE ISAPPLICATIONDEADLINE IS
+WEDNESDAY, NOV. 21 at 4pm
+
+?? ????
+???in?in
+
+? ??
+
+??
+??
+
+?
+
+DO YOUWANTTO...
+
+determinewh
+atservices
+
+shouldbeprov
+idedinthebuil
+
+dings?
+
+http://ucab.ucsd.edu
+APPLYONLINEAT
+
+howto play:
+A fast paced question & answer game that tests your knowledge...
+
+express knowledgeexpress knowledgeexpress knowledgeexpress knowledge
+
+college bowl ’07-’08
+
+’07-’08 COLLEGE TOURNAMENT SCHEDULE
+F A L L  Q U A R T E R :
+
+W I N T E R  Q U A R T E R :
+
+Go get 3 more really smart friends.
+Contact your college CSA and sign up.
+Compete in your college tournament.
+
+whyplay:
+The top 2 teams from the college tournaments advance to compete
+in the All Campus Tournament at the Price Center. The top 4
+scorers from the All Campus Tournament advance to the regional
+competition representing UCSD at CSU Fresno in February!
+
+revelle:  wed, 11/28 • revelle conference room C • 7pm
+sixth:  mon, 12/3 • the lodge • 6pm
+
+playcollegeplaycollegeplay bowl!
+For more info, call 858.822.2068 or contact your college CSA
+
+warren:  mon, 1/14 • student activity center • 6pm
+tmc:  wed, 1/16 • ocean view lounge • 5pm
+muir:  wed, 1/16 • sierra summit • 6pm
+erc:  wed, 1/23 • asante room • 6pm
+
+ALL CAMPUS TOURNAMENT
+WED, 1/30 • PRICE CENTER THEATRE • 6pm
+
+heavy drinking and disorderly con-
+duct are most excessive. However, 
+Sanders said that a yearlong ban is too 
+far-reaching.
+
+Fifty-year San Diego County res-
+ident Joe Rogers pointed to small 
+groups of college-age people — gener-
+ally from out of town — as the culprits 
+who spoil the fun for all involved. He 
+mentioned that the traditional Pacific 
+Beach block party was permanently 
+shut down due to accounts of disor-
+derly conduct and public intoxica-
+tion.
+
+“The city council has their heads 
+up their butts,” Rogers said. “They’ve 
+eliminated everything because of a 
+few people and that’s not right. Zero 
+tolerance is never right.”
+
+Young and other opponents of 
+the ban worry that such a rule will 
+infringe on the drinking rights of 
+residents and remove the liberties that 
+make San Diego’s beaches unique.
+
+“People who for years and years 
+have enjoyed the beach and have 
+drank alcohol responsibly won’t be 
+able to do it anymore,” Young said. 
+“Some of those privileges will be 
+taken away although they have been 
+responsible in their actions.”
+
+Other residents have praised the 
+motion for addressing concerns that 
+
+device less expensive and more reli-
+able, expanding the potential mili-
+tary and commercial applications.
+
+According to Gabriel Rebeiz, the 
+UCSD electrical engineering pro-
+fessor who proposed and oversaw 
+the project, the chip breaks many 
+world records in its intricacy and 
+compact size. 
+
+“No one has ever been able 
+to use silicon … to put 16 chan-
+nels at this frequency range, with 
+
+excellent amplitude and phase bal-
+ance between the channels, and 
+with phase control for each chan-
+nel,”  Rebeiz said in an e-mail. “No 
+one. Not even Raytheon, Boeing or 
+Lockheed. No one. This is a first in 
+every aspect.”
+
+The team first created a chip that 
+could receive signals, and has since 
+completed a transmitter.
+
+Some possible commercial uses 
+of the chip include being able to 
+beam a movie wirelessly between 
+
+certain projectors and DVD players, 
+or using it as a small antenna on 
+car roofs that would allow access to 
+over 500 television channels. 
+
+Rebeiz said he has received posi-
+tive feedback regarding the chip’s 
+commercial uses.
+
+“Heaven help us, but everyone 
+says that this is a great commercial 
+application,” he said.
+
+Readers can contact Christina Homer 
+at chomer@ucsd.edu.
+
+“I don’t think it will solve the problems. It just means that people are going to be more 
+sneaky about it.”
+
+— Sheila Doshi, senior, 
+Sixth College 
+
+Local Group Plans Campaign to Appeal Ban
+▶ BEACHES, from page 1
+
+Chip Has Many Projected Commercial Applications
+▶ CHIP, from page 1
+
+San Diego residents, beer distributors 
+and liquor stores, forcing the measure 
+onto the ballot, where it was defeated 
+by a margin of 3,000 votes.
+
+Rob Rynearson of Pacific Beach, 
+a spokesman of FreePB.org, told the 
+San Diego Union-Tribune last week 
+that members of his group are prepar-
+ing to mount a similar referendum.
+
+Police Chief William Landsowne 
+said that prohibiting alcohol on 
+beaches would simply push the prob-
+lem inland to coastal neighborhoods, 
+bars or city streets, which may be 
+harder to regulate than beaches.
+
+Sixth College senior and Pacific 
+Beach resident Sheila Doshi said 
+the city should outlaw kegs or other 
+devices that lead to binge drinking, 
+but doubted that a ban — either per-
+manent nor temporary — would stop 
+people from drinking.
+
+“I don’t think it will solve the prob-
+lems,” Doshi said. “It just means that 
+people are going to be more sneaky 
+about it.”
+
+The council will vote next week 
+after hearing public input. The mea-
+sure does not currently require the 
+approval of San Diego residents for 
+passage.
+
+Readers can contact Serena Renner at 
+srenner@ucsd.edu.
+
+
+
+The views expressed herein do not necessarily represent the opinions of the UCSD Guardian, the University of California or Associated Students.
+
+TUESDAY, NOVEMBER 13, 2007
+
+4
+CONTACT THE EDITOR
+
+Natasha Naraghi 
+opinion@ucsdguardian.org
+
+Get Real, 
+Scripted TV 
+
+is So Last 
+Season 
+
+If you ask most people about  reality television, chances are  they hate it. Some may go so 
+far as to rant about how reality TV 
+is ruining our country, poisoning 
+our minds and destroying American 
+culture and entertainment as we 
+know it.  But the truth is, deep 
+
+down, we all indulge in reality TV. 
+And many of us have trouble imag-
+ining our lives without its simple 
+pleasures. 
+
+So what exactly is it that makes 
+reality TV so enjoyably addictive? 
+From top chefs to top models, real-
+ity TV offers something wonderful 
+for all of us no matter how diverse 
+our interests may be. Here are just a 
+few of the reasons why we love it so 
+very much:
+
+1. Reality TV introduces us to 
+wildly ridiculous and hilarious char-
+acters that we would probably never 
+associate with in real life. 
+
+Sure, scripted television shows 
+are full of funny, quirky, interesting 
+people, but what makes reality TV 
+stars so much more lovably humor-
+ous is the fact that these people 
+actually exist. In life, most of us 
+probably wouldn’t have anything to 
+do with superficial, glamorous teen 
+beauty queens who would rather die 
+by eating disorder than give up on 
+their dreams of becoming models. 
+
+We likely don’t have many friends 
+who are desperate enough to humil-
+iate themselves on trashy MTV dat-
+ing shows with their best friends 
+or — better yet — their parents. 
+And sadly, most of us aren’t even 
+blessed with the privilege of asso-
+ciating with ridiculously spoiled, 
+overly dramatic rich kids, who, as 
+we all know, have much harder lives 
+
+UC’s Closed-Door Policy Muffles Student Voices
+
+By Marissa Blunschi
+Associate Opinion Editor
+
+STUDENT CENTERS AND 
+HEALTH — As the popularity of 
+medical school continues to grow, 
+the UCSD School of Medicine, fol-
+lowing suit with similar institutions 
+across the country, is beginning to 
+substantially expand its class sizes in 
+accordance with requests from the 
+Association of American Medical 
+Colleges. 
+
+But this isn’t necessarily good 
+news for UCSD’s flock of eager pre-
+med undergraduates. 
+
+Although UCSD’s medical-
+school class sizes will be expanding 
+up to 30 percent by the year 2015, 
+
+applicants should not feel encour-
+aged just yet. Med-school applicants’ 
+chances of admission may be signif-
+icantly worse in the coming years, 
+despite the expansion, because of 
+an increasingly competitive medical 
+school applicant pool — meaning 
+bad news for applicants, but great 
+news for the medical schools to 
+which they are applying. 
+
+This year, the School of Medicine 
+got a head start on its growth plan 
+by increasing its number of graduate 
+students by 10 percent — accepting 
+a whopping 12 additional applicants 
+for a total of 134 enrolled students 
+out of over 5,000 highly qualified 
+candidates. 
+
+This very slight increase in add-
+mission does not make much of 
+a difference, considering that the 
+number of applicants to the medi-
+cal school has increased 5 percent 
+each of the past five years — mak-
+ing enrollment at UCSD continually 
+more selective.
+
+This acceptance selectivity is not 
+unique to UCSD: With nationwide 
+
+trends in med-school applications 
+soaring, the mere 2.3-percent rise in 
+enrollment nationwide cannot keep 
+up with the 8.2-percent increase 
+in eager applicants throughout the 
+country. 
+
+So what does this mean for the 
+flood of biology majors, Geisel 
+library frequenters and Scripps 
+Memorial Hospital volunteers who 
+dream of one day becoming sur-
+geons, anesthesiologists and pedia-
+
+tricians? If one thing is for sure, it’s 
+that achieving those dreams is going 
+to be much more difficult if current 
+applicant and enrollment trends 
+continue, particularly because 
+both the quantity and quality of 
+applicants is increasing drastically. 
+According to AAMC, this year’s 
+medical school applicants have the 
+highest undergraduate grade point 
+averages and medical college admis-
+sion test scores on record. 
+
+The negative repercussions are 
+obvious for applicants: Since the 
+rate of qualified applicants is clearly 
+overwhelming enrollment rates for 
+medical schools, many hardworking 
+students will go to great lengths by 
+cramming for MCATs, acing their 
+courses, volunteering and research-
+ing, but still won’t be guaranteed a 
+spot at the graduate school of their 
+choice. 
+
+Activities and recommenda-
+tions that were once used to one-up 
+other applicants are now practically 
+requirements. Community service 
+and straight As are expectations, not 
+
+recommendations, for most presti-
+gious medical schools. 
+
+In order to keep up, undergradu-
+ates are expected to work even hard-
+er if they wish to remain a cut above 
+the competition. The activities these 
+schools recommend for students to 
+become more competitive seem too 
+overwhelming to accomplish in a 
+24-hour day. 
+
+Fortunately, there are some win-
+ners in these unfortunate circum-
+stances: Stringent selectivity has 
+definite positive repercussions for 
+those picky medical schools, at least. 
+Since undergraduates are becoming 
+increasingly competitive, applicants 
+who do get into medical school are 
+often well-prepared, having volun-
+teered at hospitals or worked hands-
+on in research labs.  
+
+Ideally, this should result in a 
+generation of highly committed and 
+highly skilled future physicians. 
+Selectivity  will weed out students 
+who may not be fully committed, 
+
+“Although medical-school class sizes at UCSD will be expanding  ... 
+applicants should not 
+
+feel encouraged.”
+
+Inflated Classes Won’t Ebb Competition for Med School Applicants
+With admission still as 
+cutthroat as ever, future 
+medical school applicants 
+should not feel comforted 
+by rising class sizes.
+
+See SATISFACTION, page 5
+
+Marissa Blunschi 
+mblunsch@ucsd.edu
+
+Satisfaction
+Guaranteed
+
+See MEDICAL, page 5
+
+By Natasha Naraghi
+Opinion Editor
+
+UNIVERSITY OF CALIFORNIA — 
+Amid an ongoing battle to polish its 
+tarnished reputation, the University 
+of California recently absorbed  
+another blow from angered students 
+who have raised concerns over the 
+school’s policy for naming the next 
+UC president. 
+
+This time, the UC blunder empha-
+sized the severe need for heightened 
+student interaction to prevent a trend 
+of careless oversight.
+
+According to the UC Student 
+Association, the regents have violated 
+guidelines set out in their “Policy on 
+Appointment of the President of the 
+University” by limiting the Student 
+Advisory Committee’s participation 
+to one meeting with the final presi-
+dential candidate. Despite the UCSA’s 
+honorable intentions to amplify stu-
+dent voices, the UC policy offers little 
+support for their argument.
+
+The policy stipulates that the 
+Board of Regents is only obligated 
+to “present the nominee or nominees 
+to members of the [student advi-
+sory committee] at the conclusion 
+of the search.” Nowhere does 
+it promise multiple meetings 
+or handsome student input 
+in determining UC President 
+Robert C. Dynes’ successor, 
+making the student claims 
+somewhat unfounded.
+
+Even though the UC Office 
+of the President’s minimal  stu-
+dent-involvement stance may 
+be backed by these inhospi-
+table policies, it leaves much 
+to be desired from university 
+officials. 
+
+The regents would actually 
+do well to incorporate addi-
+tional student participation, 
+given their dismal track record 
+for making decisions harmful to 
+the student experience. After all, 
+their chronic closed-door policy 
+has led to some of the system’s 
+most embarrassing moments 
+— let’s not forget 2005’s pay scan-
+dals. 
+
+It was without the students’ 
+watchful eye that regents care-
+lessly approved thousands of 
+dollars in above-base-pay for 
+the undeserving high-up univer-
+sity officials; soon-to-be-replaced 
+President Dynes was among that 
+wily rat pack. 
+
+Many of the current regents aided 
+in Dynes’ selection when former UC 
+President Richard Atkinson retired 
+in 2003. And though Dynes entered  
+the job with lofty aspirations and 
+promises for positive change, he will 
+no doubt leave it in a state of disar-
+ray when he concludes his term next 
+June. 
+
+While some of the entropy can be 
+attributed solely to Dynes, much of it 
+was also aided by an equally under-
+performing Board of Regents that 
+failed to keep its disobedient leader 
+in check. 
+
+Instead, regents watched quietly 
+from the wings as Dynes often made 
+a mockery of one of the nation’s 
+most esteemed public university 
+systems. 
+
+Even with the bane of the system 
+leaving, there is little confidence to 
+be had that the regents will steer us 
+back toward the light.  
+
+In fact, in the wake of such blus-
+tering mismanagement by UCOP 
+and the regents, it’s absurd to think 
+that now, only two years after the 
+
+scandals 
+
+— as they still fumble to pick the piec-
+es of their infamous fall from grace 
+— that they’re capable of selecting 
+a reasonable successor. Between its 
+dwindling credibility and incurably 
+poor judgment, the Board of Regents 
+is doomed if it is to select the presiden-
+tial nominee without enough student 
+advocates to keep it in line.
+
+And so, despite any policy that 
+might say otherwise, the regents 
+should for once heed the advice of a 
+seasoned student body that has seen 
+the chaos spawned from an incom-
+petent administration. With under-
+graduate and graduate education fees 
+rising, students can no longer afford 
+to finance bureaucratic inefficien-
+cies like the ones caused by UCOP, 
+which have even led to a $7 
+
+million study into the department’s 
+disorganized activities. 
+
+As Dynes’ reign quickly dies, 
+the time for change is now — that 
+is, if the regents ever hope to sal-
+vage their tattered reputation. For 
+once, students deserve the voice that 
+they have been so unjustly deprived 
+by their overbearing, uninspiring 
+administration. 
+
+Readers can contact Natasha Naraghi 
+at nnaraghi@ucsd.edu.
+
+Web poll | Do you support the A.S. Council subsidizing 
+the Challenge Course?
+
+I don’t know.
+
+No.
+
+Yes.
+
+57.5%
+
+15%
+
+27.5%
+
+Vote on the new question at www.ucsdguardian.org.
+
+CHRISTINA AUSHANA/GUARDIAN
+
+
+
+TUESDAY, NOVEMBER 13, 2007 THE UCSD GUARDIAN OPINION 5
+
+than the rest of us. 
+Fortunately, with reality TV, 
+
+these characters become our best 
+friends and our worst enemies. We 
+can get as involved in their insecuri-
+ties, competitiveness and drama as 
+we’d like without actually having to 
+deal with them 24 hours a day. This 
+brings me to my next reason for lov-
+ing reality TV. 
+
+2. We’re really bored with our 
+own lives. 
+
+Let’s face it: we 
+all love to pretend 
+that our lives are 
+incredibly excit-
+ing, but some-
+times, our day-
+to-day college 
+experiences seem 
+to lack the flavor 
+that only reality 
+TV can provide. 
+With our favor-
+ite programs, we 
+can live vicari-
+ously through the 
+exciting lives of 
+affluent Beverly 
+Hills residents or travel the world in 
+search of clues and fabulous prizes. 
+I guess that beats writing papers, 
+matching socks or rearranging our 
+rock collections to avoid studying 
+for midterms. 
+
+3. We love the talent (or lack-
+there-of). 
+
+Watching average people sing, 
+dance, rap, tell jokes, cook or gener-
+ally make fools out of themselves is 
+definitely entertaining. When con-
+testants do have talent, these shows 
+can be intriguing, and even inspir-
+ing, to the average Joes that wish 
+to some day experience those 15 
+minutes of fame. When contestants 
+frankly have no talent, it’s equally 
+enjoyable to laugh at how embar-
+
+rassingly pitiful they are, and then 
+make ourselves feel better about our 
+own lack of talent.  
+
+4. On some level, we can all relate 
+to people on reality TV. 
+
+Even if we don’t demean our-
+selves by looking for love in uncon-
+ventional places like TV dating 
+shows, we’ve all probably felt like 
+we would do anything for love. And 
+maybe we don’t live fabulous lives in 
+ritzy southern California mansions, 
+but even the wealthy reality TV stars 
+
+have issues with 
+their parents 
+and drama with 
+their significant 
+other or best 
+friends. 
+
+And seri-
+ously, who of 
+us out there 
+doesn’t have 
+goals or dreams 
+that we haven’t 
+worked hard to 
+achieve? Maybe 
+not everyone 
+wants to become 
+America’s Next 
+
+Top Model, but perhaps there’s a 
+little bit of that Top Model ambition 
+in each one of us. 
+
+No matter what draws us into 
+the guilty pleasure of reality TV, 
+one thing is for sure: It’s not going 
+anywhere anytime soon. 
+
+So for all of those who haven’t 
+hopped on the band wagon yet: 
+there’s really no reason to fight the 
+urge any longer — go ahead and 
+buy the latest season of American 
+Idol and prepare a cozy spot on your 
+couch, because chances are, you’ll 
+be spending some quality time with 
+your remote control as long as we 
+have reality TV to protect us from 
+the harsh realities of our own mun-
+dane lives.
+
+and reward those who have dedi-
+cated their undergraduate careers 
+to hitting the books and sacrific-
+ing Saturday-night fun in order to 
+study.  
+
+Not only do these dedicated stu-
+dents mean good news for medi-
+cal schools, but society should 
+also benefit significantly from the 
+superior doctors that these medical 
+schools produce. 
+
+In spite of the unpromising sta-
+tistics and ever-increasing competi-
+tion, UCSD pre-meds won’t have to 
+give up getting into medical school 
+entirely. As long as they do extreme-
+ly well academically, get fantastic 
+GPAs, obscenely high MCAT scores, 
+
+write impressive personal state-
+ments, attain research experience, 
+have volunteer experience at hospi-
+
+tals and do well on their interviews, 
+admission to medical school is vir-
+tually guaranteed. Of course, it also 
+
+helps if in addition to that, they have 
+spectacular letters of recommen-
+dation, community-service activi-
+ties and relatives who chair medical 
+school admissions committees. 
+
+But even if these unfortunate 
+undergraduates don’t get accepted  
+to the graduate schools of their  
+dreams, they can still rejoice in the 
+fact that their future doctors were 
+way more competitive than they 
+were in college, which obviously 
+makes them more qualified and 
+dedicated as well. 
+
+At least that’s what everyone 
+hopes for.
+
+Readers can contact Marissa Blunschi 
+at mblunsch@ucsd.edu. 
+
+A DROP FROM THE INKWELL By Priscilla Lazaro
+
+Med School Competition to Breed First-Rate Doctors
+▶ MEDICAL, from page 4
+
+Reality Programs Spice Up 
+Bland Weekday Routines
+
+▶ SATISFACTION, from page 4
+
+“Watching average people sing, dance, rap, tell jokes, cook or generally make fools 
+out of themselves is 
+
+definitely entertaining.”
+
+“Society should also benefit significantly from the superior doctors that these medical
+schools produce.”
+
+
+
+6  OPINION THE UCSD GUARDIAN TUESDAY, NOVEMBER 13, 2007
+
+
+
+8
+TUESDAY, NOVEMBER 13, 2007
+
+CONTACT THE EDITOR
+Alyssa Bereznak
+
+features@ucsdguardian.org
+
+THE STUDENT OUTLOOK
+FOCUS
+
+BeNEATH the blueprintBeNeath blueprint
+
+GO FIGURE
+
+▶ The year the Supreme Court case 
+Roe v. Wade overturned all state and federal 
+
+laws that outlawed or restricted abortion    
+inconsistent with its holdings.  
+
+1973
+
+By Jaclyn Snow • SEnior Staff WriterBy Jaclyn Snow • Senior Staff Writer
+
+T he San Diego Zoo — tourist destination, bastion of endangered species — is a locale I’ve returned to repeatedly when 
+I get the photographic itch. Even though I’ve 
+navigated its network of pathways and exhib-
+its enough times to fix them in my memory, 
+there is always something to keep me coming 
+back. Little things have the 
+power to suddenly change 
+a disappointing trip into a 
+memorable one. Seeing the 
+kiwis, for example, made 
+my summertime zoo trip 
+worthwhile.
+
+With a camera in hand, 
+the formula for a satisfy-
+ing picture has varied little from visit to visit. 
+It involves a lot of walking, finding animals 
+that are awake and framing the photo so that 
+there are no reflections off the glass or blurry 
+remnants of fence. Anything to suggest I didn’t 
+venture into the wild to shoot an elusive tigress 
+meant I had failed as a photographer. But after 
+so many visits, even the catalog of endangered 
+species has grown stale. The problem is that 
+photos of animals don’t tell my story. As a 
+visual document of my experience, my zoo 
+photography was lacking.
+
+It took about five visits for this predicament 
+to become unbearable, but it was a slow build-
+up. I had known all along that, as a biology 
+major, my experience at the zoo was different 
+than that of the average tourist. I know enough 
+
+about certain species that seeing them in a zoo 
+is anticlimactic; seeing animals fenced in and 
+forced out of their ecological context is often 
+disappointing. In some cases, however, I’ve 
+stopped to appreciate a less-popular animal, 
+once I’ve learned of some of its history. I real-
+ized on a more recent visit that I resented the 
+
+majority of zoo-goers, who 
+ignore the more obscure 
+species to head straight for 
+the popular ones.
+
+They’re called char-
+ismatic species. They’re 
+cute, cuddly, furry, color-
+ful, big or otherwise iden-
+tifiable and memorable to 
+
+the common citizen — at least to the extent 
+that they stick in the public consciousness 
+long enough for an outcry to erupt should they 
+warrant a conservation effort. In that way, cha-
+risma can make the difference between saving 
+a species and losing it to extinction. Because of 
+this I have developed an appreciation for how 
+other people perceive wildlife. So when I was 
+finally tired of focusing my camera on cute 
+pandas and ponderous hippopotamuses, it was 
+obvious what prey I should switch to.
+
+I went alone on my latest visit to the zoo in 
+order to efficiently hunt my new human sub-
+jects: the common visitor. They travel in small 
+groups, in most cases, with a stroller in tow, 
+
+Will Parson 
+wparson@ucsd.edu
+
+Through my
+Lens
+
+See ZOO, page 14An disinterested male gorilla turns his back to intrigued zoogoers as they stare and snap some photos behind their glass barrier.
+
+M
+IC
+
+H
+AE
+
+L 
+C
+
+AP
+PA
+
+R
+EL
+
+LI
+/G
+
+U
+AR
+
+D
+IA
+N
+
+WW hile many factors contribute to feelings of isolation on campus, the physical design of the school bears some responsibility for how we do (or don’t) interact.
+Despite conspiracy theories that administrators plan architecture 
+
+to specifically discourage protests, a combination of missteps, bad 
+timing and experimental designs are more likely responsible for the 
+anti-social architecture that UCSD students intermingle in today.
+
+In “The UCSD Master Plan Study and its Antecedents,” Patricia 
+Aquilar, who was the director of physical planning from 1986 to 1993, 
+explained that the 1963 architectural blueprint contained principles 
+that were to apply to each college, including physical distinctive-
+ness, playfields and housing on perimeters and a central court to be 
+the focus, suggesting fixed and small areas in which students would 
+interact.
+
+According to Aquilar, the construction sprawl that now defines 
+UCSD resulted from administrators’ efforts to secure land when a 
+declining birthrate caused the city to consider reclaiming some of the 
+campus’ land grant.
+
+Increasing the need for space are the multiple colleges inside a uni-
+versity system — a factor that changes student interaction.
+
+The 1989 master plan envisioned the colleges as neighborhoods, a 
+cohesive space for students to interact within the growing campus.
+
+“…[T]he intent is to provide understandable, human scale physical 
+zones within the larger campus land mass,” Aquilar wrote.
+
+Abraham Shragge, the director of Dimensions of Culture at 
+Thurgood Marshall College said in his experience, the separate college 
+system does not work throughout students’ time at UCSD.
+
+“The separation of colleges gives [students] a sense of commu-
+nity for the first two years but by the time they move on they are 
+
+See DESIGN, page 11
+
+WILL PARSON/GUARDIAN
+
+nimalsA as Art
+
+Campus Community Members 
+Address UCSD’s Poor Design. 
+
+
+
+TUESDAY, NOVEMBER 13, 2007 THE UCSD GUARDIAN FOCUS  9
+
+Students who happened to pass 
+Geisel Library on Nov. 7 saw quite 
+an eyeful: large photographs featur-
+ing grotesquely distorted and bloody 
+limbs, chopped and cut up in an 
+array of tiny legs, arms, heads and 
+torsos, befitting of any horror film. 
+Accompanying the graphic display 
+were chalked phrases littering the 
+ground that loudly asserted, “If you’re 
+pro-choice, you’re for death,” and “real 
+women don’t kill babies — some choic-
+es are just wrong.” 
+
+Alongside the disturbing posters 
+were students dressed in bright red 
+t-shirts, holding signs which proudly 
+proclaimed, “Fuck you means no, but 
+fuck me means yes!” and “My voice 
+is pro-choice,” all the while chanting 
+messages like “Stand up for choice!” 
+and “Girls heart boys who are pro-
+choice!” to both students and faculty. 
+
+The radical anti-abortion group 
+Survivors of the Abortion Holocaust 
+— an off-campus, religiously unaffili-
+ated organization — made its biannual 
+trip to campus to hold an informative, 
+if not disturbing, protest against the 
+legalization of abortion. In an effort to 
+persuade passers-by to support their 
+cause, group members distributed fly-
+ers, brochures and handbooks designed 
+to inform readers about abortion’s 
+dangers (including diagrams dem-
+onstrating exactly how abortions are 
+executed) and the alternative options 
+available to pregnant women.
+
+But when Stephanie Moody-
+Geissler, co-president of the pro-
+choice student organization Voices for 
+Planned Parenthood (or VOX, which 
+is Latin for voice), discovered that 
+SAH intended to protest at UCSD, she 
+immediately coordinated a counter-
+
+presence at the opposite end of Library 
+Walk. 
+
+“We don’t want any fights to break 
+out or for there to be confrontations 
+between the groups, even if it’s tense,” 
+said Vanessa Cooney, grassroots coor-
+dinator for Planned Parenthood. “We 
+just want to let students know that 
+we’re an honest on-campus resource 
+and that we’re here for them. Planned 
+Parenthood of San Diego and Riverside 
+Counties is proud of UCSD VOX for 
+being a strong pro-choice presence on 
+campus.”
+
+VOX is an on-campus group dedi-
+cated to informing students about 
+reproductive health and choice, and 
+has worked to spread sexual toler-
+ance and awareness throughout cam-
+pus. VOX regularly organizes sev-
+eral events throughout the academic 
+year, including information tables on 
+Library Walk, free movie screenings 
+of reproductive health films and the 
+annual Sextravaganza, a fair focused 
+on issues of sexual health. The group 
+also passes out holiday-themed con-
+doms throughout the year and cel-
+ebrates the anniversary of Supreme 
+Court case Roe v. Wade during the first 
+week of January. 
+
+Last year, SAH visited UCSD as 
+part of its Southern California college 
+and high school campus tour in order 
+to sponsor their message. 
+
+“They came last year during spring 
+quarter, and we had no idea that they 
+would be on campus, but earlier in 
+the year we had decided on a plan of 
+action in case an anti-abortion group 
+decided to show up” Moody-Geissler 
+said. “Within minutes of a VOX mem-
+
+�
+
+��������������������������������������������
+�������������������������������������������������������������������������
+�������������������������������������������������������������������������
+��������������������������������������������������������������������
+�����������������������������������������������������������
+��������������������������
+
+����������������������������������
+�������������������������������
+������������������������
+
+������������������������������������������
+������������������������������������������
+��������������������������������������������������������
+��������������������������������������������������������������
+�������������������������������������������
+
+��������������������������
+����������������������������������
+
+����������������������������������������������
+
+�����������������������������������������������������
+������������������������������������������������������������������
+�
+���������������������������������������������
+��������������������������������������������������������
+
+voice of
+The By Katie Crotto
+
+Contributing Writer
+
+WILL PARSON/GUARDIAN
+Top to Bottom: SAH uses pictures of fetuses to 
+evoke emotional response from onlookers. As a 
+counter-presence to SAH, VOX hands out condoms. 
+A SAH member holds two information signs about 
+the growth of fetuses and abortion procedures.
+
+VOX takes a stand against a radical anti-abortion group’s pictoric protest.
+
+“We just want to let students know that we’re an honest on-campus resource and that we’re here for them.”— Vanessa Cooney, grassroots coordinator for Planned Parenthood
+
+See PRO-CHOICE, page 11
+
+
+
+TUESDAY, NOVEMBER 13, 2007 THE UCSD GUARDIAN FOCUS  11
+
+more interested in their departments,” 
+Shragge said. 
+
+Kim Yu, the senior resident advi-
+sor at Revelle, pointed to the conflict-
+ing college-oriented architecture and 
+a university spirit pushed by athletics 
+as factors that pull students in different 
+directions.  
+
+“Of course we are failing at having 
+a big community but we are also failing 
+at small community; we need to decide 
+which we are going for,” Yu said.
+
+UCSD came of age in the tumultu-
+ous late-’60s culture; which manifested 
+itself on campus in the form of stu-
+dent protests and shaped how officials 
+would view future building projects.
+
+Indeed, Revelle and John Muir 
+College designs are the most cohe-
+sive and compact campuses of UCSD’s 
+six; the two were built first. However, 
+according to Aquilar’s book, at the time 
+Thurgood Marshall College was con-
+structed, its isolated design was based 
+on the assumption that the students 
+would be difficult to regulate.  
+
+“Believing the college would be 
+dominated by radical ‘third world’ stu-
+dents, many at UCSD did not want 
+it ‘in my backyard’ or in the center of 
+campus,” Aquilar wrote.
+
+But beyond issues stemming from 
+the university’s design, students are 
+
+isolated in La Jolla due to the lack of 
+student-oriented centers in walking 
+distance. 
+
+While Price Center attempts to cre-
+ate a nonacademic social space for 
+students, the suggestion that crowd 
+control was a factor in its initial design 
+is plausible. The stairs are narrow and 
+angled, making it hard for more than 
+two students to walk together. The few 
+avenues of entry into the plaza are easy 
+to block, lead into a lowered area that 
+is easily observable and, if needed, con-
+trollable from the second floor.
+
+In contrast, Student Center, con-
+structed in early 1960s, boasts a design 
+more conducive to social activities, 
+built without concern of possible stu-
+dent gatherings.
+
+Some students are leery of the Price 
+Center expansion, but its architect, 
+Mehrdad Yazdani, emphasized that 
+student representatives have taken a 
+very active part in the planning of Price 
+Center Expansion. He added that those 
+representatives are vocal in making and 
+vetoing decisions regarding the archi-
+tecture and how the space will be used.
+
+Yazdani said that students’ experi-
+ences with Price Center and the rest 
+of campus influenced their decisions 
+in what was needed in the expansion. 
+The indoor atrium, for example, was 
+created specifically to give students an 
+
+indoor space when the plaza in Price 
+Center gets too cold in the evening. 
+
+Despite persistent rumors of Price 
+Center’s design to ease crowd control, 
+Yazdani dismissed the notion that the 
+expansion was built with those con-
+siderations.
+
+“That was never a topic of discus-
+sion, and never brought up to me,” 
+Yazdani said.
+
+Graduate student Ben Balthasar con-
+tended that if crowd control was consid-
+ered, it would not have been mentioned.
+
+“Mike Davis [author of “Fortress 
+L.A.”] wrote about how architects open-
+ly talk about surveillance and crowd 
+control for places like Bloomingdales 
+but when a very similar design gets 
+brought in to campuses they don’t talk 
+about it,” Balthasar said. “It would be 
+politically problematic to mention it.”
+
+Aside from concerns of secret 
+motives, there are other issues raised 
+with the construction of a largely 
+indoor, metal and glass structure on 
+what used to be open spaces with low, 
+bungalow-like offices. Adjunct profes-
+sor of literature Mike Grattan said 
+construction should not substitute for 
+real institutional changes.
+
+“It’s the old mantra, ‘if you build 
+it they will come,’ but honestly to me 
+its like throwing a bright new toy to 
+your kid and saying ‘go play with your 
+
+friends,’” Grattan said. 
+Alumnus Derek Lomas taught 
+
+“Social Architecture,” a Sixth College 
+practicum course that had students cre-
+ating art pieces Lomas called “interven-
+tional construction.” Three of the stu-
+dents constructed the labyrinth housed 
+in the Eucalyptus grove last June.
+
+Lomas said the labyrinth space was 
+more compact and set up for social 
+interactions, compared to the large 
+empty spaces peppered throughout the 
+campus.
+
+“The library had tons of space, is 
+in the center of campus, and no one 
+uses it ... more benches and differ-
+ent landscapes could make the space 
+more sociable,” Lomas said. “The cli-
+mate allows for students to be outside 
+almost everyday but there are no out-
+door central spots.”
+
+Whether the administration has 
+ulterior motives in designing a space 
+in which UCSD students can’t fully 
+interact, the consequences of poor 
+design will be felt for the generations 
+of students to come.
+
+“The question I would have to ask 
+is if you were really trying to create a 
+social space, would it really look like 
+this?” Balthasar said.
+
+Readers can contact Jaclyn Snow at 
+jrsnow@ucsd.edu
+
+ber noticing [SAH], our plan was put 
+into effect and an impromptu counter-
+presence occurred,” 
+
+Whether improvised or not, the 
+presence of VOX members countering 
+normally tense SAH protests did not 
+go unnoticed by students. 
+
+“When I saw the disgusting images 
+that SAH showed, it was shocking,” 
+John Muir College sophomore Lina 
+Dajani said. “No one wants to see that. 
+But I felt more comfortable with the 
+student organization, because their 
+information was easier to handle and 
+to trust. People were even avoiding 
+eye-contact with SAH, but didn’t mind 
+approaching VOX.”
+
+Moody-Geissler agreed that SAH’s 
+literature and presentation was a little 
+hard to swallow. 
+
+“[The posters] serve no purpose 
+but to be used for their shock value,” 
+she said. “[SAH is] not just content 
+with presenting its side of the debate 
+over choice, it has decided to falsify 
+information or use other material that 
+is in no way backed by the scien-
+tific community. We were not going 
+to stand by idly and let these lies be 
+spread on our campus.” 
+
+Kortney Blythe, the SAH campus 
+life tour director, believes that the 
+posters and images her organization 
+used are nothing different from those 
+depicted during the Vietnam War. 
+
+“Graphic images have been used 
+throughout history to fight injustice,” 
+she said. “Civil rights activists used 
+pictures. We live in a visual society. 
+And for that matter, this is a procedure 
+that is legal and happens 4,000 times a 
+day in our country. Why do people get 
+so offended at pictures of it? If it’s too 
+hard to look at, maybe we shouldn’t be 
+tolerating it.”
+
+Some students did find the anti-
+abortion material to be informative 
+and eye-catching.
+
+“I’m against abortion; for me, 
+there’s no way to justify sacrificing 
+life for one girl’s night of pleasure,” 
+Eleanor Roosevelt College freshman 
+Sarah Figueroa said. “This group 
+wants to spread that message. People 
+are entitled to their own opinion, 
+though, so the pro-life group can say 
+what it wants.”
+
+VOX members alleged that SAH 
+broke several campus procedural rules 
+during their protest, including their 
+location directly in front of the library 
+and their use of a table, and contacted 
+Judicial Affairs to report the viola-
+tions. Although university personnel 
+later came to investigate the reports, 
+no complaints were officially filed. 
+
+“We understand that the univer-
+sity may have its own rules about free 
+speech,” Blythe said. “But we follow 
+the first amendment, and that states 
+that we are allowed to assemble on 
+all public spaces. We promote free-
+speech advocacy — otherwise, both 
+ourselves and the pro-choice groups 
+could not demonstrate.”
+
+Blythe said that although SAH 
+does assemble at high schools, it pro-
+tects the rights of minors by remaining 
+on public sidewalks and offcampus. 
+She also noted that while she has led 
+protests at more than 260 schools dur-
+ing her term as director, there have 
+only been five arrests due to trespass-
+ing charges. 
+
+But Moody-Geissler found the 
+groups disregard for campus policies 
+to be aggravating, and believes its pres-
+ence on campus did little to further 
+its cause. 
+
+“It is not appropriate for a non-
+affiliated group to disregard policies 
+that other groups that are affiliated 
+with the campus are required follow,” 
+she said. “In the end, [SAH] being 
+on campus only brought more people 
+over to the VOX counter-presence for 
+information and to give us support. 
+We almost doubled our e-mail list in 
+just one day.”
+
+Readers can contact Katie Corotto at 
+kcorotto@ucsd.edu
+
+ Pro-Life 
+Group Incites 
+
+Debate 
+▶ PRO-CHOICE, from page 9
+
+Students Look to Overcome Structural Isolation 
+▶ DESIGN, from page 8
+
+
+
+14 FOCUS THE UCSD GUARDIAN TUESDAY, NOVEMBER 13, 2007
+
+What is law school?
+       A place where convention is reinforced?
+
+Or more than that?
+      A place to learn a broad repertoire of skills.
+
+    A rigorous curriculum in a supportive environment.
+
+       An intersection of theory and practice.
+
+Explore the full potential of the law
+
+              in a school devoted to the big picture.
+
+ad name: CW JD Ad: What is a law school?-guy size: ½ page H—10" x 8"
+
+publication: UC San Diego “The Guardian” pub date: 10/15/07
+
+gkm contact: Lea Venturo phone: 760.438.8100
+
+www.CaliforniaWestern.edu
+
+and are incredibly abundant.
+The inside of the zoo hadn’t 
+
+changed much between visits — a 
+maze of sloping pathways and simu-
+lated habitat, designed to transport 
+throngs of stroller-pushing visitors 
+to far-away lands and keep the spec-
+imens at ease. But with my mind 
+off the animals themselves, I was 
+more open to my immediate sur-
+roundings.
+
+ I took notice of what people 
+look for and what they miss. For 
+example, in front of an exhibit full 
+of beautiful African fish, I watched 
+a man blink a few times into the 
+murky water and mutter with a 
+gloomy Southern twang, “There’s 
+nothing in here.”
+
+I wondered what he was looking 
+
+for, and I got hints throughout the 
+day. At the gorillas, a female car-
+rying its infant spurred a woman 
+to gush, “See the mom and the 
+baby hugging?” At the reptile house, 
+a small boy gleefully announced, 
+“There’s a daddy one!” The meer-
+kats prompted a mother to ask her 
+daughter, “Do you remember them 
+from the ‘Lion King’?” An over-
+weight woman frowned at the hip-
+popotamuses and remarked, “God, 
+what a big ol’ butt.”
+
+By the time a woman bluntly rec-
+ognized an echidna as a porcupine, 
+I got the strong impression that if 
+she had known it was an echidna 
+beforehand she would have been 
+less excited. A thousand little com-
+ments like this convinced me how a 
+lot of an animal’s appeal comes from 
+
+the visitor drawing on their own 
+lives, what’s in their memories and 
+what’s important to them.
+
+I appreciated this rather than 
+disdained it, because I was treating 
+the other visitors the same way they 
+were treating the animals. As a pho-
+tographer, I don’t know much about 
+the strangers I pass, but I can attach 
+my own story to them. If a photo-
+graph catches something that lets a 
+viewer do the same, it’s likely to be 
+successful. It was certainly intrigu-
+ing to think of how the animals 
+function in the same way for a lot of 
+people, and how much they are like 
+works of art.
+
+Zoo Visitors Seek Wildlife’s Softer Sides
+
+▶ ZOO, from page 8
+
+8 For this writer’s column page, visit
+www.ucsdguardian.org.
+
+WILL PARSON/GUARDIAN
+Families fully equipped with strollers and snacks are as common a sight as the animals themselves in the children’s section of the San Diego Zoo.
+
+
+
+TUESDAY, NOVEMBER 13, 2007 THE UCSD GUARDIAN SPORTS  13
+
+FEW CAN BE  MARINES.
+
+EVEN FEWER CAN LEAD THEM.
+
+CAN YOU?
+
+                  AS AN AMERICAN
+
+                                                     YOU CAN MAKE A  C O M M I T M E N T.
+
+                                                               FULFILL  A  C O M M I T M E N T.
+
+                                                                 BREAK  A  C O M M I T M E N T.
+
+                                                        THERE ARE BIG  COMMITMENTS.
+
+                                                                    SMALL  COMMITMENTS.
+
+                                                                            COMMITMENTS   YOU NEVER
+
+                      WANTED TO  MAKE IN  THE  F IRST  PLACE.
+
+                                               YOU CAN EITHER FEAR  C O M M I T M E N T 
+
+                                                      OR  EMBRACE IT.
+
+           AS AN AMERICAN AND
+
+         A MARINE CORPS OFFICER
+
+                                                                    YOUR C O M M I T M E N T  WILL  IMPACT
+
+                                                                                                             THE  FUTURE OF  THIS  NATION. 
+
+
+
+TUESDAY, NOVEMBER 13, 2007 THE UCSD GUARDIAN SPORTS  15
+
+NIH/Oxford/Cambridge
+International Biomedical PhD 
+
+Pursue your graduate studies in a biomedical 
+research program that underscores exciting 
+international collaborative relationships. 
+
+Participate in a program dedicated to innovative 
+and interdisciplinary research.
+
+Receive your doctoral degree from Oxford or 
+Cambridge Universities. 
+
+Benefit from professional and career development 
+with seminars, workshops, and career counseling. 
+
+Combined MD/PhD degree opportunities available.
+
+Become a student in the Graduate Partnerships Program at the 
+National Institutes of Health, the nation’s largest biomedical 
+research institution. 
+
+http://oxcam.gpp.nih.gov/
+Email Bridget Lampert - oxcam@mail.nih.gov
+
+Build Your Career, Shape the Future 
+NIH Office of Intramural Training and Education
+
+                                                                                                       
+
+We are looking for a special egg donor.
+
+COMPENSATION
+$100,000
+
+Please visit
+
+www.elitedonors.com
+for full program details 
+
+This ad is being placed for a particular client 
+
+and is not soliciting eggs for a donor bank or 
+
+registry. We provide a unique program that only 
+
+undertakes one match at a time and we do not 
+
+maintain a donor database. 
+
+in the back of my mind I was hoping 
+and praying that the ball would just 
+sail past the goal,” Zatarain said. “It was 
+heartbreaking, especially for the seniors. 
+I can’t even imagine how the seniors 
+feel, it’s horrible to think about what it 
+means to them. We played a good game 
+of soccer but when it comes down to it 
+that one moment changes everything 
+and after that you don’t get a second 
+chance.”
+
+As one of the team’s main veteran 
+leaders, the career-ending loss cut espe-
+cially deep for midfielder Lai.
+
+“It sucks, especially losing to our big-
+gest rivals,” Lai said. “Everybody expects 
+us to go farther than the first round and 
+so the loss was really hard. It’s good that 
+
+there are so many seniors on our team 
+to support each other because we are all 
+going through this together.”
+
+In addition to Lai, the Tritons will lose 
+seniors Alie Avina, Chelsey Campbell, 
+Stacy Johnson, Rachel Lindenfeld, 
+Nicole Pepper, Caitlin Ryan, Lauren 
+Segars and Kathy Sepulveda. McManus 
+expressed his pride and admiration for 
+his seniors’ leadership and his team’s 
+achievement and determination.
+
+“For what the team has done with 
+all of the injuries, no other team in the 
+conference or the whole country could 
+have done,” McManus said. “This team 
+was the probably one of the biggest 
+achieving teams that we have ever had 
+at UCSD. To do what they did was 
+unbelievable.”
+
+and the Seawolves opened up a com-
+fortable seven-point advantage and 
+cruised to the game three win.
+
+In a do-or-die game four, neither 
+team gained any advantage, with 
+the largest lead totaling four points. 
+UCSD played from behind for the 
+game’s first half, capturing its first 
+lead at 15-14.
+
+Coming out of a timeout, Schmidt 
+served up back-to-back aces to give 
+the Tritons a 23-19 advantage. The 
+Seawolves wouldn’t go anywhere, 
+fighting back to tie the game for the 
+11th time — at 25. The two teams 
+traded points until UCSD earned a 
+game point opportunity. 
+
+Sonoma State promptly called a 
+timeout to ice Carpenter on the ser-
+vice line, but after a Schmidt kill, 
+the Tritons forced game five, their 
+fourth consecutive five-game match.
+
+“Black just told us to stay in the 
+moment,” senior captain and libero 
+Natalie Facchini said. “We were in a 
+good position with game point and 
+confident that if we made it to a fifth 
+game we could win.”
+
+Down 4-1 early, UCSD came 
+back from a timeout firing, tying up 
+the game at 4-4. Bailey tallied three 
+of her game-high 29 kills as the 
+Tritons began to pull away from the 
+pesky Seawolves, eventually grab-
+bing another win.
+
+Following emotional pre-game 
+introductions and a cheer by the 
+players’ parents on Senior Night, 
+UCSD faced off against the Sea 
+Otters on Nov. 10 in front of a bois-
+terous Triton Tide.
+
+“The night was really emotional 
+for me,” senior outside hitter Casey 
+Wilson said. “It really started to hit 
+me on my way over here and was 
+a mix of happy and sad. When the 
+crowd started singing the national 
+anthem, my emotions really got to 
+me but I was ready to play.”
+
+The Tritons were in control from 
+
+the beginning, and their potent 
+offense proved too much for the Sea 
+Otter defense as Bailey, Schmidt and 
+Wilson all finished with double digit 
+kills in the three-game rout.
+
+Getting off to a good start was 
+something UCSD failed to do in 
+previous weeks but wasn’t a problem 
+against the Sea Otters. 
+
+“We really put it together tonight 
+and during the second half of the sea-
+
+son,” Wilson said. “This team has a 
+heart and fire like few others that will 
+make us contenders during playoffs.”
+
+With elite competition looming, 
+the team plans to work hard on the 
+fundamentals that have gotten it this 
+far, and the Tritons hope their work 
+will pay off when they face sixth-seed 
+Northwest Nazarene University on 
+Nov. 15 to kick off the NCAA Pacific 
+Regional.
+
+team with a winning record in 2006.
+While the Chargers should be 
+
+ashamed of their play so far and embar-
+rassed to be a division leader, all is not 
+lost. They are a far cry from their 2006 
+edition that cruised to a 14-2 record, 
+but the Chargers can still hold out hope 
+that they will turn things around. No 
+matter what the quality of their wins 
+has been, the Chargers are still one of 
+the best teams, talent-wise, of any in 
+the NFL. Sure, the Patriots are execut-
+ing to perfection, but the Chargers 
+still boast a better running back, the 
+best tight end in the game, a young 
+quarterback that has proven himself 
+capable of putting together game-win-
+ning drives (although you have to look 
+all the way back to last season) and a 
+stifling defense. 
+
+The problem so far has been consis-
+
+tency. Whenever L.T. breaks out, Rivers 
+negates it with some costly turnovers. 
+Or when Rivers starts to get a rhythm 
+going, L.T. suddenly finds himself 
+swarmed at the line and incapable of 
+setting up some long scoring plays. 
+If Tomlinson, Rivers, Gates and the 
+defense can all start contributing con-
+sistently and the Chargers begin run-
+ning on all cylinders, they could be a 
+dangerous team come playoff time. But 
+until Norv Turner sparks something 
+in the squad to turn things around, 
+this team will remain an inconsistent 
+disappointment destined for no more 
+than a measly playoff appearance. And 
+after last year’s collapse, San Diegans 
+are expecting more than just an appear-
+ance; they want nothing less than a 
+chance to pay the Patriots back for last 
+year’s contest on the way to a long-over-
+due Super Bowl win.
+
+UCSD Earns Third Seed for NCAAs
+▶ VOLLEYBALL, from page 16
+
+SANH LUONG/GUARDIAN
+Junior libero Michelle Torres gets low for one of her 16 digs and added three aces in a hard-fought 
+victory over Sonoma State on Nov. 9. Torres and the Tritons will take on Northwest Nazarene on Nov. 15.
+
+Postseason Problems Continue 
+as Overtime Loss Ends Season
+▶ SOCCER, from page 16
+
+Chargers Must Improve to 
+Have Any Chance in Playoffs
+▶ RETORT, from page 16
+
+
+
+SPORTS
+16
+
+CONTACT THE EDITOR
+Rael Enteen
+
+sports@ucsdguardian.org
+
+HOT CORNER
+
+TUESDAY, NOVEMBER 13, 2007
+
+By Jake Blanc
+Senior Staff Writer
+
+After starting the season 10-0-1, 
+an onslaught of injuries blindsided the 
+UCSD women’s soccer team, and the 
+Tritons were never able to fully recov-
+er, culminating in a 2-1 loss to Cal 
+State Dominguez Hills at the  NCAA 
+Division II National Championship 
+regionals on Nov. 8. The heartbreak-
+ing overtime defeat ended the Tritons’ 
+season, which at one point had UCSD 
+ranked as the country’s No. 2 team. 
+
+In a twist of ironic cruelty, it was 
+the Cal State Dominguez Hill Toros 
+that helped start the Tritons’ late-season 
+slide. On Oct. 10, the Toros dealt UCSD 
+its first loss, a 1-0 shutout at Triton 
+Soccer Stadium. The Tritons would go 
+on to win only two of their next five 
+games, ending with the regional loss 
+in Seattle.
+
+The injuries took an unprecedented 
+toll on the Tritons throughout the year, 
+even forcing them to start the season 
+short a few players. Toward the end of 
+the year, more and more players joined 
+the ranks on injured reserve, but the 
+resilient Tritons pushed through all the 
+way to the end.
+
+ “We were probably the only team 
+with a starting lineup that had never 
+played together for the whole season,” 
+head coach Brian McManus said. 
+“From the beginning of the season we 
+always had at least two injured starters. 
+It’s amazing that our planned starting 
+11 never played together.” 
+
+During the regular season, CSUDH 
+won the series with a 0-0 draw and a 
+1-0 victory. Ever since UCSD moved 
+to Division II, the in-conference rivalry 
+that the Tritons have developed with 
+the Toros has reached epic proportions, 
+
+making every meeting between the two 
+teams all the more heated.
+
+On Nov. 8, it was again Dominguez 
+Hills that drew first blood, with the 
+Toros’ senior midfielder Amy Livergood 
+netting the game’s first goal in the 20th 
+minute. The Tritons, who scored 31 
+total goals on the season, were held 
+scoreless for the remainder of the first 
+half. After regrouping during halftime, 
+UCSD came out of the gates strong 
+and in the 67th minute, junior forward 
+Natasha Belak-Berger scored the equal-
+izing goal on a shot that found the upper 
+right corner 
+of the net. 
+The goal was 
+Belak-Berger’s 
+seventh of the 
+year and was 
+assisted by 
+senior midfielder Ali Lai, her second 
+assist this season. 
+
+Neither team was able to push across 
+a game-winning goal for the rest of reg-
+ulation play, sending the already tense 
+game into an exhilarating overtime 
+period. With 1:10 left in the first over-
+time period, Dominguez Hills junior 
+forward Yvonne Vasquez sent a dagger 
+through the heart of the Triton faithful 
+with a goal that just passed through the 
+diving hands of junior keeper Jessica 
+McGovern. The goal would prove to 
+be the game winner, with the Tritons 
+unable to score in the final minute. 
+
+Sophomore midfielder Alexia 
+Zatarain was stunned when the game-
+winning shot took the air. And when 
+it swooshed into the back of the net, 
+she became all too aware of the goal’s 
+consequences.
+
+“I saw the ball go up in the air and 
+
+Sensational Season Ends in OT
+
+SANH LUONG/GUARDIAN
+Senior midfielder Ali Lai tied for the team lead in goals with seven on the year and also added two assists 
+for 16 total points. Her contributions will be sorely missed next year when UCSD takes the field without her.
+
+By Matt Croskey
+Senior Staff Writer
+
+RIMAC Arena and the Triton 
+faithful will bid adieu to the five 
+graduating seniors on the UCSD 
+women’s volleyball team after two 
+must-win games on Nov. 9 and Nov. 
+10. UCSD avenged an earlier loss to 
+Sonoma State by capturing a five-
+game thriller on Nov. 9, 23-30, 30-
+22, 22-30, 30-28, 15-11, and the 
+team returned Nov. 10 and disposed 
+of Cal State Monterey Bay 30-20, 
+30-19, 30-19.
+
+UCSD finished the regular sea-
+son 19-7 overall and 13-5 in the 
+California Collegiate Athletic 
+Association, and with their second-
+place finish in the conference, the 
+Tritons earned the third seed in 
+the NCAA Pacific Regional, which 
+begins Nov. 15 at Cal State San 
+Bernardino. The Tritons were one of 
+five CCAA teams to make the eight-
+team regional, showing the depth 
+and difficulty of the conference. 
+
+Head coach Tom Black said he 
+knows that the playoff competi-
+tion is at an even higher level than 
+the regular season, but believes the 
+momentum the team built during 
+its last two home matches will carry 
+over.
+
+“This was a big weekend for us,” 
+he said. “I’m happy for the seniors 
+and I feel like we’re in a good spot 
+right now. We’re just going to contin-
+ue working on the things we always 
+work on.”
+
+Before playoff banter and predic-
+tions could start, UCSD had to take 
+care of business against conference 
+foe Sonoma State. In a contest that 
+began similarly to the teams’ Oct. 6 
+matchup, the Seawolves took game 
+one, with the Tritons bouncing back 
+to take game two. However, unlike 
+the match in early October in which 
+
+Sonoma State ran away with a 1-3 
+win, this time UCSD emerged vic-
+toriously.
+
+Junior captain and outside hitter 
+Rebecca Bailey admitted that the 
+Triton squad underestimated the 
+Seawolves during their first meet-
+ing, but UCSD looked focused and 
+ready to play after a slow start in 
+game one.
+
+The Triton defense was deflated 
+in the first game, with digs and ser-
+vice returns seemingly going every-
+where but to the setter. Without 
+good passing, senior setter Kim 
+Adams and her hitters had difficulty 
+finding any offensive rhythm.
+
+A two-point spread was the clos-
+est UCSD came in game one, and 
+Sonoma State closed out the open-
+ing round on three Triton hitting 
+errors. 
+
+The Tritons started to find their 
+swagger in game two, earning their 
+first lead of the match 9-8, following 
+a block from junior outside hitter 
+Kimberly Carpenter. Carpenter con-
+tinued at a torrid pace, giving UCSD 
+a 12-9 advantage. 
+
+Sonoma State wouldn’t allow the 
+Tritons to pull too far ahead, fighting 
+back after every UCSD run. But it 
+wasn’t enough down the stretch, and 
+the Tritons began to find the offense 
+they lacked in game one. Sophomore 
+outside hitter Sylvia Schmidt, Bailey 
+and senior middle blocker Hannah 
+Gary all got in on the action as the 
+Tritons tied the match at one game 
+apiece.
+
+Down 9-17, UCSD found itself in 
+another deep hole in game three and 
+promptly called a timeout. Bailey 
+rallied the troops with a couple of 
+kills as the Tritons moved within 
+four points. But slow feet and poor 
+defense from game one resurfaced, 
+
+Late Win Streak Lifts UCSD into Playoffs
+
+The San Diego Chargers are perched precariously atop the AFC West with a disappoint-
+ing 5-4 record as the team powers into 
+the stretch run of the NFL season. 
+Although it seems cynical to criticize 
+a division-leading team, the Bolts don’t 
+deserve to be where they are today. 
+With the way the Chargers have been 
+playing, they are lucky to even be sniff-
+ing the playoffs. But because of the 
+appalling play of their division “rivals,” 
+the Chargers look destined to repeat 
+their last season: a first-round exit at the 
+hands of any number of superior teams 
+like the Patriots, Steelers or Colts.
+
+I know some of you diehard 
+Charger fans out there will point to San 
+Diego’s 23-21 win over the defending 
+Super Bowl champions in Week 10 as 
+evidence of the team’s perseverance 
+and ability to contend with some of 
+the other conference powerhouses. But 
+let me ask you this: If these teams met 
+again next week, do you think the 
+Chargers could intercept six of Peyton 
+Manning’s passes or have their special 
+teams unit account for 14 points? The 
+obvious answer is no, but without these 
+once-in-a-blue-moon, hell freezes over, 
+pigs-flying type-moments, the Chargers 
+would be 4-5, though amazingly still 
+tied for first in the AFC West.
+
+To truly comprehend how improb-
+able this latest Charger win was, 
+one must understand that Antonio 
+Cromartie, the cornerback responsible 
+for Manning’s misery — three picks in 
+the first half — was making his very 
+first NFL start filling in for injured vet-
+eran Quentin Jammer. Or consider this: 
+The 89-yard opening kickoff return 
+touchdown and 45-yard punt return 
+touchdown were third-year, third-
+string running back Darren Sproles’ 
+first and second career touchdowns. It 
+was the combination of Cromartie and 
+Sproles that vaulted San Diego to a 23-7 
+halftime score that remained until the 
+final frame, a comfortable fourth-quar-
+ter lead for any competitive club.
+
+Instead of coming out in the sec-
+ond half and never looking back, the 
+Chargers ended up having to nervously 
+watch Manning chip their lead away 
+with a passing touchdown and a two-
+point conversion to bring the Colts 
+within another trip to the end-zone and 
+two-point conversion. With the best 
+running back in the NFL in LaDainian 
+Tomlinson, the Chargers should have 
+had no problem running the clock out, 
+but instead the ball ended up in Phillip 
+Rivers’ iron hands, which fumbled the 
+rock into the end zone, where it was 
+recovered by Indy’s middle linebacker 
+Gary Brackett for six more points. The 
+two-point conversion failed, leaving 
+San Diego clinging to a 23-21 win.
+
+Although there were plenty of 
+shocking moments leading up to the 
+win, none were more important or 
+more improbable then Adam Vinatieri, 
+easily the best clutch-kicker of all-time, 
+missing a 29-yard field goal that would 
+have given the Colts the lead with only 
+a minute and a half left in the game. 
+Once the ball sailed just a smidge to the 
+right of the upright, the Chargers could 
+finally celebrate their first victory over a 
+
+CHARGERS 
+CAN’T BANK 
+
+ON LUCK 
+FOR WINS
+
+Rael Enteen
+renteen@ucsd.edu
+
+The Sports
+Retort
+
+SANH LUONG/GUARDIAN
+Junior middle blocker Hannah Gary levitates for one of her six kills in No. 20 UCSD’s five-game victory 
+over Sonoma State on Nov. 9. Gary added four more kills in a sweep of Cal State Monterey Bay on Nov. 10. See RETORT, page 15See VOLLEYBALL, page 15
+
+See SOCCER, page 15
+
+Casey Wilson
+Women’s Volleyball
+
+The senior outside hitter notched two 
+aces and a team-leading 13 kills in the 
+Tritons’ sweep of  Cal State Monterey 
+
+Bay on Senior Night on Nov. 10.
+
+Nov.  8 • 12-4-2 overall, 9-4-2 CCAA
+
+UCSD 1
+2CSUDH
+
+
+
+10   CAMPUS CALENDAR THE UCSD GUARDIAN TUESDAY, NOVEMBER 13, 2007
+
+Powered by the Chancellor's Office and the UCSD Guardian
+
+WEEK OF NOV. 13-18
+
+THURSDAY'S 
+SUDOKU SOLUTIONS
+
+TUES NOV 13
+R E C R E A T I O N
+
+The UCSD Linguistics Language Program 
+presents The Syrian Bride, a powerful 
+film about physical, mental, and emotional 
+borders and the courage it takes to cross 
+them. The film is an emotionally stirring 
+look at the human side of a political con-
+flict. 9:30-11am at AP&M, room 4301, free 
+admission.
+
+International Grove Dance lessons- 
+Learn how to dance. Featuring interna-
+tional dances geared for fun and exercise. 
+Sponsored by UCSD International House. 
+12-1pm at ERC Great Hall.
+
+The Price Center Film Series presents Sicko, 
+a Michael Moore Documentary comparing 
+the highly profitable American health care 
+industry to other nations, and HMO hor-
+ror stories. 6pm and 9pm at Price Center 
+Theatre, $3.
+
+German Cuisine - Enjoy German dishes 
+such as wiener schnitzel, cremespinat 
+(creamed spinach), roestkartoffel (sau-
+téed potatoes), spaetzle, rindersaftbraten 
+(braised beef ), gurkensalat (cucumber 
+salad), pumpkin soup, krautsalat (cabbage 
+salad), and more. Cost: Regular prices. 5-
+8pm at Oceanview Terrace.
+
+S P E C I A L  E V E N T
+
+International Education Week (IEW) 
+Opening Reception - Model UN Reception 
+including games, food, and fun. Followed 
+by special IAG speaker Carol Sasaki, the 
+founder of the International Humanity 
+Foundation (IHF), who will speak about 
+the illegal trafficking of sex slaves, an often 
+overlooked but very common practice. 
+Carol has been running shelters for sex 
+slaves since the 1980s, and the nature 
+of her work has brought Carol and her 
+family into grave danger on multiple 
+occasions. She will be discussing what 
+she has learned in 29 years as a leader 
+and a humanitarian--including the costly 
+mistakes she has made. A Model United 
+Nations (MUN) sponsored dance will fol-
+low the film Grbavica at 9:00 PM. 4-7pm at 
+ERC Great Hall.
+
+WED NOV 14
+A C A D E M I C
+
+Human Rights Awareness - Panel discus-
+sion of former refugees from different 
+parts of the world. Sponsored by the UCSD 
+Amnesty International and San Diego 
+International Rescue Committee. 6-8pm at 
+International Center Lounge.
+
+A R T S
+
+Perks Poetry Slamm - featuring poet Fred 
+Longworth and open mic poetry readings. 
+Poetry Slamm is a lyrical battle of rhythm 
+and rhyme, where students have an oppor-
+tunity to share their poetry, spoken word, 
+rap, etc. in a fun and creative atmosphere. 
+The battling poets will have three minutes 
+to perform with a ten second grace period. 
+The judges will give scores, and after each 
+poet’s performance, the audience is free to 
+give their reactions. Poets are encouraged 
+to bring costumes or props to better com-
+municate their ideas. 6-7pm inside the 
+UCSD Bookstore at Perks coffee shop.
+
+C A R E E R
+
+Going Global: International Careers Fair 
+
+- In our increasingly global economy, inter-
+national career opportunities abound! 
+Students from all majors are encouraged 
+to meet with employers and learn about 
+various opportunities in the internation-
+al arena. 11:30am-1:30pm at the Career 
+Services Center Plaza.
+
+H E A L T H
+
+The San Diego Blood Bank Automobile 
+Visits - The San Diego Blood Bank blood-
+mobile will accept blood donations at an 
+open to the public blood drive hosted 
+by UCSD Phi Delta Epsilon. Anyone who 
+is at least 17 years old, in good health 
+and weighs at least 110 pounds may be 
+eligible to give blood. A good meal is 
+recommended prior to donation. 9:30am-
+3:30pm at the Career Services Center.
+
+L E G A L
+
+Traveling Overseas: Get the Facts Before 
+You Leave! This event will highlight infor-
+mation students should obtain before 
+embarking on an overseas adventure. 
+Topics will include resources for learning 
+how laws differ in other countries, con-
+cerns about medical insurance, consid-
+erations for renters and more! Presented 
+by Student Legal Services. 12pm at the 
+International Center.
+
+R E C R E A T I O N
+
+Café Ventanas International Menu 
+- During the International Conversation 
+Tables, Café Ventanas will feature 
+Portuguese, Spanish, and Cantonese cui-
+sine. 5-8pm at Café Ventanas.
+
+Pub after Dark: Daphne Loves Derby - 
+Daphne Loves Derby, 5 Star Fallout, and 
+Josh Damigo to provide musical perfor-
+mances. 7:30-10:30pm at Porter’s Pub.
+
+THURS NOV 15
+A C A D E M I C
+
+Programs Abroad Expo - Don’t miss 
+UCSD’s annual Study-Work-Intern Abroad 
+Information fair! The Programs Abroad 
+Expo is only once a year and offers an 
+array of opportunities open to students of 
+all majors. Meet representatives from over 
+70 programs. 11am-3pm on Library Walk.
+
+C A R E E R
+
+TEFL Information Session - Learn about 
+opportunities to Teach English as a Foreign 
+Language (TEFL) around the world. 10-
+11:30 am at International Center Oceanids 
+Pavilion.
+
+H E A L T H
+
+The Great American Smokeout - Quit 
+smoking for a day! Maybe forever! The 
+Student Health Advocates will have free 
+giveaways and tools to help you kick the 
+habit! 10am on Library Walk.
+
+L E C T U R E
+
+Entrepreneurs in Vietnam: Open the 
+Taps, Avoid the Traps - Kien Pham, Pacific 
+Leadership Fellow, and Tuan Pham, Senior 
+Visiting Scholar, will discuss case stud-
+ies of foreign and overseas Vietnamese 
+entrepreneurs who have been successful 
+in Vietnam, with particular focus on the 
+biggest opportunities as well as the most 
+significant challenges they faced. 4:30-
+6pm at the Robinson Building Complex, 
+room 3201.
+
+R E C R E A T I O N
+
+The Price Center Film Series presents 
+The Simpsons Movie. After Homer acci-
+dentally pollutes the town’s water supply, 
+Springfield is encased in a gigantic dome 
+by the EPA and the Simpsons family are 
+declared fugitives. 6pm and 9pm at Price 
+Center Theatre, $3.
+
+North American Global Market Place - 
+Come out and enjoy a night of foods 
+and entertainments as ERC and Café 
+Ventanas show you a different side of 
+North American Culture. Cost: Free for 
+crafts and entertainment and meal points 
+
+for food. 5:30-8pm at Café Ventanas.
+
+S P E C I A L  E V E N T
+
+Global Gourmet - Come cook at the 
+International House Great Hall. This 
+Gourmet Global Gourmet is a special 
+co-sponsored event with Slow Food San 
+Diego and some of San Diego ‘s top chef’s 
+will be joining the festivities.  Profits will 
+be donated to local farmers who lost crops 
+in the San Diego Wildfires. If you don’t 
+want to cook (starting at 4:00), come eat 
+(at 7:00)! We will also talk about local 
+farms and California agriculture. Cost: 
+$5 (donation to local farmers). 4-9pm at 
+International House Great Hall.
+
+FRI NOV 16
+Ecstasy of the Whirling Dervishes - The 
+whirling of the dervishes is an act of love 
+and a dramatization of faith that possesses 
+a highly structured form in which gen-
+tle turns become increasingly dynamic. 
+Chanting of poetry, rhythmic rotation, and 
+music create a synaesthesia that induces 
+in many a feeling of soaring, ecstatic, mys-
+tical flight. 8pm at Mandeville Auditorium. 
+Students $16, Staff $29, GA $34. Tickets 
+available at the UCSD Box Office, 858-534-
+4559 or online at http://www.artpower.
+ucsd.edu. 
+
+C A R E E R
+
+Guide to International Careers with Jean-
+Marc Hachey - Best-selling author Jean-
+Marc Hachey (The BIG Guide to Living and 
+Working Overseas) visits UCSD to help 
+Tritons prepare to work in the global econ-
+omy, whether within the U.S. or abroad. 
+This special seminar is filled with tips on 
+how to build your “international I.Q.,” gain 
+international experience, understand an 
+international resume, and target your 
+global job search. 10am-12pm and 1:30-
+3:30pm at the Great Hall in ERC.
+
+R E C R E A T I O N
+
+F12 Concert Series presents Chloe Day 
+- Musical performacne by Chloe Day. 12-
+1pm on the patio of Porter’s Pub, Free.
+
+International Soccer Match - Calling 
+Students, staff, and faculty who enjoy soc-
+cer! Email kdelmastro@ucsd.edu to sign 
+up for a casual soccer match. You will be 
+given instructions, a T-shirt, and item to 
+represent your home country. Spectators 
+are welcomed and encouraged! 6-7:20pm 
+at RIMAC field.
+
+Film: Notte Prima Degli Esami - This new 
+Italian comedy explores how five friends 
+approach the day of the big final exam. 
+Before the movie, a brief slide show of 
+pictures about Italy and a preview of hand 
+gestures you will see in the movie. Indeed 
+Italians have a way of talking with their 
+hands. Movie in Italian with English sub-
+titles. 6:30-9:30om at AP&M, Room 4301, 
+4th floor. Free admission.
+
+Marshalpalooza (at Marshall Field, 4-
+9pm) caps off the celebration of Thurgood 
+Marshall Week. See FEATURED box.
+
+S P E C I A L  E V E N T
+
+IEW Closing Ceremony and International 
+Café - Come celebrate the end of a won-
+derful week of IEW events! Enjoy food 
+and friendship. Special menu prepared 
+by Michel Stroot, executive chef from The 
+Golden Door Spa. Cost: $4 per person. 12-
+1:30pm at International Center Patio.
+
+SAT NOV 17
+A C A D E M I C
+
+Law School Info Fair - Visit reps from more 
+than 60 law programs, learn about admis-
+sions requirements, collect brochures, 
+get your questions answered, and find 
+out what each program is really like. See 
+who’s coming at http://career.ucsd.edu/
+sa/lawgradfairs.shtml. 10:30am-2:30pm on 
+Library Walk.
+
+A R T S
+
+The La Jolla Playhouse Presents Cry-Baby 
+- 8pm at the La Jolla Playhouse. Students 
+$37, GA $40. Tickets available at the La 
+Jolla Playhouse Box Office, 858-550-1010.
+
+UCSD Theater Presents a Preview of 
+Thornton Wilder’s The Skin of Our Teeth, 
+directed by Sarah Rasmussen, 7pm at 
+Sheila and Hughes Potiker Theater. $10 
+Students, $12 Staff, $15 General Admission. 
+For more info call (858) 534-4574
+
+C A R E E R
+
+The Ultimate Guide to Finding a Job: 
+Fall Fuel-Up - Get prepared with this 
+efficient, fast-paced seminar covering 
+job search strategies, resume enhancers, 
+interview pointers, networking skills, and 
+salary negotiation techniques. Light lunch 
+included. Call 858-534-3750 to register 
+for this free event. 10am-1pm in the Price 
+Center San Francisco/Santa Cruz room.
+
+5th Annual Entrepreneur Conference 
+featuring Blake Ross, founder of Firefox 
+- Interested in Web 2.0 and Engineering? 
+Check out VentureForth’s 5th Annual 
+Entrepreneur Conference sponsored by 
+Intuit. Free conference, lunch, and great 
+raffle prizes! This is an amazing opportu-
+nity to network with entrepreneurs and 
+other students with dreams of entrepre-
+neurship just like yours! The conference 
+features keynote, Blake Ross, cofounder of 
+Firefox and Parakey, and hands-on work-
+shops and panels that will help you market 
+and finance your own personal ventures. 
+Register at www.ventureforth.org. 9am at 
+CALIT2 (Main Auditorium, Atkinson Hall).
+
+R E C R E A T I O N
+
+The Price Center Film Series presents The 
+Simpsons Movie. 6pm and 9pm at Price 
+Center Theatre, $3.
+
+S P O R T S
+
+Fencing Vs. Cal Tech, Cal State Fullerton, 
+UC Irvine. 1pm at RIMAC. 
+
+WEEKLY
+C A R E E R
+
+On-Campus Interviewing program 
+- Industry-leading employers recruit at 
+the Career Services Center throughout 
+the year for full-time career positions 
+and high-level internships outside of our 
+regular listings. Learn how to sign up for 
+an interview and submit your resume in 
+
+Port Triton at http://career.ucsd.edu, or call 
+858.534.6710 with questions. 
+
+C L U B S
+
+Argentine Tango Club - Come join the 
+exciting world of tango every Tuesday at 
+8:30 pm. No experience necessary! The 
+Argentine Tango Club from UCSD encour-
+ages dancers of all levels to come learn, 
+share, and practice.
+
+C R A F T S
+
+The UCSD Crafts Center/Grove Gallery 
+presents Del Mar - A Thematic, Multimedia 
+Exhibition from the Ocean featuring works 
+from the Crafts Center Faculty. The show 
+will run from October 8 through November 
+24. For more information, please call the 
+Crafts Center at 858-534-2021.
+
+H E A L T H
+
+STUDENT HEALTH is open to ALL reg-
+istered students, regardless of health 
+insurance status! Appointments online: 
+http://studenthealth.ucsd.edu or by 
+phone 534-8089.  Same-day appointment 
+for urgent needs; walk-in Urgent Care if 
+you need immediate care (some access 
+fees apply).  Hours: weekdays 8am-4:30pm 
+(Weds. 9-4:30pm).
+
+ INTERNATIONAL
+EDUCATION
+WEEK (IEW)
+
+is NOV. 13-18
+See the full page ad on page 6.
+
+For all events, go to
+http://iew.ucsd.edu/calendar.html
+
+
+
+The Guardian is pleased to 
+announce FREE online
+classifieds for UCSD
+
+affiliates. Please visit www.guardianads.com to post 
+your messages today. Low cost classified placements are 
+also available to the public at the same website.
+
+12  CLASSIFIEDS THE UCSD GUARDIAN TUESDAY, NOVEMBER 13, 2007
+
+CROSSWORD
+
+Find crossword solution
+in this Thursday's issue
+
+EMPLOYMENT
+Save the planet: help spread the word 
+
+about solar electricity rentals for hom-
+
+eowners.  They get a solar system with 
+
+free installation and maintenance; 
+
+you get a commission with long-
+
+term residual.  Startup company - join 
+
+now for income beginning in 2009.  
+
+HeartAndSolar.biz  (11/13)
+
+Childcare position. Del Mar 5-10 hrs/
+
+week: $13/hr.  Two kids: 11 & 16 yrs 
+
+old. Weekdays/Weekends. 858-243-
+
+1477 (11/15)
+
+Earn $800-$3200 a month to drive 
+
+brand new cars with ads placed on 
+
+them. www.AdCarReps.com (1/8)
+
+Movie Extras. New opportunities for 
+
+upcoming production. All looks need-
+
+ed, no experience required for cast 
+
+calls. Call (877)218-6224 
+
+Undercover Shoppers. Earn up to 
+
+$150 per day.  Under Cover Shoppers 
+
+needed to judge retail and dining 
+
+establishments. Exp. Not RE. Call 
+
+(800)722-4791 
+
+Dance Teachers Needed! We are look-
+
+ing for happy, energetic dancers who 
+
+love to teach kids- adults.  All Facets of 
+
+dance- Tap, Jazz, Ballet, Hoofing, Hula, 
+
+Musical Theatre, Cheer, Gymnastics, 
+
+lyrical, Hip Hop.  Please email resume/
+
+pic to gina@allstardance.net (11/19)
+
+Carmel Valley family with 4 year old 
+
+and 28 mo old looking for a moth-
+
+er’s helper/babysitter on an ongo-
+
+ing basis.  Very flexible schedule 
+
+and good compensation for a kind, 
+
+fun and compassionate person for 
+
+these 2 enthusiastic kids.  Bilingual 
+
+in French or Spanish is a huge plus.  
+
+Must have references and be willing 
+
+to have a background check.   Email: 
+
+tara@cvmom.com 858/232-2530 
+
+(11/15)
+
+Male Ballet Dancer Needed!! Youth 
+
+Ballet Company needs a Nutcracker 
+
+Prince. 1 Rehearsal December 8 (2:30-
+
+4:00pm) 1 Performance December 14 
+
+(4:30-7:30) Strong Jazz and/or Ballet 
+
+dancers only! Please call Gina at 619-
+
+888-1337 (11/19)
+
+STUDENT HOUSING
+Openings available to spend a week 
+
+on a private Fijian island (Tavarua).  
+
+This place is a surfer’s paradise and 
+
+a vacationer’s dream.  The island 
+
+offers numerous activities from surf-
+
+ing to snorkeling to fishing to ten-
+
+nis or just reading a book by the 
+
+pool.  Pricing includes RT airfare 
+
+from LAX, lodging, all meals, boat 
+
+transfers, fishing trips, exclusive 
+
+access to reef passes Cloudbreak and 
+
+Restaurant’s.   If interested, please 
+
+contact raymondk@qualcomm.com 
+
+or 619-890-3581.   Veenaka! (11/19)
+
+SERVICES
+Did you know that skin cancer is the 
+
+most common type of all cancer? 
+
+Austin Dermatology Center, just min-
+
+utes from UCSD, is nationally recog-
+
+nized for its FREE skin cancer screen-
+
+ing program and is a member of the 
+
+American Academy of Dermatology 
+
+(AAD) melanoma/skin cancer screen-
+
+ing and prevention program.  For a 
+
+free evaluation call 858-622-1960. The 
+
+office is at 9333 Genesee, Ste. 250. 
+
+(12/6)
+
+Retire in the next 2 years.  Join our 
+
+social club AND make money.www.
+
+TheRetirementProject.net. (12/6)
+
+Computer help. MAC PC & WEB since 
+
+1998. wired/wireless networking, soft-
+
+ware/hardware issues, office/home 
+
+systems maintenance. Contact Sergio: 
+
+858.405.8210 systems.lajollaportal.
+
+com (1/8)
+
+EGG DONORS NEEDED $10,000 (PLUS 
+
+ALL EXPENSES) We are seeking women 
+
+who are attractive, under the age of 
+
+29, SAT 1300+ (math+verbal), physi-
+
+cally fit and maintaining a healthy 
+
+lifestyle. If you have a desire to help an 
+
+infertile family and would like more 
+
+information please contact us. Email: 
+
+darlene@aperfectmatch.com www.
+
+aperfectmatch.com 1-800-264-8828. 
+
+(11/29)
+
+Egg Donors Needed! Young, healthy, 
+
+attractive, intelligent women ages 20-
+
+30. Compensation starts at $5,000 for 
+
+donating your eggs to an infertile 
+
+couple. Please call A Perfect Choice 
+
+Center, Inc at (888) 448-7326 or email 
+
+us at info@perfectchoicecenter.com. 
+
+(11/19)
+
+WANTED
+Tutor Needed-Help with homework 
+
+for 2 elementary school children in 
+
+Carmel Valley/Torrey Hills home. $15/
+
+hr. (858)205-5733, (858)750-0376, 
+
+chrisnguyen07@yahoo.com. (11/26)
+
+                   ACROSS 
+ 1 “Pirates of the Caribbean” star
+
+ 5 Port of Israel
+
+ 10 Saab model
+
+ 14 Slurpee alternative
+
+ 15 Rocker John
+
+ 16 Gush forth
+
+ 17 “Maverick” brother
+
+ 18 Highlands landowner
+
+ 19 __ qua non
+
+ 20 Easter events
+
+ 23 Here in France
+
+ 24 Tres y tres
+
+ 25 Pub. submissions
+
+ 28 Dismantle
+
+ 31 Cunning
+
+ 35 Recorded proceedings
+
+ 37 Fork-tailed flier
+
+ 39 Country singer Steve
+
+ 40 Beethoven title
+
+ 43 “Fear of Fifty” author Jong
+
+ 44 Bristle
+
+ 45 Chance to play
+
+ 46 Electronics whiz
+
+ 48 Hard to find
+
+ 50 German film, “__ Boot”
+
+ 51 Heraldic border
+
+ 53 Schedule abbr.
+
+ 55 Old Glory
+
+ 63 Part of a hand
+
+ 64 Painter Uccello
+
+ 65 Evans or Earnhardt
+
+ 66 Perry’s creator
+
+ 67 Scrawny one
+
+ 68 Prey
+
+ 69 James of “Elf”
+
+ 70 Former forms of words
+
+ 71 Love god
+
+  DOWN 
+ 1 Claim to a share
+
+ 2 Linen hue
+
+ 3 Hammerhead part
+
+ 4 Dish in a lab
+
+ 5 Scandinavian capital
+
+ 6 Winglike parts
+
+ 7 Addiction: suff.
+
+ 8 Golfers’ shouts
+
+ 9 __ della Robbia
+
+ 10 Helper
+
+ 11 Big-budget film
+
+ 12 Auberjonois of “Benson”
+
+ 13 Has a balance due
+
+ 21 Hosp. section
+
+ 22 Small songbird
+
+ 25 “The Cryptogram” playwright
+
+ 26 Make a basket
+
+ 27 Follower of Zeno
+
+ 29 Lodgings in Liverpool
+
+ 30 Questionnaire option
+
+ 32 Intentional deception
+
+ 33 To the extreme
+
+ 34 Is inclined
+
+ 36 Rather and Brokaw, e.g.
+
+ 38 Kett of comics
+
+ 41 Hideaways
+
+ 42 __ Springs, NY
+
+ 47 Go by
+
+ 49 Drop a fly, e.g.
+
+ 52 Make law
+
+ 54 Narrow crest
+
+ 55 Detailed design, briefly
+
+ 56 Olympian Lipinski
+
+ 57 Actress Nazimova
+
+ 58 Hunky-__
+
+ 59 Criticize harshly
+
+ 60 Talk-show pioneer
+
+ 61 Ticklish toy
+
+ 62 Goes out with
+
+
+	111307News
+	1113Opinion
+	111307Focus
+	111307Sports
+	1113Calendar
+	1113Class
+

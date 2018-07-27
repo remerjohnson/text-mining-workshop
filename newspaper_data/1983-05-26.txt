@@ -1,0 +1,4911 @@
+
+The U CSD Guardia 
+Volume 49, Number 16 University of California, 
+
+Laser Pushes Computer 
+Technology into the 90's 
+
+l3y THOMA ' RANKIN 
+Nc\\ ~ Ed,tor 
+
+'Quant urn leap' IS a term 
+often, perhaps too often, used 
+to describe advances In 
+technolo&>,)'. In reference to a 
+ne\\ Iy-de\eloped process of 
+si li co n chip imprinting , 
+howe\'er, 'q uantum leap' is an 
+understatement Ix)rdering on 
+th e grotesque. 
+
+The process, labelled laser 
+pantography by its crl'atnr". 
+effectivel} renders current 
+chip technology obsolete and 
+prOl11heS acro"'" the-hoard 
+changes for computers of the 
+future. Among th~' ad\ancl'll1-
+ent :-: 
+- :\1 0 I"l' than 1,f)O fold 
+I'l'duction !I1 SIZl', It \\111 be 
+pos..,iblt·, rl'~l'ardH'ts ~a~, to 
+ilhrrilJ\.· the CIrcuItry of 
+t () d a) 's 111 0..; I p II \\' I: rf u I 
+COlllplIll'r ... onto it wafer of 
+"llicOIl 11\ I' IIldll'~ in dianwler. 
+Persona i COIllpU tel's of the 
+future u!'ing a single wafer of 
+thIS t \ pl' could l'astl~ ha\'t~ the 
+p"\\'l'r of toda\ '" .... upl'rcompu-
+t t:r l'()S 11Ilg ,~I iI III i II ion. 
+- \\'11L'n lull~ liI:\ l'lopt'd, la"l'r 
+pantogl aphy, LUupled 10 a 
+"J)l'cial computer ('I)eil.' for 
+making Intl'!.,rrated nrcuits. 
+will reduce the time needed to 
+
+design, make and te s l 
+prototype and limited -
+production specia lized circui ts 
+from weeks to a few hour..,. 
+- A major thrust of the effort 
+is to cou pl e the la ser 
+pantography process \\ it h 
+both a computer laser 
+controller and another 
+computer program thai 
+dp"'lgns and performs the 
+placement of the circuit on the 
+chip, 
+
+A lotall\' automated sv!"otem 
+l'\en hold-... the promi ... e that 
+Po\\ erful computer systems 
+will be able to "reproduce" 
+thern..,el\'l's without thl' 
+e,\tel""i\,e human part IClpa 
+tlO11 and effort nm\ reqUIred. 
+
+":-"C'\\ general Ions of ('\'('r 
+mon° p()\\t'rful COIllputt:r.., can 
+Ihtl ... c\'ol\'l' in tlays rather 
+Ihall in the \ ('iu-s Ihal 
+llllTl'nt h ... epar~lte genera-
+tion"," ;..aid Dr . Lowell \\'()()d. 
+h e ado r t h l' La \\ I' a nee 
+LI\'('lmol'l' ~atl()l1al Lahora' 
+tory ILl \iU Special Studll's 
+Croup, \\ hlCh tll'\ eloped 11ll' 
+pn,l'l'ss. 
+B<.'atin~ Japan 
+
+L L N L Ph\' S III S t s H I' III l' 
+i\lt \\tIltal11s -ancl !Jr. 11'\ lI1g 
+
+Herman are leading the len-
+pl'r ... ol1 I('am \\orkll1g on la"er 
+pantography a ... part of a 
+cumhined lJepartTl1l'nt of 
+Enl'r).,f\' iI )l)E) and I'S '.;an 
+dillr t"1) clL'\ elop a nl'\\' typt' (;r 
+III u 111'pn ICl',,;"'!)r "t1 pprcOIl1 pu 
+IeI', the S-\. 
+
+.. \\' e need com pu t t'l'" I ha t 
+are 100 10 I,OO() time" fa"tl'r 
+111,m thosl' no\\' a\'adable," 
+
+Technology Repeats Itself 
+B} THO;\IA~ RANKIN 
+
+Nc\" Editor 
+Sometimes, s tepping back 
+
+i" moving forward. uch is 
+the cast' for laser panto-
+graph); it· straIghtforward 
+method of chip creation 
+harkenIng bark to the 
+archaic lechnology of the 
+Guttenberg press, 
+
+Current chip technology 
+can t race It... root s back to 
+the dawn of the printing 
+age. The pnnted \\ord was 
+created by linll1g up slugs 
+WIt h raised images of the 
+desired letters carved into 
+them. Drawings, howe\'er, 
+were printed differently, 
+the image etched into a 
+block of metal three-
+cltmensional ly , the ink-
+coated upper edges tran -
+(erring the picture to paper. 
+
+The development of 
+photography brought that 
+cru de process to an 
+unlamented end. Almost all 
+of today's newspapers and 
+magazines are printed on an 
+offset press, allowing crisp, 
+accurate printing in a 
+fract ion of the time of the 
+lalx)r-intensi\'e process of 
+arranging individual pieces 
+dema nded . 
+
+The basis of offset 
+print ing is a thin sheet of 
+meta I ma ted on one SIde 
+\\ I t h a I i g h t . s {' n SIt I \' e 
+emulSIOn formulated to 
+altracllnk TIll' emulsIon is 
+
+exposed 111 much the same 
+\\ay as a photogl'aph, 
+()\ erlaid with a negative and 
+exposed to an intense light 
+source. The plate is then 
+treated WIth chemicals tha t 
+!lush off the une'\posed 
+areas of the emuls ion , 
+I('a\'i ng the deSIred image 
+in t act. 
+
+The actual process cur-
+rently used to create a 
+mIcrochip is qlllt e complex, 
+but a SImplified look shows 
+It s close ties with both 
+photography and offse t 
+printing .. 
+
+First, a glass "negatl\'e" 
+(called a reticle) i. designed 
+by computer engineers in 
+the desi red pattern , The 
+si licon blank itself is then 
+heated and coaled with a 
+special light -se nsitive 
+substance called "photore-
+sist" and an ultraviolet 
+light is shone through the 
+reticle to expose the desired 
+pattern onto the chip. 
+
+When developed, most of 
+the photoresist is flushed 
+away, but the de ired 
+pattern (as defined by the 
+reticle) remains. The chip is 
+then coated with whatever 
+metal IS deemed to possess 
+the electrical propertIes 
+necessary and the process is 
+repeated . as man y t inws as 
+11l'Cl'ssary, wit h different 
+metals il; dIfferent patt erns 
+
+" stacked" ()Oe ulxm tht 
+other, un til the ctlrnpleted 
+chip IS formed. 
+
+Irol1lcall} , this process 
+makes for a large in\'est· 
+ment of tIme and creates a 
+great many unusable chips. 
+The <.;ahation of the printed 
+work is t he bane of t Iw 
+computer indu..,try. 
+
+La ser pantography 
+eltm inates the necd for 
+reticles . photnre..,ist, 
+metallIC coat Ings, a nd , 
+indeed , the whole dr(\\\n· 
+()U t proce s curr ent Iy 
+employed (sec 1.l(('()lJIpaJ/YIJIg 
+,' /01"\'). A laser \\'I th an 
+intensity a billion times 
+greater than the sun etche~ 
+the three-dimensional 
+c;;tructure directly onto the 
+chip. Gas "filters" in the 
+laser impart the desired 
+electrical properties directly 
+to the silicon itself. Errors 
+are almost impossible and 
+the process is quick . 
+painless. 
+
+From carving images into 
+lead, through the whole 
+process of light sensitive 
+coatings, and them back to 
+the carver, a computer-
+guided laser t hal can impart 
+intelligence to a lump of 
+crvstalli zed "and 1n a 
+miltter of microseconds. 
+We' \'e gone back IT1 t 1111(' 
+ancl. in ..,0 d01l1g' . ..;1 l'pp('d 
+into thl' future. 
+
+~aicl Carl lIau"'~mann, LL:-":L 
+A,,-;ociale DlIectr at Large, 
+"and are \'en'lntt'l'6Iecl In {'~ 
+Cmerl1Illl'n: Indu ... tn·. and 
+lllll\ er..,11 it'.., \\ (Irking t(;gl'lht'r, 
+as I hey art' 111 ]ap;lI1, 10 
+ad\ anel' oUI' (,ountI'\' 
+capahtlil \ to make and lN' 
+L'\l'r pO\\l'rful . U!Jl'rCqmpu 
+Il'r .... 
+
+CUITl'nl ",upt'rc(pnput er .. 
+l'an pl'l'form up 10 (;0 1111111l1!' 
+mathemallcal operatllll)'" a 
+..,t'L'on<1, about a..., fa ... t a~ tht 
+ent Ire human I'dCP an 
+COIlllHltl U~lng po~'k(:t 
+cakulatt'r ... 'HId at IUI"t ill,()Oi) 
+111I1t'" la"'lt'r thdn tod;n ... 
+pt r:-onal c()tl1puter~. 'I;hl' 
+11l'\\ 1.1 \ l'rmon' pI Pl'e,,'" COli Icl 
+grl'atl~ 1I1Crt',bt' I he numbel- of 
+:-UPI'l"Clllllpult:r ... a\ atl.lblt' for 
+
+u~t', :-horten th(' tlmt' 
+neCl's"ary to dl'\ dOll Impro\ l'tI 
+computer ... ,md drarnallcall~ 
+reduce I heir co;..!. "Thl rl' 
+art' about I ()() "'Upl'H'UmpUll'r", 
+111 U:-l' 111 lilt' \\'orld toda \' . 
+ifaussll1ann ... ald. "I l'lIllld 
+Imagint' \() of I he~l' la",('1' 
+pantography un!l;.. in a singlt' 
+room \\ ith each maklI1g on I.' 
+supercompuler stlil'tln \\aft'r a 
+da\'. That could lllean :->t'\'l'ral 
+the/usand ne\\ ~upl'rcornputt'r 
+I11odull'!"o could be built in that 
+Olll' room \I1 a year 
+
+Fast and O-irect 
+,\ n Intl'grall'd I.lrnlll I~ 
+
+I11erel\' a tlll~, Ihln Pll'Cl' oj a 
+pdt, C t !"o iii con l' I' ~ ~ I a I 
+emhia/OIwd into a "laCK 01 
+in t r i I. a It' p a I I l' I' n ;.. . E a ( h 
+"'l'Cllon 01 the patlern ha ... till' 
+"lwl'lal l'll'l'l neal proper! Il'~ 
+Ill'l'(kd III fnlm tlwlran"t...tnr .. , 
+l'apallltlr:-, rl· ... ls[<)rs and 
+('ol1nl',ltll" Ihill [111Ill llw 
+(!lIIIpll''\ t"lI'l'l rleal and 1(1)"'1l',!l 
+Iwt \\!lrk I hat '-II'l1pl'1"C" I he 
+I>r:lln (II a ,'OIllPUI('1' 
+
+Tlw t r:Jdlllonal met hod h,r 
+rnaklnl! IIltegrtl'd CIrcuIt" 
+In\tJht'''' rep('dtcd eriC (! 
+procc, "'c" .... uch a. phutu-
+graphIc "I:>urning" (If the 111 
+nm "urface, \.oatmg of thm 
+laY(,J"!"o of important dectri '<I 
+r'lCltenal , ape ('[chm,\."! a\~a\ 
+1I'1\\ ,1nt('C1 W'(';) E"'pl'l'wlh h)r 
+prot (I) pt Clreul! ... the prpce ... 
+1 .. I()\~. c\pcn .. i\ t and, \\ or t 
+Of all VILld ,I n 1,1tl\ l'h 1)\\ 
+i rae lIon III u, cl ble \,1 reUl' 
+;\lo"t are "horn dt'cld" 
+I~rl'\ OC;:, '11\ d,lIl1 I!!l-rl cll 'I I r 
+'he 1.1 'Xli' -'lI 1,J"{II.~" .,. 
+
+In c JIltra .... t he I' l'~n ()It 
+'J"er pan'ograpl \ (j /~,. J,H~ 
+... Ihm" potl·ntldl to ){ :':' 
+direct ,Ind It \ t'r Ibll' 
+d( ... tgn I' l h,mgt'c d ,t' 
+CIrCUli can hl' 1'~,lOl.t I I'll ", 
+"cratl h.I' ,I PlI"I.t:"t I'- '11,lrl' t 
+l all h t'r:l"l'd a nC! lorn • etl 
+
+La"er pa'1togr.lpln In\ )'H' 
+rapId n'aC'lOn" lI,,'ng t"tl'n l 
+grl'ell la:-('r hght dl~ectl'd o',t 
+...11 Icon "urfc( \\' h dI1 
+Il1ll'I1;"II) d htl'l,n t line ... 
+.l! I l' a t l' r I han 11 (I ) n t I 1I11 
+. unltght. At llOle", \ anoll' 
+ga"t''' an' lIlt r()dut'(~d \11[,) ,I 
+reaCllon chamber TIll' la"er I 
+pul;"l'd on and (IiI "'llla~t thm 
+react ion prCllr onl\" III the 
+center of Ih fOl'u~ed la"l'r 
+"pOI. aboul (lnt' mIcron 1:1 
+I11Illlonth of a \111.·ler ui al llli 
+om' 1\\ enl\ li\ t'·thou:-andth of 
+an lOch) -111 dlal11eler. Thl'" 
+('qu,ll.. till' rt':-oiul lUll of 
+current Intl'gr.lIl·d C1I'\'ll'l 
+t l'd1l1()I()g~ . 
+
+The Inll''''(' It~ht ... U!wr!wab 
+thl' "lIll'on "urtal(' fo: "lIl h 
+
+~r()n Ilntl !I',II hldllllg < nd 
+<'IhllIllg rangl· ... ('I hul'dn:d .... lif 
+bIllIoll" 01 elegll'l' pl'r "1'COllt' 
+art' delllt'\ eo g1\!I1g :hl' :.l"er 
+
+1>.I'lt(l~raph~ plore"'" Ih T'tdt 
+pka .... l' lurn 10 Jl.I~l' :l 
+
+General George S. Patton,Jr. on Cramming for Final. Page 5 
+'Return of the Jedi' hits an Diego. Hiatlls. 
+
+UCSD's New Recreation Center to Open Ne t Week. Page 7. 
+
+
+
+2 
+
+The UCSD Guardian 
+
+Opinion 
+l'lIsiJ."led ("dilorials represelllilie opilliolls o/Ihe t'dilurial board vf IIII' C'CSD 
+
+Guardiall. TlIP "diluyial board is composed of Lisa Lapill. Tom Hankin lind Call" 
+Tlltkle A II olher I1rlide, ill Ihis sec/lOll are solely /lleopillioll o/Ihe IC'YI /eralld d" JIIi/ 
+l/I'c.::ssuri(1 ,epr('sCIll/iJe l'i£'U'5 of Ihe Guardial/. its editorial board. ils adZ'Crlis('/"$ or 
+Ih,' ( 'JIII'eml) 0/ CI1i1furnia. 
+
+Life, a Mistuned Piano? 
+Editor: 
+
+[n The Guardia ~I (May ]9). 
+James R. Papp stated that the 
+people who oppose the modern 
+educational trend toward 
+specialization "seem to have 
+an idea that the 15th and 16th 
+centuries were jam-packed 
+with Leonardo daVinci's" and 
+a l 0 s tated that "these 
+people ... spend a lot of their 
+time thinking of the ancient 
+Greeks." What a fancifully 
+inaccurate view! 
+
+In reality. [ find that wewho 
+emphaSIze the \'alue of the 
+Renaissance \IIan do not 
+delude ourseh'cs by bclic\ ing 
+that the Renaissance Person 
+wi II ever be a widespread 
+academ IC phenomenon. 
+Rather, we believe that the 
+American educational ,-;ystem 
+sho uld adopt programs 
+allowing those of us who 
+choose to puruse an inter, 
+di sciplinary education the 
+freedom to do o. This means 
+allowing the tudent absolute 
+contro l over hi s own 
+educa tion. to the extent that 
+all courses are hi s own 
+c hoo s ing . provided the 
+program is supported by an 
+integrating philosopy and 
+goal. Given s uch an opportun' 
+ity. I myself would ha ve 
+eliminated mu ch of the 
+prerequisite cou r ses and 
+moved direct ly into a four·year 
+program co mposed of upper· 
+di vis ion work including math, 
+chemistry, physics, biology, 
+psychology, hi tory, art, 
+philosophy. and anthropology 
+(WIth emphasis on numerical 
+analysis, biochem istry, 
+electronics and computers, 
+neurobiology and genetics, all 
+psychology, and very specific 
+features in history, art, 
+comparitive phi losophlcs and 
+rehhrions), aimed toward a 
+degree In "Sc ientific 
+
+l'hilo~ophy and Application." 
+alicmmg me the abIlity to 
+approach ;,ctence With the 
+
+interests of humanity. rather 
+than industry , in mind. 
+
+As to the u efulness of such 
+an education,] need only point 
+out that Edi on and Buck-
+minister Fuller (as well as 
+many others) were both self· 
+educated Ren aissance Men 
+who earned li vi ngs outsIde the 
+academic·industrial main· 
+st ream while contributing 
+more to science and humanity 
+than many dozens of 
+traditional scielltists dUring 
+equatible time pel uxi:", and 
+t hatJoh n Lilly (a radical inter-
+disciplinist ) \\'as the first to 
+sugge!-.t and im'estigate the 
+spreading belief that dolphllls 
+are a~ IIltelligent a" humans 
+and th us may event ually prove 
+invaluable cohorts in the non· 
+destructive harvesting of the 
+wealth of the oceans. 
+
+Note that those of us who 
+va lue an interdisc iplinary 
+education are for the most part 
+convinced that many modern 
+economic, acia!. and 
+environmental problems are 
+the result of a particularly 
+virulent form of soc ial 
+schizophrenia which led to the 
+rape of the African cont inent. 
+the wholesale plunder of the 
+America~, and which now 
+leads to dark-ages,technology' 
+cracker, box housing, mean· 
+ingless and useless high 
+school. inhumane military· 
+indust rial compl exes, and 
+programmed cultural medio, 
+cnt y in the name of the 
+almighty Dollar. 
+
+Although it is doubtful that 
+it can rfadily solve these 
+heav il y-i nertiaed problems, 
+knowledge beyo nd one 's 
+chosen specializa tion presents 
+the op portunity for a ll 
+American citi ze ns to in ~ome 
+way reailze their dreams of a 
+sa ne society through an 
+en lightened active involve· 
+ment in the life·science· 
+cult u re proce~s, an oppor· 
+
+please turn to I)age ~ 
+
+The UCSD Guardi a n Thursday , May 26, 19 83 
+
+Letters to the Editor 
+
+Nuclear Weapons Protest Slated 
+Editor: 
+
+Hundred~ of thousands of 
+people world\\ ide \\ ill protest. 
+halt and disrupt the design. 
+production, tran'iportation 
+and deplovment of nuclear 
+weapons on June 20, 19R3, 
+InternatIOnal Di !-'Clrmament 
+Action Day. The I 'C SD based 
+affinity h'TOUP, Quetzacoatl. 
+will gather with many other 
+San Diegans to part lCipate in a 
+vigil and non ,violent blockade 
+at the entrance of the Ballast 
+Point submarine base at Point 
+Loma. We will be joining this 
+international day of protest to 
+focus attention on (1) global 
+nuclear di s armament , (2) 
+demilitari zation and non· 
+intervention, (3) eq uitabl e 
+distribution of wealth within 
+and between nations. and (4) 
+greater re pect for our planet's 
+fragile environment. 
+
+So. what does this mean for 
+students at UCSD?Quiteoften 
+we hear students being labeled 
+as apathetiC toward s the 
+issues outside their daily lives. 
+We think. rather, that this is a 
+feeli ng of powerlessness and 
+h o peless ne ss. Recentl y 
+students have watched our 
+state legislators chop the UC 
+budget without cons ideration 
+of the consequences. Yet. here 
+at Ballast Point submarine 
+base the Federal Government 
+has stationed more than 25 
+nuclear powered fa<;t attack 
+s ubmarine s armed with 
+n uclear-t ipp ed S lT BROC 
+torpedoes. General Dvnamics 
+Convair in Kearnev 'Me;,a is 
+producmg the sea launch and 
+ground Inlssles. There have 
+
+been test firings of the Ilew 
+generation of sea launch cruise 
+missiles from submannes ju~t 
+off of San Clemente Island. 
+San Diego is one of the most 
+beautifu l places in Amt:nca to 
+ItH' - It IS also a pnme target 
+for Sm'iet Nuclear missile .... 
+
+The time to act is no\\. We 
+will join in protest \\ it h people 
+t he wor ld over. especially I he 
+peoples of Europe, ag,lItlst 
+Reagan's "winnable nuclcar 
+war." Students need to realize 
+that they can make a 
+difference in the world. Once 
+t he bombs start dropping it 
+will be too late. 
+
+Man y America ns still hide 
+under the ill usion of peace 
+guaranteed by the concept of 
+Mutua ll y Assured Destruction 
+(MAD). Recall Jimmy Carter's 
+Presidential Directi ve 59 
+which contained three points, 
+First. it called fo the creation of 
+a rapid deployment stri ke 
+force; second , it in st ituted the 
+registration of all young men 
+in preparation for a draft; 
+
+third. and most importantly , it 
+ordered the retargeting of 11S 
+
+mlssile~ from I~ us;,ian cit ic~ to 
+I~ussian 11lIs"ile sites. Thus 
+began the ~hiit in lfS 'it ralPh')' 
+to t he use of nuclear \\ ealxlIls 
+111 an often..,l\e manner. 
+N udear wal ha" no\\' become 
+"\\innable," nol In the Illll1ds 
+of the AIl1t'nCall people. but 111 
+the mlllds of the Pent agon and 
+our g<)\ernll1g elilt:, Republi , 
+cans and ])emocratsallke. The 
+unrel iabilily of high techno, 
+IOh'Y makes it imjXlssible to 
+knock out all of the SO\ iet 
+lI1issiles in a "First Strike" 
+maneuver. Even if 10 percent 
+of the SO\'iet missiles sUf\'ive 
+such an attack. you can kiss 
+this co untr y good · bye. 
+America's finest city will 
+become America's fin es t 
+cemetary. Tens of millions of 
+American dea th s are now an 
+accepted s ide effect of a 
+"winnable" nuclear war. 
+While ordinary citi ze ns get 
+fried, those directly respon' 
+
+please turn to page 4 
+
+The UCSD GUARDIAN 
+I"l~1J K ()j(j 1.<1 j lllla , U \ !I~()~J;; l(i l ~11 t ,I~';l l ti() 
+
+News Ed it ors 
+Thoma~ Rankin 
+
+Caly Tinkle 
+Ol>in ion Edit or 
+
+Lisa Lapin 
+Arts Ed it or 
+
+Andrew Keeler 
+Art<; Co· Editor 
+
+Tim Augu ... 1 
+SpOI·ts Editor 
+
+Phd Lauder 
+
+Staff Writ ers: Cathy 
+Algarin, Raydcle An:h ilal , 
+Mike Beedl e. Pal Bl'rgman, 
+Beth Ringham. john Bricc. 
+Canolt' , I{obin Dearborn. joe 
+Falletta, MIke Greenberg, 
+Todd lI aines. Cnllg Kakuda, 
+Tim Ka"1ll1l11. :\Iargo K l'II~, 
+Hobert Leone. (;regol") 
+Marl III Ill', Kal'l'n :\1 UlIl'n, 
+Ckdl'lll' ;'IIl'e, john , l'", jall l"s 
+
+I~ alph Papp, (;us ~dI114)\4). jdf 
+Sal1lOyo. Jeff ~a\ ag\'o j.:U 
+St hapirn. '1\ nail Schllll(ll. 
+
+From the Programming Commissioner Photo EditOl' lhl,id Ollll'r 
+General Manager 
+
+ChriS Milke 
+
+jllll SchUll, ;\!Ilch So,na. 
+l\1 ;lllrl'l'1l Tlh ;ll-.diJall, :\III-.d 
+To, 1/11 b ... 
+
+Editor: 
+Ha\mg suddeenl, been thru'it 
+to the forefront of the lICSD 
+IXllitlcal scene. \'Ia mv electio'1 
+and the publlClt, It 'bnng:". I 
+wish to explain a few of m\' 
+philosophies and lho..,e of the 
+Tuppemare Party 
+
+The I"sue ... \\c "tand upon 
+and "ere elected upon \\ ere 
+the pnxiuctlon of e\'ents that 
+will benefit, educate and 
+~t ilnulate a large percentage of 
+the student body. We do not, 
+did not. and ne\er will do thl.., 
+at the expen"e of t he common 
+good. I e fees. parking. 
+recreatIOn areas. lilt ram urals, 
+'it udent repre..,entatlon. Phase 
+II. etc ... 
+
+Tht, fact that we hav(, b('('n 
+la b(,led by pollt ic .. ]] y con-.clOus 
+~'TlJllPS a., fraterni[l,. "pol1"ored 
+'Ir din'lll'd. I'" ludl("rou..,. We 
+are nOI rif)Jl(·". Thl' .,t tlril'nt 
+populace fnr I hI' fir;,1 t inH' 111 
+
+,'\SL'CSD hlstorv elected an 
+entire slate. 'I\velve out of 
+twelve student... to fir"t place 
+rankll1g;,. only to I()~e simply 
+one In the Run ·off elect IOn not 
+\\ Ith.,tandmg the contnJ\"er ... v 
+generated by a group <if 
+polillcally acti\e and 
+Important people. 
+
+I do not wish to dl'mp<ln or 
+de,!xl\\ er I hese -.peClalll1lere'it 
+group ... for the\" repres('llt an 
+imlxlrtant part' of the checks 
+and balances ;,\..,tem.., of the 
+AS[lCSl> (;o\erFlment. I 
+Simply il..,k thill tho..,e ... ludl·ll l" 
+look a t bot h s ides of a 
+pre"enlecllssLle before lormll1g 
+a lonc1u..,lOn 
+
+ThiS brlllg.., me to an 1"'..,Ut' 
+which may possibly I-{row to 
+be (Jne of the years larl-{est -
+the repeal of t hp Conr ... Beer 
+JjO"COll . For t hos ' UIlI n formed 
+IIl 'thl' mattl·r . ..,e\cral vear.., 
+ago th(' \ '. (oullcil \ot(.'d III 
+hoycott lonr,., lin camIlli" 
+
+which results In not allowing 
+Coors at TGs or in the Pub. 
+The present Cou ncil and 
+myself are investigating the 
+allegations made by organized 
+labor agains t the Coors 
+Corporation. We are sc hed· 
+uli ng an open forum bel ween 
+representatives from both 
+factions. We are also sending 
+represent at 1\ es to Colden , 
+Colorado 10 the brcwerv to 
+i n ten It' \V em pi (J \" e e s' at 
+randnm. to determine the 
+I ru I h of allega t IOns concern II1g 
+hiring pracllces and discnm 
+inatlon \Jot lint il we haH' 
+in\'eQlgated Ihe malter 
+I horough I y, \\ III \\ e vote to 
+kcel> 01 repea I the Ix)vcolt. I 
+ask ~'ou ,..., t ho..,p WI' n·j)r(· ... ent 
+to elo t he ""me - lw('olOe 
+inforllled hdorc d('Cldlllg lll)(1l1 
+an I.,,,U,' 
+
+Greg Hcmpcrly 
+COll1l11i!-."iotlel· or Pro -
+
+g,'a 111 III ill ~ 
+
+As!oooc. General Managers 
+I.lnda 1.l"'\I~ 
+
+ValerIe :\1c:o.ll1lhl1 
+P ,'oduct ion "'I ana~el­
+
+Ann :\1111<:1' 
+Pnlduct ion WOI'kel '!oo 
+
+jllhn I. ~ mlJ<.'rg 
+CllI IS You ng 
+Typeselters 
+.\l1drl·<1 lLlrk 
+.Jill' I k"ldl'l"IO 
+Plana :0.1\ ,'I'''' 
+
+(hnsllllc OSIl'1I1 ald"1 
+1~lchard Th .. II1(' 
+
+Siaff Pholograph.·)"..,: \n l1 
+lUlllIlg. ,\1 <11"\ h,11l"1 1~lIh 
+l'lwdl'nl hill, I )I'<ln 11('nelll'l 
+1\11 ... la I\lg"I, !lal It! :-:1'\\1,11. 
+1{lC"h 1'("1 I a I-. , PC'll' 1·"/"l""';111 ~1I"al1 ~I"II"'I. \l iI,,' :'1,'''1;'' 
+lill III SI(jlld;1l d 
+
+Vol. 49, No. 16 
+
+Ihl' l r(so Guardian I" 
+pulJhsl1l'd :\llInda\ , alld 
+Thur..,da)., during I hl' 
+alildl'lllll" \l'al IJ\ studl'nh al 
+l "C!-o l) . 1<l'produC"lIIm III' USt 
+II II houl Pl'llll ",-.11111 ill ilm 
+Pili! ifill Ill' I lih Ill'\\ .,papt I' h 
+.,Inrll\ pndlillllt,cl. !'Jill 
+
+Il'st~m",hll' I'll 1IlNdl\"l!t'd 
+l11anu-enpl .. Ill' ilri. '1 h,' 
+Cuanlian "'UihCl"lhl.''' 1111111' 
+1.1>' i\n~d,·., TlIlll" .... \ I\(lIe;Clt·, 
+Pat III, :"\('"'' ~t'r\ ICl··;lllci 
+l 111\ 1'1 ... 11 I'll''''':'' mlll';!I.·. 
+
+Illll o!fl('t' 1-. lo( ,III~ I 
+... "tli l1,a .. 1 III I ht 1<(,H'IIt' 
+1'111\ ., .. 1 (JIlin' 1111 III(' I'e ~I) 
+l"dlllpU .. Ihl' Blhllll''''' Olllt"l' 
+I" Il)ll'n 1111111 I)i II II 10IltHIII ;lIld 
+I pili III .11'111 .\IIInd.J\ I hnlugh 
+l'nc!;1\ 
+
+~lIh" nplllln .. II III Ix 
+111<11"·,11111 ~I() P")" qllillll·l. 
+
+May 26,1983 
+
+Thur..,<hl), May :W. I H8:~ Thl: l'(SO (;uardian 
+
+Noise Pollution Dominates UCSD James Ralph Papp, Calulnnist 
+EditOl': 
+
+Sn eral IIlC)(il'nt" I1HJ\ e 111(' 
+to complain about the gnm IIlg 
+nOhl' pollutlOllon camllu;,. 
+
+,\1:. office. in an ,1Irlight 
+bulldil1l-{ \\ It h ;,ealed \\"1I1dO\\', 
+and thick mncrl't(' \Va II;,. I~ 
+rendered unu;,able for long 
+penocl-, b~ infernal bla;,ts of 
+rock'n'roli 'Nhich ha\'e spread 
+beyond Frioclay aft ('rnoon ... 
+Into n[)on houl s. other 
+afternoons. and c\'en 
+\\ l'ekencb. 
+
+The clorll1 I tOrJ<''' arc 
+becoming Ildli ... h place". t\ 
+fle;,hman of Illy acqua1l1tann' 
+\\<1" forced, \\1l1l ,,('\erallik('· 
+Il1l1lckd ... t udel1t;" to rl'llt a 
+III otl' I room In oreier t () be a hit-
+
+t(l"t\ld~ fill 1I11tileillb Il"dl('r! 
+
+thl" I" not \II1COn1l1101l. :-Jot 
+olll~ ..,tud\. bUI ('\ell ..,I(·['p. h 
+becOIl1Ing Ie ...... and les;, possibl(' 
+in thl'''l' I>I<Hl'''', ll1ak1l1g til('lr 
+naml' of "dorll1llon" .. hollo\\ 
+I110cken indeed . . 
+
+III shim, If a un i\,er ... il \ can 
+be characten/ed a... a 'place 
+where reading. thinking, 
+talking. and \\Tltlng arc 
+paramount ani\lties. then \\l' 
+no longer h;n'e <I unl't'r..,1l \. 
+
+Some ... imple correc t \ ie" are 
+I n orcin. 
+
+I) • OIse or(linance" ... IlIJLild 
+bL' "'Irietl, enforced 011 
+call1pll'o. the occa'-Illnal 
+aftt' rn()()1l bash "'n'ms 
+11 <:,ce., ... ar) It hllllgh I ... llCIuld 
+pOlflt oul that till' la"t olle 
+could hI' heard di'otlnC"tl\' al 
+
+Scnpp" IirJ"'pllal , ;)(I'Oss 11ll' 
+free\\ ay . bUI \\ hy pro!Jft ralt· 
+them emlle ...... h· and wIn lIlakl 
+"'eH'ral "'qU;lIl' mill· ... III till 
+planet u nlllllabll a hit, al Ill(' 
+-;an1l' t line' 
+
+~I 'itllcit-nls \\i..,llIrlg to 
+II"ten to loud mU;,ll In 
+clormilllrJes ..,hould I)(,I"I"I/III/Td 
+10 USt earphone..,. Cheap , 
+('Xl"elll'lll l·arpholle.., \\ h 1(" h do 
+nol CLII lIut the ollhlcie "'orld 
+are n:aclliv a\clllablt" at a 
+Irarllon of the nht of tIle' Star 
+Wars (lucl!o l~llIipn1t'nl Illr,,,t 
+..,t udent S Sl"em to he able to 
+a ff 0 rd. \\' l' it r I n g t hi'''' (' 
+earphone" cI'll'S II lit abnclgl' 
+I hl'lr right-; In I Ill' ... llghll· ... t 
+I hl'\ an' ... t 1I11)('rf('('11\ frc e til 
+
+pll'a'l' t lIrn to pagl' I 
+
+JUNE1,2,3 
+
+'['he Garden: A 
+Bureaucrats Lament 
+1\\ Ilr it L ttlt IIdp fron,\ndn '. \lanl'l.) 
+
+1I1l\\ \;II11h Illin tlil'llI,h!' .l1n'I/I' 
+'10 \\ II t)1(' p;illll, till' (I"". 'II" 1);1\ .... 
+You 'd tlllnk Ih(,~ ' d tr:. 10 "Ill'n(, 11,11 d; \"'" 
+In reading fJrKlk ... a'1d llI1dlllg \\ al" 
+\1111'(' \ariou ... of pa ....... lng tl'''t" 
+Ilht ead 'Ii bt'lI1g hOll""hllld Pt'''h 
+Ih' ..,t1rnng LIP thl" pe;l('t1ul )!lIld 
+Of \1 hH"h t hl'1 1"1' IIHmlm;!1l \ 'ollri 
+bill Ollil t. l.a\1 If IUlId Ihl'I' herl' 
+' \lId 11I1'1IC!·lIlf·. 11'\", It'r 'I,', r' 
+h ,r \\ t' ;1 bhlJr .Ill \ It \ 
+.\nd Ilt'\\ 1f1",I" i 'Itl' ""l' 
+I-lI r ()UII t lll"fI"1 1,1I1101 r 
+\ 1\(~lIor a 1I((' I lrll (Pill I 
+
+.... , 11l'1 I d:)Jl I '(~l 
+'I Ihl rl'l 1"'1 , • 
+\ \ t'", hill 'I. 'l.'llrl r II 'II. 
+\\Ill ,\,~ 1"'01' .1 II 
+I II '. IT I ,"I 11\ I f It 
+
+.... II h' '11" 'I I • '1. I ' • , ( 
+\ l{ I l 11' I • I ) 1 ' t ... f it 
+\\1",1 \1.I'l'lpt . 't' , 'I' 
+\ 1 n ' ·Id I ).., I I' ) I, II Idl 
+I n J!. ('X toll( t f t d( '1. I t 
+\\h.' \',111 rc'J h, 111 II' , 
+In Ir'I I(,n- lal al~'J! "l 
+It'll J ' I)t "I ,,,I "r' (,. ,III 
+'\nd." f,,' l r, ng .''1' )-( lb. 
+hll tl'dl qur m,n ',ll ''11 .... 1 HI.! 
+1 \lId 11"'1\ Id I'll) ',\', 'l'llC,1 
+.... !lund- ,n L1\ h/ec 10 u" 
+:--;'ral1 \\ r'If' pull h:lI11chnlJ'I'" 
+"lllh I~ t 11" I clpJl\ ..!drdl r 11'1 
+
+r ' 
+
+\, I 1l',1Il Coil' \\. I" \\ t hm .1 '1d~t' 
+\\,111 , (.ITTI'· ... 1,1' lh In \\ 1'lIl , I'll hi ' 
+\ncl ... IWl't I,' '·'·l.(llI. IllIn'" • " 
+:--1~lId'l r(" n '1l'\, l'll'll , l 
+
+~'1I \,11' Ilut lh .. Iftt' II' 
+I l :'1) I ... 1111\, ..t ,'I 
+1 Ct· l·\ t (It I i~i he ~l'd t''' t }I tt 
+
+:~ 
+
+
+
+4 
+
+UNIVERSITY OF CAUFORNIA SEAL 
+14 Karat Yellow Gold 
+
+PENDANT mE TAC . . . 
+With Diamond .. . 
+
+CUFFUNKS .. . .. .. . 
+
+7643 Girard Avenue 
+La Jolla, CA 92037 
+
+(619) 459-3672 
+
+S195. 
+S24O. 
+S595. 
+
+The UCSD Guardian 
+
+WARNING 
+FROM THE 
+
+MATHEMATICS 
+DEPARTMENT 
+
+All students intending to enroll in a lower 
+division mathematics course next fall are 
+strongly urged to pre-enroll .D.2.W. The 
+
+department anticipates having to turn away 
+students from some of these courses as 
+
+currently scheduled sections fill . Due to a 
+cutback in the department's TA allocation 
+next year, it will probably not be possible 
+to add sections as needed to accommodate 
+the demand. The Mathematics Department 
+deeply regrets the necessity of abandoning 
+
+its longstanding policy of allowing 
+enrollment demand to dictate the number 
+
+of sections. 
+
+STUDENT DISCOUNT 
+Get special savings on these featured releases, 
+and 20 % off every other album and cassette in stock. 
+
+SALE 5 !!ette or LP 
+
+RCA 
+
+MI:N AT WCHI( 
+CARGO 
+
+nr1uo.rtg 
+v."' •• fl l ' A M _'1 ~' M'gh W ·'" 
+
+0. 11. -k,, " &M 'vI' 
+SI""lfO 0(>..,., M, 8r • .,. 
+
+A&M 
+
+MICHAEL 
+JACKSON 
+
+nfRILLER 
+,nc1ud'nq 
+
+Tn,. Glr' , .. M,rw" ,Wtlh PlIIu Mctartory. 
+1h"lIe, B.by 81> Mu'lI" Bu'. JeiWl 
+
+WAnn .. a.o SIA'!." ~h," 
+
+A&M 
+
+PINK FLOYD 
+THE FINAL CUT 
+
+HKluc::hng 
+'¥QUI Ponlble Pas,s!TM Gunl'\f!'. Dream 
+
+The Me-mor,.' Home 
+No. 
+
+rut"fldO, h,( 
+<..ood't" 1"-'0 <.,tw)f.~ 
+
+o:,onv.thtnq u'"'' 
+
+EP'C 
+
+Offer good through May 16, 1983. 
+
+200/0 OFF ALL MUSIC 
+Present a valid Student 1.0. and get 20% off all regular priced albums and 
+prerecorded cassettes in stock. .. no limit. (Sale items not included.) 
+Offer good through May 21 , 1983. 
+
+La Jolla Village Square 
+
+We Bring Entertainment to Life! 
+-~ ~, ~I~ 4:l0075-{)43 __ 
+
+Thursday. May 26, 1983 
+
+Pollution 
+continued from page :I 
+sonicat e their own bralm, into 
+gray glop. Others. who want to 
+sleep or study or talk . or who 
+perhaps do not enjoy listening 
+to vocalists who sound as if 
+they are being disemboweled 
+by a rusty sardine tin . will also 
+be able to exercise their rights. 
+
+I realize that one of the joy 
+of lis tening to rock'n 'rol l is to 
+epaler les bourgeois. It's fun to 
+watch the tense. frightened , 
+and angui s hed fa ces o f 
+innocent passerby. But you 
+ha ve all so rt s of parks and 
+beaches - indeed. all th e rest 
+of South ern Californi a - to do 
+it in . Why wreck the import ant 
+f unctions of a un iversit y? 
+
+I would appreciate heari ng 
+from li ke·m inded student s 
+facult y, and adminst rators. 
+
+Christopher Will ! 
+Professor of Biolog: 
+
+Protest 
+continued from page 2 
+SIbil' are wh isked safel} away. 
+T he choice of who is to live and 
+who is to d ie is out of our 
+hands. While the House and 
+Senate vote on a nuclear arms 
+freeze (a powerless. symbolic 
+gesture wi th no conseq uence). 
+it is up to all of us concerned 
+people to take direct action to 
+turn the sItuation around. 
+Non-\'iolent civil disobedience 
+IS c1earlv civil defense. 
+
+Anyone IIlterested III findlllg 
+out more ab()utthedemon~tra ­
+lIOn .ll Ballast Point and the 
+affinity group. Quelzaroatl. 
+\\ hich participated III the 
+recent Vandenburg delllon 
+stralion can contact Jesse 
+Smtlh at -152-2311. The 
+group\; next mceting will take 
+
+I place on May 3 L. 5::W at the Che Cafe_ Those planning to 
+partIcIpate in the June 20 
+Ballast I'oint blockade ale 
+r{'<jUlred to l'l1mll III a non-
+
+• \Ioil'nce Irainmg \\'ork~hop on 
+any Saturday until June 20. 
+For mnr(' Informalion 
+rega rding t he Balla~t I'lIInt 
+legal IlgIl 01 to l11akl 
+resen at I()n~ for I he \\orkshop. 
+call Cean al 27:>-11 (12 . FOI 
+addItional infolmatlon 
+('OI1l'l'rtItng Ihe blockade. cal l 
+I he Ballast POlllt Organlling 
+Project at 2H2·8;iIO. 
+Qu e tzac oatl Affinit y G,'oup 
+
+Mistuned 
+cont illll cd from page..' 2 
+tunit y never before of fered al 
+such a high Icvel of frel"{lom. 
+Wit hout such ll1\olvell1enl. 
+modern Itfe 1'0 a mistunl'd 
+player-piano 1\ Ithout coller, 
+live conscience. \cry Ix)s~lbh 
+destined for self-destruct ion _ . 
+Steve Thomas 
+
+I Don't write 
+home, write 
+to the 
+Guardian. 
+
+\<ld rl· ...... all Il'Itl' ''-; to t ill' 
+l' <litor III cnr(' of I he 
+O()inlOl1 l'ditOl, The ( (Sf) 
+(, Itflu/ia II , B·O In. ,\11 
+'0 1I hill j s ... ill n ... 11l1l ... • h l' 
+1\ ()l'<I and include a nallll' 
+al1d phOlll ' 1111 III her. 
+
+The UCS D Guar dian NeW"s Thomas Rapkin, N ('ws E di tor 
+Student Center -----------
+
+Contract Signed 
+B) WE:-.oDY PAL L~O;-': 
+
+",alf \\ nll'r 
+
+'\ 111O\'t' I()\\'arcl ,lrlI111111 ... tra conference 1'001111 . and IIu\'.ide 
+tllr"lucient 11l'~oltation., on s tudent parllClpatlol1 '" 
+thl' "'tudent C('IH!'r hl'gan "o.;trongh l:1ll·(lurag('d." "1l1n' 
+when a ''\It'1110I'andu1l1 "I Ihl ~ 1-. thl' h,hl'" f,lr majllr 
+\ Indl'p,landlllg" I\d'; pa"'t,<1 lhangl's In Ihe fulul'(' III lilt' 
+.m \\ ('dlll':-da\ oj Iasl 1\I't'k al :-'Iudllli ll'nl('L 
+till' fInal Slud~'!11 Cl'ntl I' gilaI'd Tilt ::--FCo..;F 'ol'llll·d 11 Illl 
+'lll'tllllg III' I Ill' )l'ar \\"\l lllr ',':1 quar'('I bl'all"l 
+
+Thl "\It' Il'II ancill!1 of o.;l'Idl'II\'.Il·lllilat till "lB\\i1 
+I 'lldl'r"'lnd1l1g' I'" I loll'lold "ul l lll'IIW 'roll ,I I;k')., 1)1 
+dra\\,I' UI) 1\ Ihe SllIdl 1,1', I'~I), ,(Ill 11 unll ItllJl1 '11'1 1 -,,<JUl 
+(III1/nl II/ .""1" dill/ 1-(1 lit, t tl 11\ . I hl'l \0 .nl'l'lt I III" 
+prlljlo t·" )!o.i1 1/ IlII-.;r!,.r .1Ile! ,111<1 d /I" tn dr;l\\ t', I"l 
+·JI"(lCld·lrl' ... I/I!Jl'U l'( II 't.lt rl' . :'I"IlIH,lnt! \I ,! \'1 tllr ,n 
+dl'\ l OJlI1'l nl ,f til "1,1:( III (jill)!' - I I I: \\ a .... ",IPII.Irt·1l 
+II nll'l tl 'II I hl '"Il B II a 0.; Ilfll ~I. ng I" 
+
+I~la ""rh Iflr "'1It'l1 IJI'III,I, ... ,t1., 1",,1.' dlll' Il' 1111 thl prlll.!'ll 
+.In· ltecauo,;.· "Ihe IIIl 11.1111111..; 1.11 lilt: lilt' cll I l/lpnlt'lll , thl' 
+Illflul·IlI·{. and dl'll'ol III Sludel1t Cl·nIU·. 
+IlWklllg III tlwSltl<k'nt Cenll\' 
+Il\u ... t bl' "pl'lll'(! 'Illt bdlill' ,111\ 
+~l'l'IlHb altt'IIlpl can I'l' IIlildl'lo 
+ft·rt ill'r ril'l cllJp and expal1d 
+Ihl' :-,tudenl (l·ntl'r.·· 
+dlTlmlmg to Ih,' 111l·!1H,l'an· 
+dum 
+
+The lllnl ratl I\d" "lgl1l·d b~ 
+\ artlluo,; 0.;1 ud"nl orgalll/.llllJl1-. 
+111 111t' :-'lUdl'nt Cl'nll'r \I ho 
+\Il'n' a ... ked in till' l1lelllllr;m 
+tilllll I .. "1'('llt'\1 1111' '~I\III", 
+
+dl~cuo.; .. Ih,·1I1. and lI;ac!l ;1 
+l .. n .. l·lbll ..... " ()IXt' "Ignl'd. 
+'Ill' lon'lau \\. pn,.,cntull/' 
+II I> ~Iudl.'rt· Cl "tl'r BII<lrJ 
+(:-l HI.It \\ ('drtt'"dit\' Il' 'l·II'lg 
+,mel \:1 .11 (( v'l'd til "<il'll "'-' 
+tnt! ad"pt . I I thl' II .,.(1 II 
+~ l I{ l h ,I II I' ,I l' I Il n"l r 
+h{·IIIII.t1h, ,'ll "'l'I-\ 1\ II: 
+l) t' I)/O," tl't' 'lItl'1or,lntiUIl: til 
+\ l t· l h01' I Ilul l I'd~·' 
+graJua 1(' '\1 lap', JO"l :1' 
+\\ .It"un. 1\ hI) \\ til 1)(' <I,kld tIl 
+"Ign 'Ill' agn'l m'nl :tIling, Idl' 
+o! lIlt' "t ur!I'nl s 1\ h h;1 It' 
+al" l';\lh ~ I,l.!nl'(llt 
+
+Thl'll' art' till' iJa,\C point ... 
+.. n the I11l'ntoll'andum. 1\ 11Icit l~ 
+!-Ia Il·d til ill' [('Ill'\\ cd L'I'l'r\' IlIl' 
+\ ears, I nIh I~ way. gr<t<!u-at In,l.! 
+.. tuden\'. loan ill' ,,~surl'(1 thaI 
+I he adl1l1nisl ratIOn II ti l not 
+dl'a~tll'alh change Ihe goal:--of 
+the Sludenl Center Ihal 
+In I 01 \ l'd s Iud l' n I " h ;1 \. t' 
+\\orkt-d so hard for in the pa~t. 
+
+The " :\'1l'1l1or andUIl1 01 
+\'ndl'rstanding" propo .. al t .. 
+lilt' SCB \\it" passed bv a 
+m inlll1al majorilY. wit h lOll I' 
+
+lolt'~ lUI It. tl\()again~t II. ,111<1 
+Iwo ab ... ll'nllon ,;. Fecling" 
+among SC H 111l'l11bl'r,.; \1 l're 
+thaI theIr COlbtIIUl'I1C1l'S haH> 
+sitld thaI "\\(' I>eli('\e 111 these 
+
+prlnl'lpll'~ and ~hould 
+l'~tabllsh ~oll1l'thlng along 
+Ihese Itne ... \\'lIh Dr. Watson" 
+I>I,,;cusslon \\ III cnntinul' on 
+t h l' ... \1 emora ncilll11 of 
+\ Ind('rslandlllg" In furt her 
+SC B I11l.'l't IIlg ... lIn the KSI>T 
+
+P a tton: The Finals Conflict 
+I 
+I 
+I 
+I 
+
+8p('('( II J,[I/I'II /lIJS 1111111111 I! S(I' b\ (;( IIf' m I ( ;w l),f/ , '. I'll /til II /1'. II) s<,/dier, () 1£'11(((/ I lUll {/ ',u// d 
+If} "II/h(/I'k Oil (/ gl'(,({/ (/(/I'f II/II/'(" IIII' I(/~/, II/lollill'/lfi, hilI/If lor /.frllc/(,. Filla/.' II, d, III (1)(" I 
+gmv. IIlglollfl/{' rill\,S IIfJlm I) Iln!.-, II If/kl's II n'allllllll, (/ fl'an'" 11111 II Id,'{ ['III/Oil II) /l't l til 
+1111 tug( tIll,/" Ii})' cr//(('((ti{1J/(I1 gm)/I.\~/{I" liS /IS 
+
+HI' "e;lll'd. 
+:\o\\' I walll \'Ol! to nll1emiJu' th:\t no ba"loird l\~t \\lItl 3:1 ".\'. ')\ d\,ng' II- hI" 
+
+('()ut'l q . He \\I,ll It by mak Illg till ot her pfKlr ciumh h,ht lrd ('H' r(Ir/,I. l' )'lrt 1'\ \ It ., I'lrd 
+\\"l1ll'l1l. "II thl-. 'otuff)llu\l'lwardabflul {'e ~[)"tudLl1t tlot .\anttng'l IU i,. \\~ n' r.g; 
+'ll"ta:'l)utllf:tI1, t1'i,balol(Jlhf)r ... edllng.,\I1Wrt('all-',I~dlli wall:. 1011 'I "It" \ utll 
+
+1,\mL'rt.:a n " lUll IhL' ..,ttng 01 illlal;; WhL'n ~'lll WerL' kid.., ~()U d'i ddl1ll11'( 'hl l:' n, In 
+IlI'arbll ... h'Hltl'r Ih· f:l"t(',,· runnL'r (he bIg It>; gul' b,dl player"" tilt' " 'gllL' .. t h,,\t'r. 
+1\" elluIP ... I<I\I''\\\il1lH:! <tlldltillllultulerdte 1'IJ"er.Amtn,~n"I'I.l\ til lit, 1I'll' It 
+: [ 1\l)u[dn't gil'l' a h()()t tr1 Ih'lI fur a man whl} [o-.t dnd 1. uglwd ') b 't· ... \\ h\ \1]11 rt .til 
+
+Ih~"l'lll"I"fclll('d,oll](I\\illnl\l'rfailatl'-'I.I)(>cal~('lhewr, Ihought I[tdlltng. IItI!tpt! 
+I til \ tll{ l't lIh 
+I '/)\\, , t'f.!lege h .1 '(.Il' . It li\L'!;, (.I' ,I('ep"..;t die ,1'0 a team 'I !--,. 11((' Idl " 
+f "tutj i,,; bUIll h of crap. ' /11(' bdlOlb bast.lrd, \\ ho \\ rott' thaI ('I'd)) for '\/,,11(( r/tlfll d 111'1 
+I kIHI\\ II1~thlllg morl' 'Ibollt In"stud~ll1gth(ll1tlll'~ dUdbll,tl [flrnlldtit'g '\11\ \\(' '\ 
+Ill,e fllle"t fllod and ('(jlll(l11 t'nl. !he h('~( -,plrit. z,nd the '1l'sl ~tudl'nt~ in tl'e \\11' d. \ < u 
+I kllo\\·. b~ (;od) al'tuall~ Ilil) th" .. t'p()orbastard~ that arl'g'llng'upagaln:-llh b:. (lOG: dp: 
+I \\ l" re Illl( J u:-t gntng IOillH ,,111.1 rt t ht· b;h( a rd s. \\"(:, ' \"l' goi ng til eu t ou t t hei I It \ tIlg gu I" lnd 
+
+11I~L t 1tL'1Il If) gn'<t'ol' t hI.' llllcrol'illjh Illllur calculators \\'L"re gll1ng III II/I/i'llt r n'(bL' I( :; ... } 
+: mUltiple choit'l, Cjtl(.':-tIOI1 S b~' till' bll.,/II·/! 
+I ;-J()\\ , sol1H.' of you Ix)\'" (1 nd gi rl ... )' [ k 11()\\ . an' 1\'oIHkri ng \\' het her or not ~ ou 'Ill hll h'tl 
+l out under fire. Don't \\IIIT~ abouII!' J ran a""ure }OU that you \\ ill all do y()urdul~ Tht'l 
+I Flnab ({ rc the c:nem:. . \\' ack In t 0 I helll' SpIll tlllir bl()od! I~ ui n / "(,il' run e! Whell VOll \JU ( I 
+your hancl into a bUllelt of J,[III) that a moment before \\'a:- your be"t friend 's l;rade I'olllt I 
+l\\l'lage. you'lI kn()\\ \\ hal 10 do. I 
+
+:'IJ()\\ th·ere·..., another thing) wanl yoUlort'Illt'l11lwr.! don 'I I\ant togel am rnl.~ .. agl's: 
+sa:. ing that we are h()ldll1g our (;PA. We're not holding anythillg. Let the undeclaled I 
+malors do that. We are adl anring 1'1I1I.'/17II/Iv and \\'t,'re nIl Il1tt' l'l'sted in hilidill\.! 'Ill to l 
+anyt h i ng except t he test. \\p' r(' g()i ng t () hold Oil lot ha t eu n e In the nO'\1 • and \\ l . rl' gOlllg: 
+to kick it in lhe ass! We'n' gorng to kICk the Ill'Illlut of II alllhe tlllle. and wl"rt'~()lngl 
+to go through it like (rap through a gU()SI'! I 
+
+'\0\\ . there':- ()ne thing that ~ou men (and \\-ollll'n l \\ ill be able I() :--a~ ",11t'1l :.OU gel: 
+back home. al:d Y~lu 111a~' thank (~od for it. Thirty year:- from n()\\. \\hen you'll> "'Itting I 
+arOll nd you r fl re"'lde \\ It h you r gra nel son on your knCl'. and Iw a:-k" you .. Ho\\' dId \ Ill! do I 
+in the great Tesls FaiSt' and True?" you \\on ' t h:l\t' t() sa~ . "\\'l'Il. I all' :--hl( 1111 
+Lit Wnlmg 1:Z1 ." Alright. nm\ ~ou son~ of bitches. \Ott knm\ hm\ ) fecI.) \\ III be proud I 
+to lead you wonderful guy:- (and gab l mtn linab an~ tll11l'. an:. \\'Iwrl'. : 
+
+That's all. I 
+-Edlll'd In ~lldlal'~ _\hnl 
+
+. I L _____________________________________________ . 
+
+Page 5 
+Ma) 26,1983 
+
+Computers 
+""lIt Illllt tI Irlll11 IhlJ:t I 
+tl II' 'f!. r( ,J'I'I r 
+
+\\bu 'It).,1 l , t, '1.1", 
+'to tllt ~ I it" h, l 3<. t It n .... 
+
+• _"1' nIt " rl I t n 
+l ,," I' 1 'l Ur I l,,-t r l 
+(. Jh(~ ,,!t Y " 
+
+'i1t ,r ,.- ~J till 1 t 
+IJL·l '- ,1, I l I '1 t f ( 
+()I1~OIng Effort 
+
+""" r j 1 t' t t 
+
+)' d ..... t r. ~t t l I t'f. I r 
+I'l n .. I' It: t 
+
+:'1 " r, 1\ lr 
+).,0 l·nll ( ,. 'I t ',~ t 1 • l 
+('nl.\.,:l'l"I" )1" Ill" I' '11 
+.11'1' •. al' Irdl"g t, L['xl 
+"Ix ·~l''''·n.1I1 :'III( had RI" fr, 
+IIH, lu Lr,. II'lre .... '1 
+jJl" ... lblJt[\ th,I' klt'rnl'lrt 
+ril'l (I P1l1('111 ~ \ II ht· ... ( d. 
+\1 't I' tl'( rL'<jJlrl'mtlll ,h. ~ 
+~(J)altll' I ... ;J,lId Ir 1'1U, h till 
+.... dIlle \\d) d .... pro<iU\ { ... 
+del 1·IOpt'c! 11\ prl\ .ttl' I!1du ... t 1'\ 
+, I: !, h"p,-G tl-at :hl' 1111. 
+dlfl"l\ dt'lllop'IIt'nt ,·."t, ., ... 
+\Iell ;1' 1'1. k .. II 111 .. rl dl'fll',II: 
+10" C,I1'lll'lng l ollllt rtl'~ 
+'opt'\ 1'1l.tI \ J .'1).111 tl rt'.tp t'1t 
+i>llll'ilh, lth ,lIh'l" "lade 
+1\ 11 h \'~ ',jX\J,l~ l'l< I \JIlL). 
+
+nl!' ... ptl,d \\ 11 I' \1 h '1' 'a ..... r 
+P,II1I'),L!I,lpln 1'(', l h" : h 
+l'(,n"l1l11l rl1',lr).,l,<I"I' <tl>.!l'h ;-
+fun,':loll o! Indll,tr\·.· 
+Il,'l)l'd1l1,": tll Rf,,, .. llw [ 1":\1 
+
+l"1t 11,ltl" tlMt I' \\ tI; ')L Il.Hh 
+lor IJlI'dllC'IIII •• 'ppit,. lIon ... It1 
+d tl'\\ \ \1(11' .... 
+
+SELF-SERVICE 
+TYPEWRITERS 
+
+• • 
+
+.~-- , frozen 
+JRe S'ogurl "~llair Y09':lrt 
+
+creations 
+25(: off 
+
+~mmer ~ession 'BS 
+has Added: 
+
+Good quality copies 
+require good 
+
+quality typing, 
+Do your typing at 
+
+klnko'S copiers 
+8855 Villa La Jolla Dr 
+Ra lph 's ShoppIng Ctr 
+
+457-3775 
+
+any purcha.e 
+of $1.00 or more 
+
+~1030 Torrey Pine. Rdj 1 at Her.chel t La Jolla f p 
+one per cuatomer ;}{ J' 
+
+II _ - , ;--:-, ~1,,! ' .~-~ __ 0)1 ~ ~~~ .'~. ~ ]: I 
+~r , .... :'- I - ,.y., A' 
+' .. ~.~.~~.~: - .}~r~ a- 4 ' ~'~Im~-,...., 
+
+( ou.,on [" ,ir .... Jun .. 2, 19S,l . 
+
+[[(S 17..9..; Analysis of Algorithm 
+Economics 120A: Statistical Method in 
+
+Economics 
+[[(S 1608: Foundation of Computer 
+
+Science 
+For furthcr infonnation, contact the 
+
+Summer Sc. sion Offkc 
+lO l A Adminbtrati\c Complex, 
+
+452-4364, 
+
+
+
+6 The UCSD Guardian 
+
+The MX's Legislative Comeback purely military · point of view the MX docsn't make all that 
+much sense. But (il does) if you 
+usc it solely as a means to get 
+vou to the ultimate goal of 
+(fewer warheads) and as 
+lcverage(wit h) the Suviets, 
+saying we have the national 
+\\,111 to go forward with a new 
+production line unless you 
+agree to some sort of 
+negot iat l()n~ . 
+
+By MAXWELL GLEN AND 
+CODY SHEARER 
+
+Despite on'going doubt · 
+about its value to US security, 
+the MX has been making a 
+steady comeback on Capitol 
+Hill. 
+
+Ironically, in the Senate its 
+rebirth come as a result of a 
+bipartisan arms cuntrul 
+proposal by ens. William 
+Cohen (R·Me.) and Sam Nunn 
+(D·Ga.). Called "build·down," 
+the plan tipulates that each 
+-u perpower de ' \ roy two 
+warheads fur every new one it 
+introduces. In return for a 
+White House endon;ement. 
+Cohen and Nunn hme agreed 
+to help salvage the president's 
+plan to deploy 100 ;\lX mis ·lles 
+111 eXist ing "i)os. 
+
+'en. Cohen discussed the 
+bulld·down concept With 
+columl1lsts :\1 ax\\ell (;Ien and 
+Cody Shearer last week. ,\n 
+edited tran ... cript of tht'lr 
+II1t en Il'\\' foll()\\·s. 
+
+Q: Who came up \\"It h the 
+( IOCCPI of '·f)uild·d()\\n "? 
+
+Cohen: Then' arc many 
+t1thl'rs to this Idea II go('~ 
+back. [ think. ~e\l·ral year .... 
+(\ l' lalkL·d \\ Ith Sl·n,;. ~alll 
+:\unn ([) (;a I and (;<In II art 
+(lJ·(ulo.1 dnd pl'opk' \\ IIh 
+\\ hom I deal Of' a daih ba ... i" on 
+Iryll1g 10 fmd "av,'1fl \\ htrh 
+\\ e l'an nllxlernill 11'ihl rllr. 
+progra'l" and Pi rhap" redull 
+()\ era II 1('\ do, (I' "j{ I cllIlg 
+
+[ 'hl n \\ n I', '1 piece ( '1 'ht 
+ut"Cl Ir' l 1\ II. hliIK/!II /") • 
+
+, • J; II 1 I ", l Idl lit ',11,,1 
+P l If' I r ,d 'd, I 1 , , II 
+rld( 1,,' I HI t I 'd:hl 'I 
+
+t ,. ": It I l I , I 
+h, d tI" 'l r~ , " 
+
+(, I l\ "'" " I \/< I 
+'d q, I I '[,,,, I 'It I I lIn 
+
+tI.. ' "Of' J", 
+Bu t '\ I en t'lt 1\ l r, t 
+
+CO'IlIl'''' H[ Ilpl t l<lllt' Ol t 
+..,('\ (r,.1 ,\ ,', k ... Illl'r, .., 1111 
+:\unn iH'd lara l p'lde" 1"'Tl \ 
+
+If~·rll. L 'ldl11l' wnll'tlled tlldt 
+till' l~l',lg,lIl 'Idllllllhtralwn 
+\\ a" "<I\'lng the St'o\\'Crolt 
+(omml',,1I1Tl hold l'lldm"l'd the 
+:-'1\. Hut Ihal \':a ... n·t \\hal I hI' 
+commb ... 1I11l had ~Hld at all. 
+They ... ,ud ;\1\ I ... UK pro\'leled 
+It· ... \\11 hill the COlltl'xt 01 arm ... 
+((Jlllrol - bcr:tu,c the \lX 
+make, no "cn,,' WIt hllut arm.., 
+Pillt rol 
+
+Q: 1I0\\' elo you l'xplam the 
+"burld·dO\\ n" concept to ~'our 
+('on't 11 Ul'Ill ... ? 
+
+Cohen: • pllpl~ put, I fi r ... t 
+l'xplarn \\ h\ a nuclear frL·t·/l' 
+works toourdl ... athantagt'.lt\ 
+a nohll' gIJal. but a.., t hI' XI/I 
+NI'jlI(h/il mag,ilinl' h,1' "ud, <I' 
+.r P()lrl'Y II \\()uld b{' a dl ... a ... ter. 
+
+PRECISION 
+HAIRCUTS 
+for women 
+
+& men 
+
+LlJDLLI 
+CaftiNG 
+CDIJUf 
+
+737 Pearl 
+456 1170 
+456·1815 
+
+And why is that so? I explam 
+what the freeze does to our 
+existing military programs 
+and what it does to the 
+Europeans for whom we are , 
+now negotiat ing(in Geneva ). If 
+you freeze nuclear weapons, 
+t he Soviets get up and \\ alk 
+away from the negotiating 
+table with an edge. 
+
+But I also point OUI that the 
+freeze advocates have a very 
+admirable point. That is thal 
+we are now adding layer upon 
+layer of weapons. So how du [ 
+reconcile these two thillg~ -
+the need to build more 
+survivable weapons systems 
+and get more secure sea· dnd 
+air · based systems? Well, [ pa~' 
+a price. And the price for 
+modernrLation is reductions. 
+
+I\'c come up \\llh a formula 
+calle-d 2·for·1. I'm not locked 
+Illto tho ... e number .... H'l the 
+pnnclple remainS fI,l:d' YIIU 
+ha\e to have a IlCt reductIOn I 
+want to le,1\ e the Pentagon 
+p I ann er s \\ I t h l' n otl,l.( h 
+f1cxibllll\' ,,0 tht'\ ran ll1.1kl' 
+the derl'lOns a~ to \\ hlLh 
+\\l'apon '~"tL'!IlS theY' lradl' 
+ot f. If thl'\' go fUI'\\i1rd \\ 11 h a 
+lull 1110 :-'1\ delll I~ IIwnt. Ihill 
+mean'lhe\ h1l\t' III gl'l rrrl 01 
+:!.()/II) nlicl, ar \\ clrhl'ad ... 
+
+~()!11l'\\'h~tt, In thaI 111\ elllol\. 
+'I hl'\' ('lIml Ill] t 01 lalld . "ea UI 
+air l;a~l·d ..,\ "t el1l~ TIlt'\'\ l' got 
+til mak ... that dllJlll'. 
+
+:\('\\ ,rille ... Ira\ I ... ;11(1 \\, n 
+'r;<il'lg III 1\\" !ll-JJr e ... I" 
+Ont' 'h;!t' t'" Jrt ,Ill! ,I'" ard 
+til 'PIlII" Ju' 1)( ldll l t 
+I , ~ pt'r ' 10, 11 I, l , l ltr d' 
+d'l I" It.ln t'\' 1"11' 
+( t' I ( 11 I "). Itt ttl'" t 
+
+l'rt I , , , I , l 
+Ir 1I \1 \ ') I 
+
+, r l' II I 
+t I r \ , , 
+
+I), 1 t 
+lit 1t 
+
+(J: "'j bull, dl' I IL -I ' 
+"Ir,! fl 'I It p.' 
+
+Cohen:'Il,I\"'1l\['["'\,1 
+... uggl:'ted tlwt II .... a pdlla \ 
+II" a IIlt'lhalll'nl tlrat \\111 
+,atl ... 1\ IxJtJr pdrtll' .... ;\allH'h 
+I ha I it ... \\ L' d n' 1111 ,dcnl! Z lllg nllr 
+rl" I)('(t I \ l' forn· ... l'al h o Ill' Ilf lJ-. 
+I" tr~ mg to 1II00l' Into an an'a 
+\\'hlch build ... flIon' stabrlit\' 
+and \bnng~) thl' number ...... 
+tlm\ n. 
+
+Q: Will the adminl ... tratlon 
+a~rrL'l' 10 \'our ~flJr·1 formula? 
+
+Cohen: \\ hat I\p "aid b 
+"~ou pick Ihe forlllula" I hl' 
+bot tom Ime ha ... to be a Ilet 
+reduction. ' \e ~ugge ... tt'd a ~ 
+for 1 ralio. It ma\' Ix' I hat \oU 
+can go higher than t ha lon '<I J 
+f"r· J ba'I ... . Wt,'rt' n'ally trYing 
+to shapop thelt poliCies so the~' 
+don't go to more \\arhe<1c\s. 
+
+Q: Your ba"'l!, llIotl\ :ltllll1 . 
+
+r-------------t ~lO PRECISION PERM $29.50 
+t't' HAIRCUT I f Lonq H dlr I- xtr<i I or men & women 
+: Shd:\~,p~)(). ond't"~~, (ut MANICURE $5 
+
+~_~ilh Ihi. cou~~ ~1y. __ !?~4!~~j_~ ___ _ 
+
+however. is to get the START 
+talks off dead cenler? 
+
+Cohen: That's correct. 
+There is no magic here. I want 
+to put a serious proposal on till' 
+lable. 
+
+Q: Would you prefer to gl\'e 
+t he Pen I agon specifiC 
+inst ructions? 
+
+Cohen: (If~ we become 
+convince-d that t he Reagan 
+administ ra tion is not serious 
+about making a subslanli\'e 
+proposa l in good faith, then 
+we're not going to s uport l\1X. 
+Weha\'ea wholeseriesof\'otes 
+coming up. The fortcomlllg 
+vote is JU ... I 10 release the 
+mone} for !light t 'stlllg fort he 
+\1 X. But \\ e\e got authorl/<1' 
+tionn bIlJo... next spnng and 
+approprtatlOn brlJo... this fall. 
+
+Q: To whal e,tent are t hc 
+latt'~t \'Oll''' III fa\or of 1 he 'IX 
+trul\ IIlclicat!\l' of its ",uPPOl't;' 
+
+C<lhen: It \ a close \ote. I 
+could Il()t guarallll'l' Ihl' While 
+lIou ... r that If the}' accept tIl(' 
+"IJudd-ti(l\\n" conn'pt that thl' 
+:-'1\ \\ill pa" .... bUI iflhl'\ don·l. 
+the ,\1:\ \\ til h<l\l' 1111 chance of 
+PiI-,"Ing. Fr;llIkh. troll' a 
+
+I .... ~ ~ 
+I' 
+
+l.,.(' p 'f'!'" t .. 
+.. 
+
+-I' 
+
+The admlllist rallOn keeps 
+aylllg MX and we keep saying 
+arms cont rol. ... ingle (war· 
+heads). ref()rmulation of 
+START and then lhe iX. 
+Thel'le are the priorit ic~ we 
+ha\'e to to h<1\·e. lIo\\' do \\'l' 
+keep the pressurc on the 
+adllllnl"tratllln? \\'e ob\lou"h 
+lose -.otlle !e\'l'rage the f urt Ill"r 
+along the ;\1 X produl'\I()n goes. 
+
+Q: l!a~n 't the pr~~ldent'" 
+support on your "bui ld -dO\\'n" 
+propo ... a I hl'en ... 0 \ agul' t ha t 
+It \ IlIt'anlllglt·ss? 
+
+Cohen: I think it's cI('ar 
+t I.at they art' goin~ III chang" 
+()UI ~T,\I<T pO"'ltloll 10 
+conform \\ It h t hi" prop"",;r1 
+
+Q: 110\\ l:tll youl)('lll \'l th:lt 
+kl1l)\\ Ilig 1\1111011<1 1<I'<tgan'" 
+hl-.III\'\·) 
+
+Coht'n: But thl '·lalrt\ )-. 
+
+SA VE 20% - 50% 
+on distinctive sunglasses 
+
+Ray Ban 
+BUCCI 
+
+Suncloud 
+VUdrnet 
+
+Carrera 
+Gargoyle 
+
+Chameleons 
+Sunsensors 
+
+Special with this ad only 
+
+Famous Maker 
+Look-Alikes 
+
+$3.99 regularly $7.99·$10.99 
+EXPRE SIONS UNLIMITED L .J .... I d "I.-p Ahl'dd 10)0(, I orr"", Pin" .. Rd . L .. JOlld 151-8006 fh\. thp \ 'HjUrt \n.Hr) 
+
+Offer good Ihrough 612 8.1 
+
+Hours 
+MOil Sal 9:30 ~ 
+
+Suncltly !O 6 
+---I 
+
+Thursday, May 26, 1983 
+
+different now. We went down 
+to see the president and latd 
+down the line. Without the~c 
+kinds of concessions to us. 
+whi c h are not ~ Imply 
+ephemera l or pass ing, but reell. 
+you don ' t have the ~upport of 
+Capilol ll ill and you'regoing to 
+get beat on these issue;.. And 
+\\ e're not going to be 
+supporting you . I think that 's 
+becoming clear to the 
+president 
+
+Q: What wou Id you be 
+hoping for by th e end of the 
+preSident's first term? 
+
+Cohen: I first hope that he 
+has it summit with Anclropo\'. 
+fiu t in the Illcant Itlll' ... t hat hc 
+seriou ... lv underlake ... to reach 
+an arnl~ con t 1'01 agr('l'Il11'nt 
+along tIll' Illl t'~ \\'l' .,uggl'~t. ( 
+thtnk the So\lets, if (lh('\,'re) 
+prl'"ent l'd tot h('tll in the righ t 
+light. would an'cpt t he ... (' 
+prnp",al,. 
+
+Q: But untilnll\\ ha~n't tIll' 
+l 'tllttd St;II!'", put fOl't h 
+PIl-.lIl1Jlh t hat an' ba"'l call~ 
+1l1l1l'1l;1 Illt, tilt hl' SI)\'iet,.,? 
+
+Cohl'n: I thlllk tht <;U\'Il'I'" 
+\\ III 111\ n"got ratl' lin tIll' h" ... i, 
+JI what's bl'l'1l latd i>l·jllrt' 
+t hl'1ll Th:lt .... \\'h\ \\ l' \'to tried 
+tl) "ugg .. , t a rl'lo~1lI \, I a lIOn 
+
+by Tim Downs 
+
+UCSD's 
+European 
+
+Experience 
+Tour 
+
+All 
+ages 
+
+welcome 
+1--8 countries-
+
+June 20-July 13 
+Only a few seats 
+
+left so HURRY! 
+Ca II today for 
+
+brochure: 
+481-1522 
+
+The final 
+Chapter 
+
+By CLYDfNf Nff 
+Three years ago. about this same 
+
+time of the year. George lucas gave 
+film audiences across the world the 
+all-time cliffhanger ending to a 
+motion picture in The Empire Strikes 
+Back 
+
+Is luke Skywalkers father really 
+Oarth Vader? 
+
+Will they rescue Han Solo from his 
+carbonite tomb? 
+
+Who is the other hope? 
+What will happen to the menage a 
+
+trois relationship between luke, l£ia, 
+and Han? In other words who gets the 
+girl? 
+
+Return of the Jedi. impossible as it 
+might seem, handles each of these 
+questions and as a film, it captures 
+much of the same magic that \vas in 
+the original Stdr IVar.s film. along with 
+some \cry impressive and ~plashy 
+special elfcc~. 
+
+Most of us were in high school or 
+even junior high ,>(hool \\hen Star 
+Wars was first released in 1977. 
+Contrary to popular belief at this 
+time. Star Wars was a big gamble for 
+20th Century Fox. and no one could 
+foresee the magnitude of the succes.c, 
+that the film did. Star Wars, Chapter 
+Four - The New Hope, left audiences 
+screaming for more and was such a 
+phenomenal success that it broke all 
+previous box office records. and up 
+until last summer, it was the largest 
+grossing film of all time. 
+
+Return of the Jedi, is Chapter Six of 
+the nine films that might be made of 
+the entire Star Wars series. Though 
+the film only opened yesterday. there 
+has already been some criticism that 
+the film has taken on a soap opera-
+like quality. sort ora Dynasty in outer 
+space. The important thing to 
+remember is that lucas has to wrap 
+up all the loose ends that were in 
+Empire Strikes Back The questions 
+that he left us at the end of the film 
+are not the type of questions that one 
+takes lightly, Identity is an important 
+thing: imagine the crisis that Luke 
+experienced when Darth Vader told 
+him that he was his father. 
+
+The first 35 minutes or so of the 
+film is devoted to the rescue of Han 
+Solo from the vile clutches of Jabba 
+the Hutt, Never in my wildest 
+nightmares did I ever imagine 
+anything as gross and disgusting as 
+Jabba the Hutt. It resembled 
+something that would result from 
+crossing Humpty-Dumpty and a large 
+green lizard. with sllme DOling forth 
+
+please turn to page 7 
+
+
+
+The Magazine 
+of the '80s 
+
+fditor 
+ANDREW KfELER 
+
+Co-Ultor 
+TIM AUGUST 
+
+Contributing fditors 
+GREGORY CHAPELLE 
+
+TIM KASSOUNI 
+MIKEl TOOMBS 
+
+Writers 
+MARK BELMER JAN BRESLAUER. 
+C~"iOl[ JOliN C.~RROlL MARTH~ 
+fiSHER DAVE flEMLNGER. JOAN 
+fORSBERG ... 'MY H ,~llM.I\N , RONA 
+HU P,~UL JONES. THOMAS 
+
+L~RSON . MICI1ElLE ~IORRIS, 
+CLYU[~, E NEE. JOHN NEE, IH 
+KAY. tiATE SIMPSON. KIM VAN 
+PELT. JACOB WElUNGTON. 
+
+[ditoriaI452-3466 
+Advertising 452-3468 
+
+fflillu3 j~ pub!I,hed t:lcr} 
+Thur'lday of the '>C'hool year as a 
+
+~upplement to the UCSD 
+GUAfq)IAN. R~production or u~t: 
+y,ithout l\Titten permi~~ion of any 
+portion of thi~ magazine i~ d no' 
+no. We y,cltomc un~olic.ited 
+letters, manu~ripts dnd artwork . 
+but aSSllme no re~pon~ibility for 
+the return of such. Send 
+information to; 
+
+HIATUS 
+B{) 16 La Jolla 
+
+Ca .. 92093 
+
+A"~ that s the fact . Jack! 
+
+--~-----
+
+Contents 
+Cover: The third film of the 
+St4r Wars trilogy opens this week 
+in San Diego. Return of the Jed; 
+is the latest big budget 
+extravaganza from Lucasfilms, 
+Clydene Nee t4kes a close look at 
+Revenge which promises to be 
+the biggest box office smash of 
+the year, 
+
+Rainbow Shawl ... .. . Page .3 
+UCSD concludes its 82-'83 
+
+dramatic Champagne Season with 
+the West Coast premiere of Errol 
+John's (1oon On A Rainbow Shawl 
+which plays through June 4. 
+
+Return of the Jidai? .. . Page 4-
+Hiatus writer Canole rclates an 
+
+interesting bit of history about a bit 
+of Japanese culture that is the basis 
+for George Lucas' Jedi knights in 
+the latest Star Wars film, 
+
+Scandal ........ . .. . .. Page 5 
+Is this an innovative rock band or 
+
+just another Pat Benatar clone? 
+Mike Hunt recently interviewed 
+Scandal to find out. 
+
+Tops in Pops Page 5 
+Concert Une Page 5 
+At the Movies Page 7 
+
+UCSD THEATRE 
+
+TICKETS 
+S350 S8.00 
+Coli 452-4574 
+
+By ERROL JOHN 
+
+Directed by 
+flOYD GAFFNEY 
+
+MAY 26-29 and JUNE 1-4 
+8:00 p.m. Wed-Sat I 7:00 p.m. Sun 
+
+MANDEll WEISS CENTER FOR THE PERfORMING ART~ 
+lrJ Jolla V11l09" O'I'It. and TOrrl.Y Pm~" Rood 
+
+2 lliatu5 MilY 26, I fiB ~ 
+
+Although it was a "bad part of 
+town," we were in the middle of a 
+large, seemingly endless field 
+under a leaden sky and, almost 
+like a cartoon, I can see the flat 
+shout of terror come from his 
+mouth and, like a still or that 
+Tarot card The Fool, I can see his 
+step frozen in the air as he clicks 
+from the moment before seeing 
+the snake into that frame and, 
+clang, out of it into the jump and 
+my reaction and so on. 
+
+I Marina LaPalma 
+
+11.'Pll l1lcJ from IHU,DWORK R 
+
+"""-~~-=-=-=-""'Univer~it) [venb Otfke presel1ts~~~~~'11 
+Start the weekend with 
+The 
+Seven 
+Deadly 
+Sins! 
+
+• 
+
+Dudley Moore & Peter Cook 
+in 
+
+Bedazzled 
+plus 
+
+Peter Cook, Dudley Moore & Peter Sellers 
+in 
+
+The Wrong Box 
+May 27, friday, 8 p.m. 
+
+TUI 107, $2.00 
+___ 1 i<keb dl lJ( ~o ft-'lIlrdl Box OffiLl' , .'452-4';59 .;....-."""-__ 
+
+Drama season closes 
+on a 'Rainbow ShaWl' 
+
+UCSD will conclude it's J 982-
+83 Champagne Season of plays 
+with the West Coast Premiere of 
+Hoon On A Uainbow Shawl by 
+Errol John, playing tonight 
+through Sunday and June I 
+through 4, 
+
+[rrol John, West Indian 
+playwright. actor and writer for 
+radio, television, film and stage, 
+first gained public acclaim with 
+his play Moon On A Rainbow 
+ShaWl, which won first prize in 
+the London Obsener's Play 
+Competition of 1957 and played 
+throughout Europe, Argenti na 
+and the United States, After this 
+success, John was awarded a 
+Guggenheim Fellowship in 
+1958. 
+
+John 's main theme is escape, 
+and in Hoon On A Rainbow 
+Shawl he reveals the various 
+traps which destroy those who 
+remain. The action of the play 
+takes place in East Dry River. 
+Port'oF-Spain, on a backyard 
+property of Old Mack 's one year 
+after V-J Day. The trap is lhe 
+Trinidad backyard with a 
+prostitute exhibitioning all her 
+American sailors: a poor 
+'respectable " womall with a 
+
+studious young daughter who 
+goads her husband into theft 
+and jail ; and a pregnant girl now 
+abandoned. 
+
+From this vise Ephraim tries 
+to escape. He is a young 
+handsome trolley-bus driver in 
+line for promotion, but he 
+rejects thb way out as illusory. 
+His driven, single-minded ness 
+causes him to brush aside the 
+girl who loves him and the 
+people who care for him, 
+recalling the time he put his 
+foster-mother in a home to die 
+after she had gotten in the way. 
+
+caribbean plays come from a 
+world of linguistic vitality, of 
+improvised music and assorted 
+animal noises all seeming to 
+wage war on nature. John writes 
+
+of his native home, the little 
+island of Trinidad, but the 
+themes of exile, escape and 
+rootlessness are common to all 
+
+Ic~ fortunate throughout the 
+world. 
+
+A revised version of the 1957 
+Moon On A Rainbow Shawl was 
+presented at the East Eleventh 
+Street Theatre in New York city 
+in 1962 with James Earl Jones 
+and Cicely Tyson heading the 
+cast. Direc ted by George Roy 
+Hill and produced by Kermit 
+Bloomgarden and Harry Joe 
+Brown, Jr., it ran for J05 
+performances. 
+
+The UCSO Theatre production 
+features a cast of seven actors 
+from UCSO 's gradua te and 
+undergraduate theatre training 
+program and nine community 
+members from San Diego 
+County. Phillip Cuny will star in 
+the role of Ephraim, Maria 
+Porter will play the poor 
+respectable" woman Sophie 
+
+Adams, Miki Kim will portray 
+the pregnant girl Rosa and 
+Hector Correa will appear as lhe 
+beleaguered husband Charles 
+Adams. 
+
+In conjunction with the play's 
+opening, the works of two 
+contemporary Black San Diego 
+artists will be on display in the 
+lobby of the Mandell Weiss 
+Center beginning today. Chuck 
+Rucker and Jean Cornwell will 
+display portraits and paintings 
+on glass in the theme of the 
+Caribbean culture. 
+
+Directed by Floyd Gaffney, 
+Hoon On A Rainbow Silawl will 
+be presented at the new Mandell 
+Weiss Cenler. Curtain is at 8 pm 
+Wednesday through Saturday, 
+and 7 pm on Sunday. Tickets are 
+curre ntly available for all 
+performances and range in price 
+from $3.50 to $8.00 with 
+discounts available to full -time 
+students, sen ior citizens and 
+UCSD faculty and staff. 
+
+Featuring: 
+. sandwiches • salads - cheeses 
+
+- pastries - suppers 
+- catering - food-to-go 
+
+After 5:00 Special: I Beer on Tap ...... 65c / House Wine ...... 75c I 
+Monday-Saturday 7:30-900pm. Sunday 9:00-7:00pm. 
+
+3251 Holiday Ct., La Jolla , CA. 92037, 455-1512 
+
+MANAGEMENT POSITIONS 
+The l IS. N;I\ Y i~ accept tng appllc<lt lOllS for a\ <I I Offlcl'r 
+pOSit ions il1\olVlllg: 
+-Fi nancial Management -Purchasing 
+-Invcntory Control -Dala Proecssing 
+- M e rchandis ing -S}slcllls Analy s is 
+-Transport ation -Pcrsonnel l\1anal{cllle nt 
+- Operations Research - l\dministral ion 
+EcluClllOll or ('XIX'riellC(' inllwaiJovc areas nol requlrl'd bUl 
+deSirable. 
+QlrALlFICATIONS: BA BS degree or college seniors. 
+[ '.!-I cilllellShl]). qllalih IIlg "core O il screen illg tesl 
+SJ\L\RY: ~I.llllllg .11 dpprn\111lilll'l\ :ji 17,OOO. proWCIl'O 
+.;;~,).OO() 111 tOl11 'l'ar.,. 
+PJ{OCED l"H E: l :111 :--; ;1\ \ (lll i! l'r pi ,,).!I;lill". 2!Ut)/ 1:1. 
+\1011<1.1\ I I1l I 1.,<1;1\ I' O() ;1111 \(1 1 :00 pl11 , 
+
+What is it? That is the question 
+of the day concerning the new 
+outdoor art exhibit out 01) old 
+
+Miramar Road, just east of 
+Scripps Hospital. "All Stood 
+
+Still" is the title of the outdoor 
+inst4l1ation by UCSD graduate 
+student Frank Cole. The three 
+billboards will be on display 
+
+through June 30. 
+
+Photos by David Orner 
+
+Rare viola works performed tonight 
+Major, rarely performed 
+
+works for viola will be pre~nted 
+in a Masters Recital by Simon 
+O"well. Thursday, May 26, 8 pm. 
+Mandeville Recital Hall, UCSD. 
+
+The program includes Bach '" 
+Viola de gamba Sonata in G 
+
+minor," "Sonata in f minor' by 
+Brahms, the rarely heard 
+'Sequenza" for solo \'iola by 
+Luciano Berio , and two 
+Austra lian works by Percy 
+Grainger and Peter Sculthorpe, 
+
+IN A HURRY? 
+
+See us for fast 
+high quality copies 
+klnko's copies 
+8855 Villa La Jolla Dr 
+Ralph's ShoPPIll9 Ctr 
+
+457-3775 
+
+performed for the firt time in 
+Amerlla by Oswell. an 
+Australian violist. 
+
+Australian by birth, Simon 
+Oswell. completed his earlr 
+training in Brisbane, continued 
+studying with Jan Sedi\ika . 
+acknowledged as the foremost 
+string teacher in Australia and 
+graduated from the Tasmanian 
+Conservatory of Music in 1976. 
+Since then he has performed 
+throughout Australia, England 
+
+Poland, S\\it zerland dnd in Hong 
+Kong. Singapore dnd Indone.,ia 
+
+Oswell is currentl\ Imolved 
+in the performance program at 
+t;CSD and a member of SONOR. 
+contemporary Music En~mble 
+UCSD. Between 197 j and J 980 
+he was a member of the Petra 
+String Quartet, devoted to the 
+commissioning and performing 
+of contemporary works. 
+
+The concert is free and open 
+to the public. 
+
+TRAVEL GEAR 
+The Convertible 
+Travel Pack 
+Whether you're on your way to 
+Amsterdam or Acapulco, the 
+Eagle Creek Convertible / 
+Will ease your travel frus-
+trations It's a full-
+function Internal frame 
+backpalk With padded 
+shoulder straps. contour 
+hlp belt. and custom 
+torso 
+fit ZiP close the 
+Convertible flap 
+and It'S a hand-
+some piece of soft 
+luggage The 
+Convertible opens 
+like a sUitcase 
+With an outside 
+accessory pocket and 
+document 
+compartment 
+If yourI.' FREE planning a tnp - -----1 
+stop by and see e " I • .. I 
+our compfete t 
+travel gear I 
+department. now I 
+.It two lOldllam : " UNDERCOVER" I 
+7560 Eads 143 So. Cedros I PASSPORT CARRIER: 
+
+La Jolla Solana Beach I I 
+454-1410 755-7662 I .A, SIOOO vdlue free tn UCSO 1 
+
+___ L I stu(Jents With ,lny S50 00 [ra"el I 
+-ru.,tr. ...... I 9t',lr pl1l 11<1\1.' I 
+
+<.;Sitd'S __ I tBrlng thIS coupon I I (;1 lIIi .. aI... 1- - __ expIres July 15 1983 __ _ 
+----
+
+
+
+From yesterday's Jidai 
+to the Jedi of tomorrow 
+
+By CANOU: 
+The Jidai Saga continues." disband the traditional Zen 
+From a far away empire of a warrior class. the Jidai. by 
+
+long ago time. a young modem forbidding them to carry their 
+master of light and magic has katanas Uapanese saber). 
+conjured up a visual trilogy to A Zen poem told of this 
+beckon forth a return of the weapon of the Jidai, " When the 
+Jidai. saber cuts. it is like cutting the 
+
+The young master learned of spring breeze with a flash of 
+the force of light and magic by lightening." This light saber was 
+watching the tales told of the known as the soul of the Jidai. 
+Grand Jidai Master Akira For the Ji in Jidai is defined as 
+Kurowawa. The cinema wizardry the instrument or technique a 
+of Kurosawa's " Roshomon." Jedai used to recieve the flow of 
+"Seven Samura." Kagamusha." the universal force. 
+and " Samurai Trilogy" are Ancient Jidai masters taught. 
+known in Japan as Jidai-genki "The way of the Jidai cultivates 
+(tra nslated as. samurai unshakable calmness. the 
+adventure cinema). ability of meditative 
+
+In Japan. Jidai also refers to concentration. a sense of swift 
+one who worships a greater decision making process. heroic 
+force. who i!; a spirit of their co u r a Q e • s I) lit sec 0 n d 
+time. and whose ideas and coordination. and persuasive 
+actions will influence the future. de t e r min a ti 0 n. " Th ese 
+In the futuristic trilogyofyoung objectives continue today in the 
+master Lucas. this would martial art of Kendo (the way of 
+appropirately describe one who the sword). 
+flows with the Force. the Jedi. "The wielding of the saber 
+
+for the past six years. and does not mean just striking 
+perhaps many more in the down the opponent. It is 
+future. the heroic actions and concerned with the harmonious 
+Zen like philoshophy created by cooperation of the light and 
+the young master could well dark sides ofthe universal force. 
+serve as a powerful ally in By tapping the uncon~cious one 
+continuing the Jidai saga. A raises above individual 
+saga which began over 400 limitations. Death loses its sting 
+years ago in the Meji era of altogether. and this is where the 
+ancient Japan when Tokugawa Jidai training joins hands with 
+was Shogun. len. 
+
+Tokuga\\a was detprmined to "One mu!>t fearle.,,>ly hold the 
+convert Japan to the modcrn saber with both hand~. Thb way 
+wa y of the west. He sought to there b no thought of defen(e of 
+
+r~-ROBERTS-e--'-II -1 
+: Exclll~i\ t.' In. B .lI U ' • . Il ' f)/ St.'n icc : 
+I 1/1 "'(1)1' ",/I, g'flli"lIJ1lf r II . /-ilr I(ln IFrlllln/ "/'f r '11/,,1 I 
+I \Ion. - rl'i, H alll - ;)::W pm; ~al. Ham - :J pm. I 
+I (6 I H) I .) 1-7H2:~ W:H> \li ........ iol1 U:n Dri \'(. I 
+I (619) I;) 1-:~7()3 " ., til B<lII~,a I",!l I 
+: (619) 273-) 1:l2 San Die~o, C.\. ~)21 m) : 
+
+~------------,.------------~ I SUlllmer Special I I 
+: I r~ I Tullc-l ·p .. .. S 15: 100/0 OFF : 
+I ()r~ITlIllt'l·p ... $'()5 I I I I Oil ;t11 t)llll'r l"l'p;lIr' I 
+I :-':ollalldwlthanyothercoupon , I IS ol \'altd Wllh an)' 01 ht'rcouponl I 
+I I I 
+I 1I'IIr //11'<'1111/,(111 I 11,11,'/1",(1111/1111, I 
+.. - - - - - O.lj'eJ' .... K()()d I/I/Iil JUJ/(' J 511, . • - ----. 
+
+This week in the Pub ... 
+
+.-:,00'1 ,~\l' Classical & Flamenco 
+guitar with 
+
+Walter Clark 
+5:00-7:00 pm 
+
+• Dance Party -
+"Damaged Goods" 
+
+5:30-7:30 pm 
+Summer is almost here ... 
+
+Work on summer "spirits" in the 
+TRITON PUB. 
+
+4 Hiatus May 26, 1983 
+
+one's life. If a Jidai separates the 
+hands, they become double-
+minded, This creates a fear of 
+death and an attachment to life. 
+The mind loses its fluidity. A 
+Jidai's mind must be devoid of 
+all fear, free from all forms of 
+attachment. and a master of 
+itself. Then it will know no 
+hinderences. no inhibitions. It 
+will follow its own destiny. Uke 
+the \~ind it will fluw where it 
+wishes. 
+
+. To be a Jida i you assist in the 
+prod uc.tion uf thingsand events. 
+But if you desire them, they will 
+dominate YOll. To know personal 
+growth 111 performing tasks. one 
+
+~-, 
+, \ 
+
+• i 
+
+does not then seek praise and 
+recognition. Because you 
+assume no importance. you will 
+never lose it. 
+
+" A Jidai balances active 
+adventures in their life with 
+contemplative moments." 
+
+In the lastest episode of his 
+saga. young master Lucas has 
+reignited the active nature of 
+the light saber. Let us hope in 
+future ephodc~ he will 
+comple te what he has 'itarted by 
+balancing the force with a, 
+return to tht~ early days of the 
+Jidai Jedi) with Yodd u.,ing his 
+I ight saber of wisdom to lut 
+deeply into our mind s. 
+
+Magic 
+Razor 
+
+"No Appoinrml'nt Nccess:Jry" 
+
+La Jolla Villall\! Square 
+UHH.' r Lc"cI Ct.'mer Mall 
+
+455--1700 
+CALIFORNIA CUT '« $1, 00' $,H , 0 $13_00 
+Imlu,Jt,,,, "lhdmpcx), (:llnJL11l1nl'r &. flI owdry. ()or .1 rtl ... tI(. tt.'chnlqut· let cuttln.'! half .11ung tht, 
+n.llur'lll'.uh I,t ~rt)\.q h lnJ volumt.' o f (exturt· rhl' Itll.lk I'" nuur;1II'14.'l.IU~ tht·('.1lunrnl<l ( .UI 
+, rl.Hural lu",( fur nur ( ,.hlllrnL ;) hft·sIyle 
+EUROPEAN PERM 1,,( $00.00 $48.00 
+I ... ",.,ur hm tou 'trr.u~ht ,In~l hJrJ to mJnJ):l·, tuu Ilnl. .1Od hi}'" no ~)lly •• nJ ntT,I.., tullnt·", 
+
+~IJ" 1'1 t~· rime to rnhdp,,' \nur h'llr with Ihl' 010" pl.lrUI.H ,""-.: rlll .mJ mt'I!t.,d In EUf" I"· . 
+Ll',\\l'''' "tlm h.ur tn,bng "lit .mJ luoklll,l( n;llUr .. 1 
+SCULPTURED NAILS "', $1' .00 $25.00 
+LonJ.: fkluli tul, ulplurt,,-I ~;1IJc, ...;.1n no\l, hl' "our", tllr th.a' 'Ilx'\.l,d On.IS3m" C,lrt'u GlrI"f 
+~,ul Rlft'r 
+Fl LLS f<~ $'l oo $12.00 :z: _ 
+
+Olfer ~"oJ on ly with thiS .J & th6e styl,s'" /loi>. KIHe". Jam"s & 0,'00, 
+"It Expire.. lUllt' 2, 1983. ic 
+
+--
+
+Personal 
+Injury 
+
+Attorneys 
+
+• ID 
+Frl't' l"IlII"ulLllioJl ,'i; 110 IlT ul1tll ",· ttkJlH"Jll. 
+
+Spl'l"laltl'iJlI,( ill "l'ltil-JlH"Jlt aJld 
+t rial of ,IlTidl'1l1 Col""". 
+
+I In Illl l 1 11.1 I" Ii 1 \ " 
+I 1I.I'll 11\ I. 1'1,( II Ii l I' 
+L I )\~ I I~ I l I J( 1\ \( ( 1111 \ I " 
+
+ll,I\11 \ Il 11\):-, 
+I 11)(, Hili 
+"II I ' \\111 \11 
+
+Law Offin's of 
+KIM HOWARD NEWBROCGH 
+
+a professional ('oq)Oration 
+~::,' "'(,., ,'n, \\(' 
+
+"'I " Ii I). ",,,I;lllol 11t-.1t h 
+755-5886 
+
+• ' ;, ,; I III I "1 - II \ \.t. 
+";11(,· 1::1). 1.1 \1. ,;1 
+
+loO-:J:W:l 
+
+Mandeville 
+offers some 
+'Religion' 
+
+" Religious Contemporary 
+Art " will have as its focus the 
+religious iconography in 
+current art forms. featured will 
+be a broad spectrum of working 
+styles by thirty American folk 
+artists. painters. sculptors. and 
+graphic artists. 
+
+Included will be works by 
+Nellie May Rowe. Elijah Pierce. 
+George Lopez. Howard Finster. 
+Peter Perez, !talo Scanga. 
+Thomas Lanigan-Schmidt. 
+Miroslav Antic. Konstantine 
+Pilarinos. Michael Tracy and 
+others. A catalog will be 
+available. An opening reception 
+will be held at the Gallery from 6 
+to 8 pm. tonight and the 
+exhibition will be on view 
+tomorrow through June 26. 
+Gallery hours are noon to 5 pm. 
+Tuesday through Sunday, There 
+is no admission charge. 
+
+This traveling exhibition has 
+been organized by carol Adney 
+for the Ohio Foundation on the 
+Arts. 
+
+UCSD bassist 
+wins award 
+
+Bdssist. Mark Dresser. who 
+graduated with honors from the 
+UCSD I'lusic Department has 
+been awarded a Fulbright grant 
+for 1983-84. to study with 
+(()ntrabassist Franco Petracch i 
+in Rome. Italy. 
+
+T£Sl PREPARATION 
+5 PECIA1I5r ~ SINCE 1938 
+
+Sl~-H. 
+KllPUIN 
+
+Educollonol Conte! 
+Call Doys lver'"ng; & W1'("'~ l' 
+
+2180 Garnet 
+Pacific Beach 
+270-6810 
+CLASSES 
+
+ON 
+CAMPUS 
+
+Centers in More mon 
+105 MOJor US Cilies. 
+
+105 Major US Cities. Puerlo 
+Rico and Toronlo . Canada 
+
+CAll lOll fRfE 800 2211182 
+
+The life and 
+hard times 
+of Scandal 
+
+By M.S, HUNT 
+lack Smith is the founder of 
+
+the rock group Scandal. and he 
+is very tired. His group is on the 
+tail end ofa rigorous nationwide 
+tour. and the effects of having 
+just arrived in San Diego from 
+Las Vegas are showing in his 
+eyes. He is tired but happy, for 
+touring takes a very close 
+second to his favorite activity; 
+recording new tracks for 
+Scandal's upcoming LP: 
+
+"We've been really busy. 
+c risscrossing the country 
+several times, and we should 
+have an LP out as soon as we get 
+off the road in July sometime. I 
+like going straight into the 
+studio right after coming off a 
+tour. it keeps us in touch with 
+the audience." 
+
+Scandal's hit. " Goodbye To 
+Yo!.. " features the talents of 
+Patty Smyth. the group's sultry 
+lead singer. Thanks to her rough 
+cut. tough voice. Scandal 's five 
+song EP has sold over 250,000 
+copies, Says Smith. " Wc 've sold 
+that many albums and I have yet 
+to actually see what kind of 
+person Ibtens Lo us. I picture 
+the type of person as being 
+young: 15 to 20 years old , 
+someone who would have 
+groups like the Police and Duran 
+Duran in their collection." 
+
+Smith does not hide the fact 
+tha t Patty is the high light of the 
+group. The fact that "he 
+dominates both video!> and livc 
+concert performances pleases 
+Smith. In fact. he attributes 
+much of Scandal's success to 
+Patty's attractiveness and 
+
+lack Smith and ratty Smyth of the popular rock band Scandal. 
+
+vivacity. 
+Smith auditioned over eighty 
+
+prospects before choosing 
+Patty. He did not Quite know 
+what he was searching for but he 
+knew he wanted a female lead 
+for hi., music. At the group s 
+conc.eption Patty and Smith did 
+not initially get along. sht' being 
+from the streets of :'leI\, York 
+City and he from ~uburban 
+Westport. Con necticut. 
+
+The contrast of his 10\\ key 
+style and her flamboyant 
+singing mix well 011 stage 
+however. producing a lively. 
+energeti c show that gets the 
+audience involved. Smith 
+
+affects a casualness in talking 
+about the type of music that 
+Scandal plays. 
+
+I call our music ·Power·Pop 
+for lack of a better expre.,sion. 
+It's pretty obvious we 're not jan 
+and we re not cla~.,ical. .,0 what 
+docs it millter?" 
+
+Smith al')() bristles at the 
+mention of a rescmlJlam.e 
+between Patty and Pat &natar 
+
+'We didn't design the group 
+to look or play like anyone ehe. 
+There was no Scandal concept 
+when I started putting the group 
+together. Things just 
+happened." 
+
+please tum to page 6 
+
+Concert Line 
+
+It's US fest time again 
+Once agam. a festival concert 
+
+is being brought to Southern 
+california. As with all festivals, 
+there is a central theme at the 
+US fest. The basic theme behind 
+the US Fest is a movement from 
+the seventies me" decade into 
+a new idealism in the eighties 
+that focuses on the concept of 
+unity. 
+
+Originally, the US fest was 
+meant to be a forum of new and 
+progressive music. This idea was 
+abandoned . however to 
+increase ticket sales by adding a 
+mondo heavy metal day. 
+
+Ide:t1istically, the US Festival 
+is Just another promotions 
+gimmick designed to take an 
+investment and make it a 
+profitable venture after an 
+alotted amount of time. 
+
+On the first day. which is 
+
+billed as new musk. has The 
+Clash. Men at Work. Stray 
+Cats. flock of Seagulls. The 
+[nglish 8eat Oingo Boingo, 
+Wall of Voodoo. INXS and 
+DiVinyls. 
+
+Day two is hea\'Y metal day 
+with Van Halen. Scorpions. 
+Triumph . Judas Priest. Ozzy 
+OSbourne. Joe Walsh and 
+Motley Crue. 
+
+Day three brings a more 
+interesting concept of 
+promotions. most notably 
+because of the inclusion of 
+David Bowie. Other artists 
+included are Stevie Nicks. 
+John Cougar. The Pretenders. 
+Missing Persons U2. 
+Quarternash , Berlin . and 
+Little Sleven and the 
+Disciples of Soul. All thb is 
+happening this weekend. 
+
+Tops in Pops 
+Below I." a list 0/ tile top albums at UCSD and around 
+
+the country. Tfle,e ratings are bawd on 5alt'~ cJnd 
+(umishl'ri by As<;nrtl'dl'inyl and ~I Iboard MaqalJnc 
+
+"cre 
+I Let 5 Dance Dalid Bowie ["11 
+2 Illrammlj 5-525 \\dmer Bros. 
+" Glrqo M£"n at Work (lllu'Tlt; 
+4. Thriller Michael Jack.son fp 
+'i. Itar II 1~land 
+There 
+) rnnUe r Michael Jackson lp 
+2 flashdJnte Soundtrad Ca'>dbld'](d 
+1. Cil~qO Men at \ ork Columb J 
+4 f'yromdn'a Def leppard ~ler( JI') 
+5. Let 5 Dance David Bowie nil 
+
+"'La Traviata' <,trike Just the right note. 
+Visually stunning and musically thrilling ... 
+the finest operatic movie made:' 
+
+\1'1 h~lj ~\'li ... h ,PII,' \l.r,\il:lllt 
+
+"'La u-aviata' .. il personal triumph for 
+director Zeffirelli. It's not to be missed ~' 
+
+"Bravo! You \-villieave dazzled down to 
+your 50cks~' 
+
+"A total triumph . .. the be t 
+filmed opera 
+
+ever made~' 
+Rt'rHLnd Drca' 
+G'~"t1t·tl \('i('''I'''I'C'' '' 
+
+A FRANCO ZEmRELLI FILM 
+
+La TraViata 
+
+----STARTS FRIDAy----
+
+Q5 ' SOO'1000 
+Sarqaln PII(e Men F- I $2 50 
+'0- c;ho\\ "'clore 6 00 
+
+Ma .... 26 1<)83 Nlatu 
+
+
+
+Rumaging through 
+the heavy metal pile 
+
+By KARL DAfGUNG the best work of his career. The 
+vocals are consistent, the music 
+is well written. and the album is 
+well produced. 
+
+In recent months several new 
+" heavy metal " oriented albums 
+have hit the market. some of 
+which are instrumentally 
+brilliant and hard driving and 
+others that are downriaht 
+depressing to the heavy metal 
+aficionado. 
+
+Gary Moore. formerly of Thin 
+Lizzy and Coluseum, has 
+released a "hot and cold" album 
+entitled Corridors of Power, half 
+of which is packed with 
+incredibly fast solo lines and 
+throbbing rhythm tracks and 
+half of which is obviously 
+designed for FM radio listening 
+twelve year olds. Moore'ssoloat 
+the beginning of "End of the 
+World" is absol utely amazing -
+comparable to nearly any hard 
+rock guitar solo on vinyl and 
+well worth the price of the 
+album in itself, 
+
+The best of the new releases is 
+the Micheal Schenker Group's 
+Assault Attack. The blazing 
+inferno on the cover 
+silhouetting (presumably) 
+Schenker brandishing a guitar 
+sets the stage for this fiery 
+album chock full of his 
+lightning quick leads and 
+powerful rhythm melodies. 
+Assault Attack is a must for the 
+guitarist. where the German-
+born Schenker displays some of 
+
+The new album frum Def 
+Leppard. entitled Pyromania. is 
+
+PACIFIC THE s 
+MATINEES DAILY AT ALL PACIFIC THEATRES 
+
+Bargain Malinees al Cenler Cinemas . La Jolla Village Thealres 
+Cinerama .nd Pacific 6 Thealres Monday-Fnday for all 
+
+performanr.es slarting before 5.30 PM Salurday lsi performance 
+only sub,ecllo seal a •• ilability. No Barga," Malinees on Holidays 
+
+or Special Engagemenls Ample free parking al alilheaues 
+
+CHAINED HEAT 
+5ral'l5 Tomorrow' 1210210 425030. 8JO 1025 R 
+
+MAX DUGAN RETURNS NOW MAN FROM SNOWY RIVER 1 J5 455 840PG PlAYING 255 "45 1 0 35 P< 
+HIGH ROAD 
+TO CHINA 
+
+RAIDERS OF THE 
+NOW PLAYING! LOST ARK 
+J~ 705' I 1QPG 12.>5455905 PJ 
+
+HARLEQUIN 
+510"" Tomorrowl 1205 I 55 355 :J a 1 7 aO Q 40. '1 30 (PG) 
+
+Now PlaYing In Thearres .liS & "6 Special Engagemenl!! 
+
+RETURN OF THE JEDI 
+• . . .. . . .. 1200 2a5 530815 10.50 :PG) 
+
+La Jalla Village 
+453-7831 
+
+8879 Vi lla La Joli. Drive 
+~ North of La Jolla Village Square) 
+
+F_Put<lne BREATHLESS 
+Now Playlngl 1.05 J 00 455 7 10 9 10 11 10 (1\) 
+
+ExclUSive Engagemenrl Storrs Tamarrow
+' 
+
+THE RASCALS 
+12102.10 415 000 825 1025 R) 
+
+Special Engagementl Now Playing I 
+
+RETURN OF THE JEDI 
+70 NM ond Dolby Stereo. 12.00 2 as 530 8 15 1050 ' PG) 
+
+Srom T ornarrowl 
+
+HARLEQUIN 
+1200210 4J5 640855 1100PG 
+
+1-8 at Slad,um Way In MISSion Valley 
+
+Speclol Engogemenrl Now Playlngll 
+
+RETURN OF THE JEDI 
+120u 245 5JO 815 1050 PG. Dolby 5rereo 
+
+FLASHDANCE 
+'~ow Playl '91 105 305 455 700 910 11 10R 
+
+SPACEHUNTER: ADVENTURES IN THE 
+FOROI DDEN ZONE 
+
+1215 210415 635835 10.25 
+1-8 at Jackson Drive In Grossmon! Shopping Center 
+
+Winner 8 ExclUSive Engagemenrl Academy 
+Awards' GAN DH I 19rh Weell ' 
+
+I 1 2 00 4 00 8 00 PG) Special Engagement Sorry No 
+Of Motlnees Oox Office 11 30 am 
+
+Avenue 
+
+YEAR OF LIVING 
+DANGEROUSLY 
+12JO 540 1050 PG) 
+
+4140 Clalremont Mesa Blvd 
+Every Cloy My Seor /vly Time 9Q~ 
+
+All (lolremont Progrom~ Srar Tc ,., JrrOWI 
+48 HOURS DAD DOYS 
+
+12 30 4 55 Q 20 R. 2 :;> J ~ )0 11 1 S f\ 
+
+SWORD AND THE STONE THE LAST UNICORN 
+1~ j I'}1)11 11. ;) -1 ,:,1 rJ 
+
+6 malus May 26. 1983 
+
+something of a disappointment 
+from the boys who brought us 
+last year's High and Dry with 
+such heavy metal gems as 
+"Saturday Night" and " Let It 
+Go," P/.iromania sounds like a 
+mellowed-out Nigh and Dry 
+with synthesizer lines, 
+
+Two heavy metal standbys. 
+Ozzy Osbourne and Black 
+Sabbath have cashed in the 
+chips with their last live albums. 
+entitled Speak of the Devil and 
+Live Evil, respectively. Former 
+Bla ck Sabbath member 
+Osbourne released his new 
+double album comprised of old 
+Black sabbath standards in 
+December. Ozzy's voice on 
+Speak of the Devil is virtually 
+gone and his feeble yelps and 
+growls that pass for vocals are 
+rendered unlistenable by a shrill 
+sound system. The backing band 
+headed by guitarist Barad Gillis 
+does a passable job. with Gillis 
+ripping away on some fantastic 
+solos and generating a fantastic 
+heavy metal tone color. 
+
+Black Sal1bath. minus Ozzy 
+Osbourne, is a bit more 
+endurable on Live fvil. Vocalist 
+Ronnie James Dio produces a 
+fine effort. and guitarist Tony 
+lommi produces some 
+interesting "Sabbath -esq ue" 
+lead lines and earth shaking 
+power chords. but the 
+production comes off a bit flat. 
+
+The most pathetic of the new 
+releases is the Swiss band 
+Krokus' Headhunter, This 
+sounds like a bad AC-DC. and 
+Vocalist Marc Storace sounds 
+like AC-DC's Brian Johnson 
+would with a sore throat. 
+Guitarist fernando Von Arb is 
+one of the most uninspired, 
+sludge producing in recent 
+years. The world needs only one 
+AC DC. and a bad clone of them 
+is completely unendurable. 
+
+In this set of new Heavy Metal 
+releases, Schenker and Moore 
+should not be missed. Krokus 
+and Osbourne should be 
+avoided, and the rest arejust run 
+of the mill, 
+
+Scandal 
+continued From page 5 
+
+Scandal is climbing the 
+ladder of success, with a new 
+album in the making. and an 
+opportunity to tour with the 
+Kinks. Smith attributes some of 
+this to exposure on MTV, the 
+cable music channel, who 
+played two of Scandal's videos 
+(they currently have only five 
+songs out on an EP) for a 
+national audience. 
+
+Says Smith. "Things would 
+have been a lot slower without 
+the videos on MTV. and we 
+recognize that fact. We also 
+recognize our audience. It's 
+miraculous that we 've been so 
+far in such a short time, and we 
+haven ' t forgotten our 
+audience," 
+
+As for the future ; "We just 
+want to write more music and 
+put on better shows. We just 
+want to get better for the people 
+that listen to us." 
+
+r 
+Medical School Openings 
+Immediate openings available in foreign medical school. 
+
+• Fully accredited 
+• Also for dental and vet school 
+• Loans available 
+• Interviews beginning immediately 
+
+For further details and/or appointment, call 
+Dr. Manley at (716)832-0763/882-2803 
+
+51 ... " MARK HAMILL· HARRISON FORD· CARRIE FISHER 
+BILLY DEE WILLIAMS· ANTHONY DANIELS ,. ~. 
+
+c"""·",, DAVID PROWSE· KENNY BAKER· PETER MAYHEW· FRANK OZ 
+
+''''''''b. RICHARD MARQUAND ..... ",db. HOWARD KAZANJIAN ,,,·,,.GEORGE LUCAS 
+" .. ",.LAWRENCE KASDAN ,"" GEORGE LUCAS 1m"",,,,,,, .. GEORGE LUCAS M ",JOHN WILLIAMS 
+
+~PG "IUII( ~Om(I"'(SHI-n:l ' .'.::, .. :' ., ', . :_, :;.~:~ ... , DOIDCU'l'rrTBOIIll't [."" ... ,,,,,.,,,.,, ... ,,,."".,>< ''' ''''1 !~F'Ol~-
+l , •• , . HI' I I fill • • • '" 11·11,1. 'II!II~ r::-::-:; '. f , ."." [ M1WH1L.&'I(..Ioi IfIO .... 114UA,w .. r !IOo~ " 1 , I ' _ 
+
+CO> I""YBf 100 INr(NS! 'O~ VERY YOUNG CHIlIlf\INI .:J 
+
+• E L. E 
+"'ANN RANCHO BERNARDO I 
+':"1.. fl· '''<If''r Pt.:lot( ljlt mlftc I THUrllfS lIM," AMC WIl811tO I'I.AlA 6 I mlflC'S -" 
+t~~ St,4" q ",,. 'T1. 10· 1"1 
+A I • II (.! , 
+
+UACMMAS _" 
+J ., • .,itr PI,alj I .I, '411' ll.>t 
+
+1·111 • h (i." 11 10 
+UA Gt.ASSIlOUSf' ... " 
+
+I ,~'I-" ~I' J. ,I'J 
+1130 
+
+"'f: r, 'II 1 <!loti r: )~n!ty 10'110 
+Pllt'r ~IJ f.""II', """" ,o,.t lllli:!,.JIJ 
+
+4'4 B~11' Ii' or • ..t' •. 'D. I 
+1(; ~ 8<-. Ol1rl' optons.t! q 1 rn (, r .... '1't·p',,1ti' 
+f s.Cv~r'~a ) f' ~ m. «If< 
+V. .. mltll'!f\M"IU" '" I •• I'tt)t 
+
+,~ 'e!!'t II , 
+?P~4 t~! .. 
+
+l !..Im r RI' • 'R ",~44 
+I'Ilrt'rl'( 11,'ElI ... ,., 
+
+~ <'It" I . " JQ I 
+,.-'. 'o~ 
+PiAl. l IJ -jl • J • I) )0 
+8·1). II,) ~ 
+
+SPECIAL ENGAGEMENT 
+
+LA JOLLA VILLAGE THUTIlfS 
+,,7'1\11 J.la ~)I .I'd nUl 
+
+'i 11' I .. II ~'l' ql 
+! • .j. I' 
+Ih.ottl" , .' ci oJ 
+mlflCS CERTER eIltE"'AS I 
+
+11,,1 '1uy U 
+j, • I 
+
+Return of the Jedi: final chapter 
+contin ul'd from page I 
+from his mouth area. 
+
+Needless to c;ay Jabba ha~ 
+tlan in a very safe place. as a wall 
+hanging in his audience 
+chamber. This makes rescue 
+rather difficult and playing true 
+to form. Skywalker seemingly 
+messes up the attempt. but then 
+pulls off one of the 1110st 
+exci ting rescue scene to be 
+filmed since Errol Flynn rescued 
+Olivia detlaviland in Th e 
+Adventures of Robin Hood. 
+With this action he is now a full 
+Jedi KniQht. 
+. Once tlan has be!'n resc ued 
+
+(\\as there ever really any 
+qUl'~tion that he wouldn't be?). 
+the group set'> off to do battle 
+with thL tmpire OIKt more. The 
+t'lIlperor has cunstrue ted a n('w 
+dnd mon J,lmu'rful Death Star. 
+whit h i~ readling (ompletlon 
+once operational it \\ ill be more 
+pO\\\'rlul thdn tht' origitldl Death 
+.:;tM 
+
+'>pent days on these cycle prop .. 
+in front of what is known as a 
+blue 5creen. This proces~ i'> 
+later mixed with the forc'>t 
+lootage. the result being seeing 
+Luke and tRia rae ing through 
+the forests of Endor. 
+
+One thing that is di~ppoin­
+Ling in the film is the amount 01 
+time devoted to Yoda . Yoda. 
+who was one of the main 
+attractions in Tile Empire 
+
+-----
+
+li,e." there I.S ')till a common 
+factor of fighting for what i .. 
+right idt:ntity c.ri .. l'S, dud the 
+triumph,> dnd failurl'> Uldt we all 
+experience. 
+
+More than anything. his film'> 
+have laken us from the innocent 
+childhood fanta,>ies in Star 
+Wars to the uncertainty of the 
+bridge between our teenage 
+years in The Emptre Strikes 
+Rack, to the har"h redlities of 
+
+rart of the '>pccicll el/c( ts on 
+lht' Death Star II Crt' grnerated 
+by c.omputcr graphics. Bill 
+Renes and Tom Duff with others 
+lrom II.N have brought .,omr 
+truly spectacular thrce 
+dimensional planet qraphics. 
+
+Dc\'otcd fans lined up earl)' yc!>terdd), for 'Th~ Return of the Jedi: 
+
+One of the most exci ting 
+pa rts of the film is the speed 
+cycle chase through the forests 
+of Endor, This was accomplished 
+by using a steady-c.lm at one 
+third of its normal speed. which 
+is called undercranking the 
+film. When the 111m is run 
+through a projector at normal 
+speed. i t appears that the cycles 
+are going at J 50 mph . Though 
+this was exciting in the film , 
+Carrie Fisher and Mark Hamill 
+
+Strikes Back, i'> on the '>lrem 
+lor such a short time in the new 
+film that one is quitc 
+di~ppointed not to hear more 
+words of wbdom by the little 
+green guy from DaQouhba. 
+
+lame Fisher remarked in a 
+recent inlen iew that she felt 
+that she had really grown up 
+with George Lucas. In a way. all 
+of us who are fans of George 
+Lucas's films have grown up 
+with him. Though the characters 
+in his films are far removed from 
+the reality of our day to day 
+
+SAIl OIEOO SrATE 
+UnlVERSIlV 
+
+ddult life 111 Retum of tile Jedi 
+Regard Ie",> of whatE'\t'r the 
+
+audience gets out of seeing this 
+movie. one Cdn t help but \\ant 
+to see the first three films that 
+are suppoed to come before the 
+present three Star Wars films. 
+and thr last three films that 
+come after the next generation. 
+Whether or not these films will 
+be made is left up to George 
+Lucas. regardless of his decision 
+he has given the whole world a 
+rich legacy with these three 
+movies. 
+
+Eam credit this summer in the uncrowded. unhUrried 
+
+SUMMERTIME AT SDSU 
+• 500 courses in 52 fields 
+
+~AT THE MOVIES 
+• All prO'lr"",s start rricMv" 
+
+(EHlER CINEMAS 
+Fashion Valley 
+297-1888 
+1) RETURN OF THE JEDI 
+2) FLASHDANCE 
+3) SPACEHUNTER 
+
+ClAIREMONT 
+Clalremont Mesa 
+274-0901 
+1) 48 HOURS/BAD BOYS 
+2) THE SWORD IN THE 
+STONE/THE LAST UNICORN 
+
+COVE 
+La Jol .3 
+459 ;,<+<)4 
+THE ~ GHT () T i 
+
+SHOOTI~(; ~"A 
+
+FINE ARTS 
+PdClf p (" 
+274-4000 
+THE r, FT 
+
+flOWER HILL CINEMAS 
+["el Mar 
+7555511 
+1/ f-l'GH ROAD TO (H ~A 
+2 THE KING OF COMfDY 
+3, TOOTSIE 
+
+UA GlASSHOUSE 6 
+San Diego 
+223·2546 
+1 ) POLTERGEIST RA,DERS 
+OF THE LOST ARK 
+2) VALLEY GIRL 
+3) PORKY'S 
+4) FUNNY FARM 
+5) SOMETHING WICKED 
+THIS WAY COMES 
+
+6) RnURN OF "HE JED 
+GUILD 
+San Diego 
+295-2000 
+BE"RAYAL 
+
+La JOLLA VILLAGE THEATER 
+La Jolla Village Square 
+453-7831 
+1) RETURN OF THE JEDI 
+2, THE RASCALS 
+3 HARLEQuiN 
+4) BREATHLESS 
+
+La PALOMA 
+Ene. rlltd~ 
+4 ~o SH"")-.X/ 
+
+~ , , ,E II or i .... 
+H ... ~ ,. ~A T' 
+
+SPO TS ARE NA 
+
+, F.A ,[ ",- .. 
+• bi?u .. THLI ':., 
+-1 HIGH I< JA':J • "', .... A 
+4K HOJRS 
+4 TOc... "e; t 
+5} DR ')fTROIT 
+61 SPACt>-lJN"'fR 
+
+MANN CINEMA 6 
+Unlversl1:y Towne Centre 
+452-7766 
+,) TtNDER MERCIES 
+2) TOOTSIE 
+3) POLTERGEIST/STILL 
+SMOKIN' 
+4, LOCAL HERO 
+51 FLASHDANCE. 
+6) SPACEHUNTER 
+
+• All listings subject to change' 
+
+> 
+
+• Lots of space left in Business courses 
+Come and Join 91X FM 
+
+in Celebrating ... 
+• More than 70 Education courses 
+• Psychology units available in 
+
+weekend workshops 
+• Math courses at all levels 
+
+NO ADMISSION REQUIREMENTS 
+EASY REGISTRATION PROCESS 
+
+Three major sessions: 
+May 31 - June 17 
+June 20 - July 29 
+
+August 1 - 19 
+Two-day to nine week intensive courses 
+
+CALL TODAY for your free 
+SUMMERTIME CATALOG 
+
+Call Pat Nelson, SDSU Summer Sessions 
+
+265-5152 
+
+T.G.I.F. 
+
+Friday, May 27, 1983 
+4:00 pm 
+
+On The Hump 
+Two (2) I.D. 's required: 1 
+
+l. Student I. D . 
+2. Valid Driver' license 
+
+Btllllqhl I, '1',: Hv I (~II Plll'lf,IIll"llll'l ('( !' "lIS~I!lll 
+---- -- I ---- ----
+
+Ma 26 I QS1 fflatu~ 7 
+
+
+
+CSEA University Division 
+Urges You To 
+VoteAFS CME 
+
+8 lfiatus May 26, J 983 
+
+CSEA will not be on the ballot in the upcoming collective 
+bargaining election. We have worked too long and hard to 
+
+miss the opportunity to bargain collectively with the 
+University. We need a union. 
+
+If You Choose 
+"NO REPRESENTATION" 
+
+The University will be free legally to: 
+• Abolish the grievance and appeal procedures. 
+• Abolish layoff and seniority rights. 
+• Reduce pension and benefit contributions. 
+
+If You Vote Union 
+• You will participate in determining your working lives. 
+• You will have representation. 
+• Your wages and benefits will be protected. 
+
+CSEA University Division believes it is important that you 
+vote. We recommend the following vote in the major units: 
+
+SystemWide Service Unit . AFSCME 
+SystemWide Clerical Unit AFSCME 
+Systemwide Technical Unit AFSCME 
+Systemwide Librarians Unit . . , , . . , . , . , . AFT 
+
+California State Employees Association/University Division Council 
+1108 "0" Street • Sacramento, CA • (916) 444-8134 
+
+The UCSD Guardian Snorts Page 7 
+_P_h_il_L_a_u_d _____ er_,_S_p_o_r_t_s_E_d_i_t_or ___________________________ ~ ____________________________________________________________________________________ ~ _____ a_y _____ 7_,_1_9_8_3 
+Sockers Claint MISL Cro\Vn 
+With 3-1 Muffling of Blas t 
+
+By W. JOliN SCHAC HT 
+, Stuff \\'ril<' r 
+
+\\,illrich , and Ih en hold lll g on 
+after Ihe Blast's fl rsl goa l In 
+Sa n Di ego in I hre(' gamcs 10 
+wi n Ihe dccicIer In fro n l of 
+a lmosl I :{,O()O screaming 
+soccer fans, 
+
+Coming IIllo I he la;..t galllc, 
+I h(' San DIl'go elu h house 
+I(w)"l'd more like a ho"pital 
+waro Ihan Ihal o( a ~ocr('r 
+learn Injurlc" \() caplain I\al 
+Ill'lna, \'idal h'rnantll'/, Alan 
+\ ),i'L'r, and l.!lIl'nl II like ... Idl 
+I Ill" SOCkL"';" \\ l'a kt'nL'd, ;!11d 
+Ball I III Oil' \\a ... hoping 10 
+l',lpilah/l' 
+
+Illl n ute~), bUI I he expl'n('nn: 
+and l'xpertlsc of San lJ lego\ 
+
+penalt~ ki ll er". Cha,eha 
+;-.J amelar, ~l art in Donnel l. and 
+Ccrt \\'Il'lIorkow ... k'i In 
+parI Kular along \\ II h goalie 
+,\ Ian ~la\er. Ilmarlt'd Ihl' 
+Hlasl j)o\\l:r·pla ,,'-0, 
+
+J)C"Pltl' heing oul played III 
+I he "con'le,,'i flr;..1 qua n ('r, Illl' 
+Socker'> "L'l/l'd thl' Illomenl um 
+I nth l' ., l', Oil d q u " II l' I , 
+,ulillinallng III l<ohmal111-; 
+"l'l'Im<l pIa \'of f gO;ll, it po 111 I 
+IJ I iI 11 k l' 0 ( k p I 0 \' l' l' I h' 
+Ba1111l111rl' glial 11' IIlf of (I Julie 
+
+\l'l'l'a~~I~ 1 al Ilw'II:()( mark 
+TIll' glial "l'l'llll'd Ii, hI' ),' 11 lU 
+[IlL' ~(llk(I" ;llld \1"'11/ 
+
+dt'IIIIJl~'1 Il' I I' ,HI ( I r\ fll'l dll, 
+pka..;(· IIII'll 10 pagl' H 
+
+Athlete 
+of the 
+Week 
+
+BRUCE 
+NAKAMURA 
+
+(Jolf 
+Brul'(' ha,.; \\'alkl'd InIO gill!', 1)1\ 1"lIIn III :\al1!tllct ~ Ihre£: 
+
+:>ear-, In a ro\\, and ha<.,\\alked ;\\\a) \\I'h ,\11 '\rnelllan 
+l](Inor ... all thll'l'llllll'~ • 'Ull" 'I' lltn'L'ln Ihl,~tnl an,t 1<I"'t 
+\\l'l,k II' ()hlo " ... Ihl' r(s!) 1 ... l1lor pI Iced "Ifihlh out 0' 12(J 
+top g(lI(l'r~ \\ I' h a f 'l r round 101 al <Jt :.ri; 1 II" pld) It'C hl'1, 
+III \\llhlllll\l .,1r'1~l'..,(j· ~t" <JIlel plall "nd I 1'11r Ii 'he lOp pi!' 
+dnrl ,O""pll'n;ll'll'd.l 2011' '}Ia.l 'IP r' 'j I. ',r pi ,'. h 
+pl,,( ~Il J\~lllg lilt' \e'lr beion L( 'l' \I'KI' \\\(;'1 "do 
+I hal \; akalllli a "dl,,,t Y\t' ,,1(11 ()I ,"edl' I ,r I pi t. '1 I 
+\\t'I'K dnl! ,III ~I'a Oil, c111 n)-( '·lld. It. \, ,'Ir., It Y 
+,Jt:rf. I'll l'l' 'II'I( ,l \\1 [. II I '1,11-
+
+Profes~ lO n a l champ ion sh lp~ 
+used to occur as mfrl'(lu en tly 
+In San Diego as Halt l111ort' 
+BIasI goa l" in Ihe ~ port:-, 
+Arena, W p' rt' lalking ha rd l~ 
+l'\ cr. Bu t for the "c('ond 
+l'Im..;('cul i\e vea l the San 
+Dil'go Socker:-, ha\e bro"en I he 
+San ll iego jinx and caplured 
+anolher indoor '-'OCler 
+,ham)JlOnshl]), I hiS I inll' al I Ill' 
+l''\pl'n'-oe oi Ihe :\Iajor Indoor 
+
+~Ol'L'l'r League\; Hall I III 0 rt' 
+BIa..,1, TIll' S(II."er;.. ~hut dll\\ n 
+Ilw Bla:-,t 3,1 :\ 1011(1;1\ I11gh lin 
+till' ('xlillng f1l1ale or I he he";l 
+01 f 1\ t' L' ha III pilln,.. h 11) ~l'nl '-', III 
+dll1llg SP, :-;an Diego I)\'l'rl'illlll 
+1 I \(1 galllc I,).,illg :-,tl'ak,;1 1111"1 
+
+II f II n I I m l' I \ I 11 ) 1I r I t' S , 
+Ball l111on' " Illllrlll'nl lIlll and 
+
+111l11I'1~ I)f L'rillll~'n frolJ' I he 
+'(' pI. rt ,," \\ 1111 dlllliJll'd In 111 
+
+d II "Ill' \\ Iwllll'l' a Il,l'l1 fn III 
+:" \\ L'<lkel \; \;-;1. IIId,HH 
+
+The BIa~I , a ... I h('\ had d()[ll' 
+III!' 1\\1l prl'\')(I\l:-" ~c1ml'" III 
+B"IIIIIlIIt'l' (hilI h I I \\ 11Il1i I h,'\ 
+II,I(I \\ ill, 1 I dll( I" III 
+fl\lrll'lll' ''<In'l' ('1I1 \l(l11da\ 
+nlghl pl;l\wg " pIli ~Il (II g lllle 
+'11 at'; I:l'l1 pi I') IIl'II'lld"ll'l h' 
+"'I( kl r, I '11, 111l'l' 1111\\ "\ 1'1 
+tI( "()(~l'l:-' lll.llded 1ht"1 
+lill" r It rlll"'\, 'Illtl I'wkh 'I,r 
+.I 'k:, ,I d II,' HlI' Il,')", I 
+"kl11>-; 1lI- ,1'1' .Ig., 01 ..... .111 
+
+(l'l go II') L'(1t' I (I ")lCO 1:1.,1 
+Ill( "'I[''' 'I" (I( It l' dl'r~ 'I hI 
+"','11 ')It,.( ,I ,lll',~\ ,ll'lrll'd • 
+In, "fl', I' I'" , hI HI" I Ii Itl 
+
+UCSD's Rec Center Set to pe 
+Long-A lcaited Facility Rcady to (;u by .\"('xt fredJlP 'day 
+
+It Ig,I' lllllld l'\l'n ['()\II'Wll III 
+Ihl' :\lf~I., 
+
+I he ~'Il kl'r.., roln I hl'l1' hO'1l1' 
+Ill'ld \ 1IlI1lllg --11'1'.1,1\ [I) I~J 
+,1 d l,ht },~ jUi1lPI'1~: 'Ii'., d Ilf 
+I. ,HI" I ,I (I ("1.'(,.1 " III ~I ',) 
+
+I ,I, I<"n \dl' , ((,I\l'I, Jtd 1 
+
+, 
+
+(I ~I \l '" h 'jJpl)r unit l 
+\'1 .n h 'I Ilr,,1 I,. 
+
+B~ I{OBEln (;1:\ ER 
+~o .,1.11 -. Iht \wd oil lit .. 
+
+Ill'\\ 'L'I'~< III llllt,r II 
+''''rd I~ \\,((In '",1 l I I 
+(1IJ·t tt.l" 'j r} i'l (I hl f H"'n II) 
+
+Con !>, tru ction i~ fin ish i ll J.( li p 
+o n l ICSl)'), ncw Rcc Ce nter, 
+w hich will feature a 50-meter 
+poul, raC(IU elba ll cou rh , lock· 
+e r rooms, a n d a do\,cr - ..;hapcd 
+jacu zz i, Located Oil ;\1 iralll Ul' 
+Rd , (Saipps Hosp, j<.; shown in 
+th e backround) , Ihe ,trm'lurp 
+opc ns \\' c dncsday , 
+
+GET A HEAD START IN A 
+NUCLEAR CAREER. 
+
+Tra 111 for a ca reel' a~ a Nuclea r Propulsion 0 Ul cer in l he Na\'! ' The N ,1\ Y has t hI.' 1ll0s t 
+ach'a nced Iludcar equipm l' llt 111 the world , and nCl'd s ach'an ced nuti ea r Irainlllg 
+officers to ll1ai 11\ ain and operate It. 
+
+The graduat e le\'ellraining you 'll receivl' ill thi S p rogram coul d cos t S:lO,I)()(), \s a 
+Nuclear Propulsion Offi cer . ~ ol1'l1 be n'\\ardecl \\ith inne(lsed J'(,'" pOlls lbtlll ics ,1Ild 
+promot ion potential. 
+QUALIFICATIONS: Age' 19 to 27 1,. yea rs old , 
+ED UCATION : Worklllg ll)\\ a rcl s (o r haH' complel ed ) BA tI\' HS <il'grl'l ', 
+CITIZENS H IP: { IS rili lc ll " hip reqUIred , 
+
+1\ pp I ir a t I on s 111 a ~ be s u !Jill I t [ed a r [l'r co m p kl i oil 0 f ,,opll!l1l1011' yea rt Il l'ollegl', I I ~ Oil 
+t 11In k Illl clt'ar proplI l 'I ll III I" ~ (I II r I'll I ure. I hell \ ou h I1 m \ tlw :'>l <I \ ~ is till' pla"I' 10 ht'glll, 
+Call I he :'>1 ;1\ ti l :\ \ a n agl' Il ll'11 1 Progr,IIll " (H f lce lo r lllillT In iflllllal lllll 
+Call 29: ~ - () 7 1 : ~ , ;\londay I hrml ~h T1llll' .., day, H:OO a m to I :00 Pill, 
+
+; \ .. I I' I .. , 
+' II ", \ ' i l' I' II I' , It' I I' I' 
+
+(.1 -I , II 1 t I. 
+-
+
+rc P' , 
+., ill 
+
+t J I I· nt ' I .t t r 1,1 ( , 
+p dl' I 
+
+I. I, 
+I' 
+
+t t I'j)t 11 
+-'\I t t !, I I 
+
+\\ 1'1 '1 ( 1 .... 1 '(~ 
+In.! II' ,i.) .ond ,I" til' 
+
+till' K, lo~ ." 'l'r pI/II II l 
+fa. "11\ iI-o ''', • 'I' 1\ ' 
+ral'llul'IJ,.t1 1 ~(ll1r'" Ill. \ [I I 
+gl;I' .. , \ Il'\\ Ing \\.tIl, f'll I,d"l 
+rtlllllb \\ II IT :!,)I) l,ichl'l' I'll'al'h 
+r.)(IIll, and a I:! per"oll ,pa, 
+E \ ('Ill U a II i', () n l' (I I I iTt 
+racquel ball - lOll rl" \\ 11 IJl 
+,coml'rtl'd mIll a \\l'lghlhfIIng 
+roOl1l, On I hL' aI'''' hL'I I,' "I<ll', 
+I he pool dl'L'k prn\' lde't a 
+be a 11 I I I' u I \' I,' \\ ' (I f t h l' 
+surrnundlllg \' alIl'~" 
+
+Hert l\o!J,1\ a"hl, Dlrl'Clor 01 
+Campu ... Recreat1!1Il, and Hill 
+:\lorgan, pn'''l'nl 1'(~lJ ,,\\ IIll 
+coach and future ,\ qualll 
+Program Dlrl'clor 01 ill(' ne\\' 
+HpLTl'allOn Centl'r. make hllk' 
+effort 10 :.upprl'~S the kn (lr of 
+Ihelr elllhuslasm Bolh lllen 
+t lea l I:. .,cc a great hendll 10 
+t 'CS!) and Ihl' ComlllUllll\' 
+res ulll n g I rOIll I h", nl'\\' 
+
+fal'1lit~, \ ... \l organ ... 1;\11':-', It 1:--
+"a lacilil\ \\1' can dll sO Illuch 
+illort' \\'II'h," II,' I~ h(l\llll~ Ihal 
+
+- -I 
+1 II 
+
+, 
+• " 1 ( I 
+
+• l . , , 
+
+1 
+
+II \\' ,I' l I ,II 
+I· ) l 1 1,1 t .. l b 
+
+.r l III ',g ,I, It I .... 1, 
+1\ II 1 .I' 11 II I,ll IT ' < 
+"I, ~ I hll I III' I II I t I' ~ 
+,hl'd <I' 1 pr 1 'Ill r' 'or 
+(II~ I ,pI: tt',1ll " II' '~I"'l 
+
+When,dl)L-a!' 11.,,1 't, \l'll \' 
+Ig nUn d H'l red t JlJI' ,., '\\ 11' 
+1'1l'r? \\L'lJ. hl'~ldl'- Iht \.1·1'1 .... 
+I III Lllllur,i1 u','" I t1l't'l' \\ dllx' a 
+Pl'\\' ma,II'r'i ~\\ 1111 ItcJln ,1110 Cl 
+Ill,hler" \\all'r poll) team In 
+;Iddlllun, an l'Iiort 10 P"'\ 1(it> 
+:tll,da. rl"Tl';tll'Jllalu~l' \\ Ii '"It' 
+1llacll: II' l"lIlrdlllalln,~ 11ll' 
+IC,lIn, IIII' I.IP ... \\ Illlllllng 
+hl'l\\l'l'Il Iht, \; lIalortulll and 
+11ll' Ill'\\ pool \~ I\I,ha\'a,hl 
+-.ays Ihl'Y are "altl'llIpllllj.! to 
+~l'nl'alla"pl"I~l)1 tlwcalllpu~ 
+l'om III U n I I \ ' \\ I I h the 
+Intention III ;il1l'nalln~ no .... 11(' 
+
+I'l'l.Tl'alion carel, \\ III 'IHtIl 
+be: ,1\ aibbll' fill' "U111111 t'r 11'-1' of 
+lhl' RI'" Ct'nll'l' CIll','k at 
+Campu., Rl'LTL'atHlll fLlr pl,,)1 
+
+h(lur~ :tlld ll-l'~ 
+
+f~-ROB-ERTS-~~--&-: 
+I Exc1u si\'(~ l 'It · • BJI n' • , \l 'VI Sen 'ice : 
+: \/I l1'nr/,'illflvgll(I/(l/ltnil . Fill ton tmlJl('t/ -"/J<,(/(/!Jsl I 
+I ~lon, . Fri , H am - :'}::m pm; S ' It. H alll - :'} pill. I 
+I ((J ] m 1 3 1 ·7H2:~ ,1(J30 :\-l i ... "ion Ba~ Dri\\.' : 
+I ((j 19) 1 5 1 ':~703 <I ,l 10 Halhu;l F\. II' I 
+: ((j I H) 273- 1 1 32 San Diego, C \ . 921 on I 
+
+r------------~------------~ I SUlIlJll er p edal I I 
+: '\ n I TlII1C· t l p .. $..15 : 100/0 OFF : 
+: (;t'~ I TlIIlL', t l p ... $65 : on a ll olhel' rl'palr~ : 
+I I "I \ ,lil, '" 'II un .. I 1< r 11""11 I 1\',11 \,dul \\ III .t11\ \ I til'l t. t .~1 II 
+I , I II ' I '/'/' I I Il l/Ii 1/11' l tJlI/lClI/ I 1/ I liS l (l1I/lf!!1 I 
+.. ----- (~f/t' J'".J.!(I(ld UII/dJUIIt' /.>11'.-.----. 
+
+
+
+'. 
+
+8 The l lCS D Gual'dian 
+
+This Week in Intratnurals 
+8\' JEFF CHAPIRO 
+
+• SlaH Writer 
+The main purpose of IM sports at UCSD IS to allow the 
+
+students here to compete against each other In an organized 
+fa~hion. The main idea is that participants have fun - winning 
+and losing is not important. Anyone who believes thIS obvlOusl} 
+doesn't play rM sports. Well . I wouldn 't say every team lives by 
+the motto "Win or Die," but a lot of the teams have been known 
+to give new meaning to the word "sandbag." On this nole, r give 
+you a little playoff report, along \\ ith the best - and the worst -
+teams in volleyball and softba ll. 
+SOFTBALL 
+
+Here are the best and worst teams In all the divisIOns: 
+Men's AAA 
+
+-The Best 
+Brutal Puppy Dogs 5-0 Look fur Ili1'ir pic/III'l' 
+
+UII Ihl' [('({II 
+H L. KnIghts 
+
+Profo AthletICs 
+
+-Thl' \\'ur:'t 
+
+Sotl bailer" 
+
+BOln to ~un 
+John Del(}rean \., 
+
+:\Ien's AA 
+--I he Bt'st 
+Onlv Queens 
+Runi 
+Bob\ Breath 
+
+Cleal Tea"ers 
+-The Worst 
+Phi Batta Batta 
+
+Cuprht'cks 
+0 ,;\1 O.e. 
+
+:\lcn'.., A 
+-The Best 
+Back /)oor :'.Ien 
+d nd Lll1gusnH'n 
+
+n llse 
+
+Drag 
+
+6-0 
+
+. )-1 
+
+O-t) 
+]-:, 
+H 
+
+7-0 
+7-1) 
+6·0 
+
+lJ-7 
+
+I)-I) 
+()-() 
+
+Good, hilI Jllsi 1/01 
+j.!uo(/ ('I/O[(Rh 
+
+()1I/~id/' ciltJlln "IIj;hI bl' 
+100 flulsidt' 
+
+I {/fll//': (,nef Ilu Si'!/S(!/f 
+/s O/'!,!, 
+.\ II I ',JIll{ II {ak 1((/11/ 
+jo/i II had II lif'lla Y/'rU' 
+
+(JII(, wurd: .'iI II(/bag 
+1/ II 1('!'I'!'11 'I JUI 
+IIIl (jll(,( liS ... 
+/Julia Jllh COli IOllla. 
+
+f( (/ hurse, IflJlI/d hlll'l' 
+/1('('1/ ~I!u(. 
+CUllltlll 'I fillc/ II/( fll'/cl, 
+Whal l/a/lpl'Ils I('/U 1/ 
+I ('(1111 /III III(' 
+11//11.1'.\ /I() SIIISl. 
+
+"I/ll' lIl'xl H'£'lk /01 
+!If/gu[ (/r([IIIPII)-II,IIIP, 
+
+HARCOURT BRACE JOY ANOV[CH 
+BOOKSTORE 
+
+~ 
+BOOK 
+
+EXTRAVAGANZA!! 
+HSJ"s Warehouse Spring Clean Up 
+3,000 NEW HBJ 
+
+PAPERBACKS 
+on ,ilk "Ith ,avlRg~ up to 
+
+85% OFF ORIGINAL PRICE 
+Special Sale On HBJ Textbooks 
+
+Book buyers take advantage 
+of th" unique opportuntty 
+to ,Iod your book shelve~ 
+
+wtlh the~e cXlraordinJI) values 
+Truly a bargain hunters paradise 
+
+MAY SALE 
+C()nllnllC~ unltl .11 hook-
+
+dre \old 
+
+Don't Miss Out 
+ADDITIONAL 15% 
+
+STUDENT DISCOUNT 
+Includes Sale Books 
+
+1255 Fifth Ave • San DIego 
+238-1255 
+
+Monday - Fnday 10-5.30 Saturday 10-5 
+
+-The Worst 
+Yom ~un 
+Team F.E, P. 
+Premature Whacker" 
+
+Coed AA 
+-The Best 
+Po;eudo Drabos 
+Dynasty 
+Stroke It Up The 
+MIddle 
+-The Worst 
+Family 
+Blasters 
+Jules Peck &. the 
+Lit tie Peekers 
+
+Coed A 
+-The Be I 
+l.lft' Begllh at 
+:lnd B;be 
+Tht' Dean Bag", 
+
+\\'Ollll'n ,\r(' Smarter 
+- I Ill' \\ or"t 
+I he Ikagle Balb 
+
+Ildlen Keller' 0; 
+:'.hrade \\orker" 
+'I he Pope'" ,\lose 
+
+\Vomen 
+-The Best 
+Bn)\\ n Sugar 
+Cosmic Bunglers 
+[) Street Ba nd 
+-The \\lor"t 
+We Pia\' to Drink 
+Blakel tt,,, ·tet·ll't 
+
+:-l"(ond \\ ind 
+J OLLEI'BI1LL 
+
+0-6 
+0-6 
+0·5 
+
+(1.() 
+JO 
+
+61 
+
+1) '1 
+o-!) 
+I':l 
+
+ti II 
+
+IJ i 
+
+I J.t> 
+
+I I 
+
+.l/issl/II( ill ae/lOll. 
+D/ji'll S (' _.;1 
+1'1'1)' prl'nwlll re. 
+
+Tiley 're fur r{'al 
+(ould bl' bltiMil/1( III/£'. 
+They dv ([ Ivl vf il. 
+Busy pmtlicinl(/iJl/l'ilillg. 
+'~ ll/bodinl(,1I1 11/ ('/'}'vr. 
+Wllrried Ivu 1I111t/1 ulloltl 
+1111'1 r 11I1II1t'. 
+
+'Iilkl 's 1111111011 "II/'Psiliull 
+
+lii/dd II/II 111I111t.I!I, 
+P{II\I~IJS, 
+
+iI ilIl Itdlt! 't/Ita, 
+
+Null., 'I /In d: :.! ( 
+HI! 1/.\ gll'l II 11/): I.! I 
+."I)tller! 11/) /111 /l'U/r'1 Imlli. 
+
+SUII'I .S/('illl(as. 
+\'11 /Jroh!ulIs hl'l'e. 
+, t d('/in iii' .Iilt'llIl'. 
+()r i, II rlI'IIII, Itl /llllr.' 
+1)1111'1 1I'1I1/! I() Iillk . 
+11/111/1 ( il 
+S/ill II II il ill.!! /;1/ il. 
+
+In the :'Ien'" Opt'n /)l\i"IIII1 , .III tl'al1b makl' tIll' dflublc 
+<'i1l11lnatl!ln pla\'lJff.., Tht tl'am.., t, )\\atl'il arl' he "I ranked IIi ... 
+Boy Elroy, and ;;~ \\ e Own Hendo One tl'am l'XPlt tpel ttl 
+
+pll''''''l' tU1't1 til pag(.' ~l 
+
+I 
+
+1-Ha~reJRaN 
+1817 ________ .... ~. 
+
+--. 
+
+Wllh ThiS CIlIII~lI1 
+For CondItIon, Cut, 
+
+and Blow Dry 
+Men and Women 
+
+I J 11 H ., I!<. r I~' '~"~'~I~. ,::-, -;--liii.;;;_~ 
+10 am - 6 pm 
+
+Tu sday thru Saturday 
+Call for Appomtment 
+
+I 4288 Cass St. 483-6721 
+L ___________________ _ ______ ~ 
+
+Thur-;day, 1\1a) :W, 1983 
+
+Indoor 
+Champs 
+
+l'(JIll i IIUl' d frolll pagl' 7 
+In the half, Ihe BI~lst hadn 't 
+sl'ured a goal III IGO-plus 
+minutes 111 the Sports Arena, 
+
+The Sockcrs came out 
+st rong in (t,c ~l'cond half. hut 
+wcre ~t vmied 1)\ t he good 
+goa lk cCJ)ing of 'Ralt 11l101'e\ 
+Keilh Van Eron un theIr first 
+pO\\'er play opportunlt} of lhe 
+second half. Hut the Hla..,( 
+muld Illllster lIttle oficnsl' in 
+the thIrd quarter. <lnd e\ell 
+\\ hen tht'\' did tl1L' fate, 
+"l'l'med It) 1;,0" t hl' Ilt Iwl' \\ ~II 
+I\t onl' POIllI \\ it h t Ill' ~(x.· kL'r~ 
+ahead Ill' t heir ~Iilll o1H"goal 
+lead. a Bal1lllllll'L' 1111 ... kllk 
+11I1IL'd ~I ,)\\ h Il\ a 1H'lplt'"'' 
+\Ian \1;I\l'l' tllward Ihl' \;tcdnt 
+~illl I lll'.l;() !WI. The h:t11 1111 tl" 
+rlgll: p()~I. oiled hemlll!.! ... ,I) 
+,le 1'11-;0; I hl' crl':I-'l" hIt t hl' Ilt her 
+post. and fi nall) \\ a" l I ;Id!('d 
+In ;\la\('r. \\ nlllll 1111l11l1'IlI s 
+lokl' r "'('1"" Ir· klchd d \' n'l ' 
+I'l bound pasl goalll' \ 'an El'Iln 
+on a PO\\ l'r pIa:. Itl gl \ l' t hl' 
+
+S(l('kl'r~ the ,\innlng margm. 
+Willrilh added an ilbur:lnc,· 
+
+gila I III l hl' t 11IId qua rler Ill'lorL' 
+Haltlllllll'e'" Ilelni' \\'urll 
+fll1all\' broke I he BaltlllHlI't· 
+drllllght ('arly III the fourth . 
+Th(' Sockl'r dl'knsl' then took 
+11\('1', ;tnd \\'1ll'11 thl' Hla ... 1 
+pulled IIll'i r goa I it, 1\ it h t \1 0 
+I11Il111tl" left. tlll'\ could Iln" 
+m:lIlagl' a 11'\\ \\ l'ak shot... on 
+gll;t1 I ht· SOL kt'rs had t 11<'11' 
+"('["ond l'1l11"'l'l ut 1\ l' IndlJtJl 
+t i'(1\1 n 
+
+Sell it in 
+The Guardian 
+
+classifieds, 
+
+452-3466 
+
+THE HAIR 
+COMPA"Y 
+
+presents 
+
+Redken Perms 
+$35.00 
+
+Haircuts 
+$12.00 
+
+Cellophanes 
+$18.00 
+First t ime 
+
+customers only! 
+
+Call Usa now for 
+an appointment: 
+
+481 -6739 
+(closed Sun & Man) 
+
+1011 Camino Del Mar 
+Canterbury £kl Mar 
+
+T hursd ay, M ay 26, 1983 T he UCSJ) G uardian 9 
+-----------------------------------------------------------------------------------------
+
+Running Thoughts 
+ByMIKE GREENBERG and JEFF SAVAGE 
+
+Sla ff Wri ters 
+WHAT 'S GOING ON H E RE DEPT. TheSan DiegoSockers 
+won a Major Indoor Soccer League championship the other 
+night. Ho-hum , Does anybody really care? Sure. the game was a 
+sellout, but San Diegans would pack the Sports Arena for a title 
+game if the sport were croquet. The true measuring stick was to 
+see how many fans showed up for the victory celebration the 
+followi ng day. So on Tuesday we went downtown to see the 
+Spirit of San Diego come alive, and instead, we saw a few 
+hundred loyalists gathered around one loud speaker listening to 
+incumbent mayor Roger Hedgecock prai e Head Coach Ron 
+Newma n for the wonderful job he did . There were so few people 
+in attendance tha t we were able to meet and become acquainted 
+on a first name basis with the 500 and change that decided to 
+show up. Where is your appreciation, San Diego? All theSockers 
+did was to win the indoor title for the second consecutive season 
+and they can't even get a thousand spectators to show up for the 
+celebration. PIT-I-FUL. 
+NOT TO BE B E LIEVED DEPT. No one has tougher luck 
+than Padre southpaw Dave Dravecky , Dravecky, whose record 
+currently stands at 6-3. has lost all three decis ions by a total of 
+four runs, He has allowed a total of five earned runs in the three 
+setback while his team has su pported him with just three runs, 
+With any luck at all Dravecky would be8-1 and right on schedu le 
+for a 20-win season. Only Steve Carlton. Jerry Reuss, and 
+Fernando are better right now than the Padre sophomore and 
+that's saying something. 
+WAIT A MINUTE DEPT, OK. OK, people have been getting 
+on our case all year long for not going out on the limb enough, 
+[(ow about this: Not only will the Philadelphia 76ers win 
+tonight's second game of the NBA Championship Series. but 
+they will stun the sporling world by s\\eeping the men from 
+Inglewood in four straight. 
+COULD IT BE DEPT. Why is Czechoslovakian tennis star 
+Ivan Lendl ranked number one in the world, winning so many 
+tennis tournaments? It appears Lend! falls under the same 
+category as the great three-yea r-old racehorse Desert Wine. Bot h 
+need to take Lasix, a drug that stops an athlete from bleeding 
+while under competition. The calch is that Lasix is prohibited in 
+a few states for race horses, but available to all tennis players , 
+
+YOIlY 
+
+Opinions? Comments? Gripes? 
+EXPOUND 
+
+sports opinions in Ihe Gua rdian Sports Line at 
+The UCSD Guardian, B-016. 
+
+HOW DOES THE REST OF 
+THE WORLD DO IT? 
+
+J OIN US IN FINDING OUT: 
+
+There are absolutely no intercollegiate events 
+happening on this campus. 
+
+So there! 
+
+No Break for Outdoor Sockers 
+By JEFF SAVAGE 
+
+Slall Writer 
+Football players enjoy a 
+
+seven·mo nth off-season. 
+Baseball and basketball 
+players rest for six , This break 
+
+I~ not on ly necessary to repair 
+and rest injuries, but also to 
+relieve fatigue and mental 
+exhaustion, All profe~sional 
+athletes need a vacation. Even 
+the PCA tour affords a two-
+mont h break for gQlfers. 
+
+The San DIego Sockers 
+opened their North American 
+Soccer League outdoor season 
+at Jack Murphy StadIum 
+Saturday evening. No, they 
+aren ' t 1m posters, These are 
+actually the sameSocken; \\ho 
+won the M ajar Indoor Soccer 
+League III door seasun on 
+Monday, two day,> lala. By 
+maklllg It to the ChampIOn-
+'>h i p Senes, t he Soc kers 
+managed to o\erlap theIr 
+
+This Week in 1M's 
+contimwd f.·OIll page 8 
+
+1M Spartswire 
+-Riverside - The 19th Annual All-Cal Intramural ~ports 
+Festival "went well; everyone had fun." said one I\1 sport~ 
+director. 
+- 1M Office - In tramural dilemma caused bv the lossof Prvatel 
+Field next year to new apartments. New field-is promi~ed but not 
+until construction is done, whIch cou Id take a whIle. 
+-1M Office - Check the board later t hi.., week for playoff berths 
+and times of games, 
+start a two-game losing streak IS Undertakers· Mens Only, 
+\\ ho seemed to be buried alive after finishing the ,>eason+-II 
+
+The Men\- AA di\lsltll1 \\111 have 12 teams makIng lht' 
+playoffs. Leading the wa} are the Altered Momes (19·2). the 
+Misfits (lj·3), and the Banana Blockers lli-·il. If amtJne IS 
+wondering ho\\ the Divers fil into the playoff picture . the:. 
+don't; thev're bv far the worst at 0-1;). 
+
+Now for Men Os '>lIlgle·A. Cia 'is of the dmslon IS We know the 
+Ferg at 17-1. followed b~ the Inner Racially :\1ixed at I·t -I 
+They must not play "olleyball In Greece. becau,.;e these frat boy ... 
+sure can't: the Delta Sigs are 1-17. 
+
+IIldoor and outdoor season . At 
+least the teams that dIdn 't 
+make It to the playoffs got a 
+three·week rest. Whoever "aid 
+the be"t part of winning a 
+champIOnship 1"0 sa \ onng it 
+throughout the of~season 
+newr checked out the NASL 
+!-ochedule. 
+
+Rut a~ draIned as [hey are, 
+the show must go on Thmgs 
+didn't begin well Saturday 
+nIght a" an DIego lo"t It~ first 
+outdoor ..,ea..,on opener m fiw 
+years to Team America, 2-1. 
+The manner in which the Will 
+was achIeved had San DIego 
+player" grumblIng III the 
+lucker room followlIlg the 
+contest The\' felt that Team 
+America pla):ed \\ ith unneces-
+sary \ IOlence and cruelty 
+Even ocker owner Bob Bell 
+was fuming: "If that's \\ hat 
+Team America is all about, 
+then It's a dl'>grace." On the 
+pOSItive 'ilde. San Diego plaved 
+respectably con~ldering that 
+Coach Ron Newman elected to 
+field a rc..,er l' team whIle 
+a\,lng hI'" fln.t team 
+
+pdormer" for the \IlSI fmal 
+\l onda\' nlghl 
+
+t'nf()nunateh for :\e\\mdn 
+and the tearn-, the resene 
+..,quad rna\' be on t he fIeld for 
+qUill' some tIme The gnnd of 
+
+plea ... e turn lO pa~e 10 
+
+(Enroll in the Integrated Social Science Sequence) 
+
+S ocial S cience 10 A - B - C 
+Modern Society 
+
+Approved for Revelle Social Science and additional Social 
+Science requirement AND Muir Social Science. 
+
+FALL 1983 - lOA: R. Madsen 
+Tu-Th, 10:00 - 11:20 am 
+HS52250 
+Special attention is paid to theories which seek 
+to account for the unequal distribution of 
+wealth, status, and power in America. 
+
+WINTER 1984 - 108: D. Laitin 
+Focuses upon political aspects of Human 
+Society, exammmg patterns of equality, 
+authority, and policy making in the United 
+Kingdom, France, Japan, India and the Soviet 
+Union, 
+
+SPRING 1984 - 10e: R. D ' And rade 
+This course examines cultural universals and 
+cultural differences in the Modern World and 
+includes case studies of cultural differences 
+between modern peoples ~md .) review of the 
+
+concept of "Ncltional Chara ' ter." 
+
+Stop the Bus ... 
+
+STOP T HE BUS: (rro nt) Len S hulman. Fir!it row (I to r) : Ja~ liuo. liar .. n 
+Garcia, Kevin Gun ning. Second row: Kathy Odell, Kim Duclo , Jacki .. J .. quint. 
+Ken t Kirsher. 
+
+Stop The Bus for fun! Here IS a team which epitomIzes the splnt 
+of Intramural!:>. Stop the Bus (whose real name IS "Stop the Boat and 
+Let My Brother. Jacques. Off") always tries to hve up to Its motto. "it 
+just doesn't matter." DespIte theIr season record of 4 wms and 1 loss 
+Stop the Bus nevel stops havlIlg fUll Although at tImes they appear 
+cocky and easy going, thIS IS Just theIr way of hvmg up to theIr motto , 
+They started off theIr season WIth "Shulman Stables Cap NIght" and 
+capped it off WIth "A TrIbute To Gdrfield." Their mId season "Hull 
+tIme Huln Contest" really shook the pool up 
+
+Look for thIS t(,dm in the rldyotfs who knows \\'hilt t hey 'II Cl)flW 
+lip WIth next But you Ctlll bet tlwv WIll h.w\: tUll ,1nd look !or\\'drd 10 
+Millt-'r time! 
+
+TEAM OF THE WEEK 
+~'ON"'ORID BY nn Mil U H HRt v.'1~G COMp·\", 
+~~~~~~~~~~====~ 
+
+
+
+10 
+
+l\)~to((\ 
+~O~,.oO(\\\ 
+
+fPS with the 
+latest styles for 
+
+Spring and Summer! 
+
+Let Us Design 
+A Style For 
+
+YOU! 
+
+~~~~oe\ 
+FREE CONSULTATIONS 
+
+Fi rst Time Customers Only: 
+Women. 515 (reg 52500) 
+Men, .. 512.00 (reg, 520.00) 
+
+452-5620 
+Coli to!' Appointment 
+
+3251 Holiday C I 
+Ste 201 
+
+(Above 51 Germalne's) 
+
+RTWA presents: 
+
+The Spring 
+Get-Together 
+
+Buffet Dinner 
+
+To all Revelle Third World Alliance 
+members and friends : 
+
+This is the last event of the y ear. 
+Don't miss it!! 
+
+Tuesday, May 31, 1983 
+5:00 to 8 :00 pm 
+
+Revelle Fo rma. Lounge 
+Admission ;s free. 
+
+Call Revelle Provost Office, 
+for details, ext. 3493 
+
+~-" ~':·.--DLAST OFF ~~ TO OUR 
+
+- , "1 
+. , • ,. l 
+
+.' 
+
+NEW STORE 
+" ' .{!:;' 
+
+~ FANTASY GAMES 
+I Dunge ons & Drogons, 
+I Chompions, Villo lns & 
+L Vigilantes, Travelle r, & Sror Trel~ 
+
+~ MINIATURES f\al Porrho , Cirodel. Superior & Phoenix Minim ures 
+I DICE & ACCESSOMi] 
+
+• New comics onve every F"day r - - - - - - - - - - - -. I rhls coupon 00 I by AJr F relghr 
+• Collecror s COrT'ICS 
+, Come (, Fonr05y AA 
+• Comic conservaTion myfa snugs 
+
+myllres aCId-free boxE'5 
+• ~ple Free Poriling 
+
+I IS val id for 1 % OFF I 
+I The purchase of ony I 
+I Fanrasy Games or Miniarures. I 
+I Expires 6/ 9/ BJ I 
+• - - - - - - - - - - - -I 
+
+--NEW AND COLLECTOR'S COMICS 
+OPEN 7 DAYS 
+
+(6' 9) 483-4853 
+
+4224 Bo\b~~ ;~~ , 7 
+Son Diego. & (loJremont Dr ) 
+
+(orner 01 Bo\bOf~od Basket -
+_ Next to 
+
+The UCSD Guardian 
+
+an introduction to the ph ilosophy of 
+
+AYN RAND 
+"BASIC PRINCIPLES OF OBJECTIVISM" 
+
+by 
+
+NATHANIEL BRANDEN 
+One taped lecture from this series will be presented every Sunday 
+from 11 :00 to 2:00 pm at Home Savings of America, 4311 La Jolla 
+Village Drive, University Towne Centre. If you are interested in ride· 
+
+shari ng, please call 721 -3014. 
+
+XEROX 
+OPEN HOUSE 
+
+All Faculty, Staff and Administration are 
+welcome to attend a show of the following 
+produc ts: 
+
+Memorywriter 620, 630 and 610 with 
+Communications 
+
+860 Word Processor 
+820-11 Microcomputer 
+2700 laser Pr inter 
+
+Where: La Jolla Village Inn 
+When: May 25, Wednesday, 11 :00-4:00 
+
+May 26, Thursday, 9:30-4:00 
+
+An editor is needed for 
+REVELLATIONS 
+
+the Revelle College Newsletter ••• 
+
+If you have experience in 
+producing a newsletter, need 
+
+money and would like an 
+internship in the Revelle Dean's 
+Office please apply. Pick up a 
+
+referral slip in Student 
+Employment and stop by the 
+Revelle Dean's Office for an 
+
+application. 
+
+Deadline to apply is 
+June 3rd! 
+
+INClUDe! 
+Contact ten~e~, 
+examination, patient 
+training. follow up, 
+chemical care kit 
+and fi tting. 
+EXTENDED WEAR LENSES 
+ONLY $295.00 
+
+DR_ ROBERT HELLER OPTOMETRIST 
+La Jolla Village Square 
+
+(InSide the Mall , Lower Level) 
+8657 Vil la La Jolla Drive · Suite 136 
+
+452-7374 
+Hydrocurve extended wear lenses ova liable 
+
+Thursday. May 26, 1983 
+
+SD: Outdoor 
+co ntilllll'd from pa~(' H 
+the regu la r seasun and Iht' 
+pressu re·packed playoffs have 
+ta ken th eir loll on the sfj uacl. 
+S imply put. the pl ayer~ are 
+ba nged up. Only one of th(' 
+e ight regulars is hea lt hy rtgh t 
+now, and a s low j u ml- out of 
+the outdoor seaso n ga tes 
+s hould be ex pected. 
+
+But it should be ex pec ted as 
+well tha t th iS team w ill be 
+the re a t t he end . They've heen 
+to the brink of t he Soccer Bow l 
+for th ree consecutive years, 
+losing 111 t he semifinals each 
+time. 
+
+T he Suckers are gU ided by 
+:3J·year·old capta1l1 Julie Veee, 
+who stanels as the team's all · 
+t IIlle outdoor >.conng leader 
+with 1l:3 pOInts C2H goals, ;'7 
+ass is t s) \' l'el' set a ne\\ ten!l1 
+record for assists durrng the 
+19H2 regular ~eas(\n \\ it h Hi 
+and was a flr"t team chOice on 
+the North American .. '\II ·Star 
+sq uad .. \de l oker and Lorenz 
+
+I lIilkes tied for t he team's 
+regllia r sea son scori ng t II Ie 
+wit h :l:i P01l1h apeicl'. Cuker 
+ca me to I h l' Soc ker" III ImH 
+and pr()mptl~ tore all the 
+ligaments around his right 
+knee \\'hl1e dislocating the 
+knee ilself.lIe wasgl\'e n onl} a 
+l:l percent chance of e\'cr 
+playing soccer agalIl. Il l' had 
+the best poinh· per ·game 
+awragc in the league at 1.7:J 
+during t he regular "ea ... CJIl and 
+\\ as named the NASL player of 
+the month for I\ ugust. lIilke" 
+\\'as \'oted ,\1ost Va luable 
+Forward ilv his teammate .... 
+
+Also fitting IIlto the sche1l1e 
+of t hmgs are Kaz IJeyna, \\ ho 
+tlnlshed \\ Ith 26 point-., fourth 
+bes t on the team. ;\Tartll1 
+()onnell\, who \\(1.., \oted th l' 
+dub'" \io"t \ 'a luable DdL'ndl'l 
+h\ his tf'ammatl',,: and (;ert 
+\\'ieczork()\\·"kl. \\ho (bd not 
+IllI"'" a III 1'1utl' In either the 
+regu la r sea 'ion or t he pia yof f s, 
+t hereiJ\ 'il'll II1g a nl'\\ t cam 
+record for III 111 ute" playeci 
+
+Tending t he net fOl San 
+])iego is \'t' teran We"t German 
+Volkmar Gross, \\ ho hulds all 
+team goalkeeplIlg n'cords and 
+led t he NASL in sa \'e" la~t 
+season with 178. He had six 
+shutou ts on the year including 
+three in a row at the >.tar t of 
+t h e season , another club 
+record . 
+
+G ross and theSockersrlldn't 
+ge t off to a good streak like that 
+th is year and things will 
+proba bly get worse belore they 
+ge t better. Hut a talented learn 
+i<.; a ta lent ed team and thlIlg~ 
+w ill get bet ter . S{)()ner or laler. 
+
+Sockers 
+Win Title 
+co ntinued from page H 
+
+The Sockers posted the 
+1\ 11 S l. ..., be~ t record. \\ h ieh 
+pro\'es as im purt a nt 1Il gi\ 1I1g 
+them the hOIlle field ach'a ntage 
+as it did in psyc hing oul the 
+Bl ast. Th ro u g h o u t the 
+playo ffs th e Sockl'r >. played 
+exceedingly we ll a t home. a nd 
+once th e Hl a»t a rri vecl 111 Sa n 
+Diego the Sackers and the 
+S port Are na wra pped the 
+Ba lti more team in a goa l 
+scor ing s l ra itjacket. as they 
+shut out the Blast in gamt'i'> 
+one a nd two. n·O and 7·0. the 
+first s h utout s in MISL pl ayoff 
+hi s tory, When the S()cke r~ 
+blew their cha nce to w in the 
+se ri es in Ha lt imo rc thev 
+returned horne to put the 
+w hamm} on til(' Bla~ t a nd 
+delight a cit y and Its fa ns \\ ho 
+can't gl'1 l'nough of chnmplOn 
+
+shlp~ 
+
+T hursd ay, M ay 26, 1983 T he UCS J) (;uardian 11 
+
+Classifieds 
+Ne~d 2 I~m"'t rommates 6/20 to 8/20 
+w/optlOn to lease thru sp 84 condo w I pool 
+n""r UTC call 453·6470 (6 /6) 
+TAX SHELTER. Give your parents"" even blsser 
+wnte-off & yoursel l a place to live CallLlndd 
+Greene . t ,,565·8151 or 45 4·4110 lor 
+,"""penSive condo Information (5/26) 
+
+Wanted Personals 
+
+Announcements 
+
+The GOOf.thor EMSSA m.kes you on o ffer you 
+can't refuse Tonight 8 30 pm TLH 107 $1 75 
+(5/ 26 ) 
+rhey're cute, cudd ly, w orm- and FREE! Four 2 
+mo Old kJttens need homes. Call 287· 7173 or 
+287·5155 (5/26) 
+Come and express your m USIC, dance, poetry 
+at our sunset celeb<atlon Sunddys 7·8 pm 
+436-917 4 (5/ 3!) 
+Meet TEI'M SCRIPPS, maddog partlers, thIS Sat 
+night at the MB boardwalk, 706 Salem Ct. 
+'5/ 2b) 
+
+For Sale 
+FOR SALE on~ ( 1) used ond much abused 
+" coke " machine Gel It befo re the 
+temper.tures beSln to nse Pnce nesotiable. 
+Call Hann.h and make offer. (5/ 26 ) 
+Cerwin-Vega 21 1 P sp""kC's 12' woofers, 125 
+w atts per channel. LISt at '500 pair, sell for 
+$200. C.II Terry 4Bl -8267 (5/ 31) 
+Lyons-Monarch . ' to soxophone. All new pads, 
+With cose, extras $175, ( . 11 Terry 481·8267. 
+(5/ 26) 
+80 Hond a CB400 Hawk ~eat condit ion, 65 
+mpg, shOel fernns other extras $1100 or offer 
+560·9761 EV (5/3 1) 
+Surfboards 60 Thrust"rs $90 .nd ' 150 429· 
+4491 (5/ 31) 
+77 WI R.bbit fuellnJ strong, resp eng prec"e 
+handling good cond am/ lm st 60000 mi. 4 
+speed $2395 or best offer 455·1089 (5/ 26 ) 
+83 K"wasakl GPZ 550 ker'<er, custom racing 
+seat .'arm ens prot bars 3·Y' warr 2500 ml & 
+helmet $2600 Imaculote S£XV red 455·1089 
+(5/ 26) 
+Ski boots Dolomites 1983 'Gold Sioloms" used 
+once. Cost 285 sell 185 481 ·56998ob. (5/26) 
+72 Honda CL350 new bre so OO commuter 
+$300 Carvin stereo elect gUitor ""nt co nd Jen 
+942·5463 eve (5/ 26 ) 
+Beer for sale 5CX See th" OG 's. ( 5/ 26 ) 
+Surfboard 7'1' $50. One patched ding. 455· 
+1674 osk for Steve (5/ 26 ) 
+1975 AMC Hornet gret deal • . 6 cyI, pow., 
+steering . Good condition, '100. Leovlng and 
+mut seli. 942·8270. (5 / 26 ) 
+1980 Suzuki GS450L mint condition, Mony 
+extras $950 or best 455-9057 after S pm, 
+( 5/ 31 ) 
+TI ·59, Prosr.mm.bl" ",'cu,.tor w / c.rd 
+r""dC', extr. IIb<ory modules, only 1 yr old Coil 
+Greg 485·1192. (6/ 2) 
+HARD TO GET A TERMINAl' For sale TI Silent 
+700 termlnol w / modem, New cost $1250. 
+Used $500. C.II 457·1460. (5/ 26 ) 
+DIAl UP on your own computer terminal at 
+home New L""r Siegler ADMS dumb video 
+termln" w / telephone modem $975 coil Doug 
+27Q.1904 6-B ~ven lngs only pI""se. (5/ 26 ) 
+' 76 MGB CONVERTIBLE, only 38,000 miles. 
+AMI FM rad iO, luggage rock. $3,800. Call 279-
+3580 evenings. ( 5/ 26) 
+62 Ply. ValiantSlont6, Sood mech. condo great 
+for student or surfer many extras $475 755-
+7518 . (5/ 26 ) 
+
+r------------, TYPING $1 per page discount!!! 
+(With the coupon) 
+
+Term Papers . Theses 
+Dissertations . Resumes 
+SPELLING CORRECTIONS 
+
+Ava ilable at Kinko's 
+Copies (La Jolla Village 
+
+Square and SDSU 
+campus) 
+
+Or Call 279-3243 to 
+arrange for F?ick-up and 
+
+Delivery. 
+Nol valid Wllh any olher dlsounl 
+One dlscounl per order. not 10 
+
+exceed 51.00 per page 
+Vatld Ihlough 6/15/83 J 
+
+-------------
+
+Services 
+A.all .ble to House or Child Sit With dISturbed 
+children Experience With psychotIC and 
+.utlStlC children and adults For Info coli 698· 
+2608 or 466-3654 (Plea .. le<IVe messase) 
+(5 / 26) 
+All Typlns speCialize In SCIentifiC & tech IBM 
+SelectrIC II Elizabeth wl<d.ys 452· 5030. 
+eves/ _kends 267-6942 (6/ 9) 
+Exceptlon.' typing - all Kinds Super IBM III 
+Corrections, spelling, nearby rostservlce 45()' 
+1138 (b/9 ) 
+Spelling or Grammar poor? I type and edit for 
+$150 PS Fas~ accurate, rel",ble Call 224-
+0329 (5/ 26) 
+Need. typISt' Reosoneble, speedy, accurate 
+- 15 ye.rs experI ence - C.II K. thle, 576-
+1277 anytime. (5/26) 
+A codemlC typing - dISsertations Low rates, 
+fost servICe. Pro-Type. 454·6860 La Joli. (6/ 9 ) 
+UNWANTED fWR REMOVED PERMANENTLY 
+near campus La Jolla ProfeSSional Center, 
+8950 ViII. La Joli. Dr. SUit. 1160,( Call for 
+apol. 453·7040. (6/ 9 ) 
+TYPING - IBM RUSH JOBS, d ISsertations, term 
+papers/ editing 453·0656, (6 / 9) 
+TYPING - Papers, t heses, resumes, bus rqmts 
+profesSional & ""Ptnenced 697·8077/ 222-
+3605/ 697-2403 (619) 
+PREGNANT' Choose . ,ternot lves to abortion. 
+SO. Pro-Llf" Le'gue 24 hr Hotline 583·5433, 
+94,.,515 (6 /9) 
+TYPING' Rush Jobs'!' Term paps, dlSS, medical 
+TRANSCRIPTION, ed iting 274-5005 (6/9) 
+TYPING I 40/ PS on WORD PROCESSOR, your 
+paper can be revised later, extra copies at low 
+cost Spelling con-e:-:te:d, rush service available, 
+free pICk up .nd delIVery on'campus THE BUG 
+BYTE 571 ·5122 (6/ 9 ) 
+TYPING HIShly skilled, legal, blomed, theses, 
+papers, resumes, Carol, 566-4905 (S/ 31 ) 
+
+Housing 
+Roomate wanted UC condo - total house 
+prlV. wosher dryer pool jacuzzi 300 , 1/ 3 
+utilities avail . June 1.t. Coil R ~a 45()'9466 455-
+7319 . (5/ 30 
+2 roommates (male ) needed for condo for 
+next school yeor. Woodlonds North across 
+from Ralph's. Pool, j<lcuzzl, tennis courts 5 min. 
+bikC'lde from school. ' 2501 mo. 287·3726. 
+( 5/ 31 ) 
+Need temporary houSins Immediately \\Iill 
+
+houses~, sutHet, share. Call Belen .t ( 213 ) 
+327·6551. (5/ 26 ) 
+Sabbotical? Professionol woman en tering 
+college Will housesit '83·'84. Please coli liz 
+415·231 · 1091. (6/ 9 ) 
+Summer Roommates needed to share 3·bdr 
+condo 3 mi from compu. Partially furn fem, 
+non·smkr preferred Own room $208/ mo & 
+1/ 3 utll Pool & Jocuzzl 450·9635 eves. (5 / 26 ) 
+femole nOll-smoker to share room In furnished 
+condo near lITe, UCSD & bus. $150/ mo & Yo 
+elec. WaSher/ dryer, pool, JaCUZZI, tennis, 
+garase, dlshw.sher. Nice, e.svsolng people, 
+457·3860 or 455·7141. (5/ 31 ) 
+
+Ne~ded now for n""t year -Single person to 
+share condo at Del Mar Beach Club-prIVate 
+room, furnished w / laundry, dlshw. sher, pool, 
+spa·nonsmkr $2 12/month & '" e lec $100 
+d eposit 2 min from b""ch coli John 452·9838 
+(6/6) 
+Roommmates w.nted to share room; In Del 
+M4r condo for summer and/ or fall Pool, 
+jacuzzI, laundry, near beach and s.tores 10 
+min to UCSO No smoking, fem.les $200 
+mo/utll Inc Call Mlndy.t 481 5330 ,612 ) 
+
+Travel 
+
+Open M·F 1 Q.5 In the Student Center. ClEE 
+offers budget nights, rail pao;ses, tou~, books, 
+Insurance, work and study programs, and 
+much more Call 452·0630 (6/ 9) 
+Drive our Qlr to East Coest/(onn l~ve 
+ony\lme . lIer 5 / 24, .rrlVe by 6/2 7 FI"t tonk 
+free 452·0512. 
+
+Lost and Found 
+
+FOUND a little mother of pearl heart' I lost It 
+Tuesddy & would lo.e to have It bock. PI""", 
+call CrIStina 755·8808. Th.nks (5/31) 
+Found, Brown male cot UCSD campus Lost at 
+least two weeks 459·2237 (5( 26) 
+REWARD ·Lost cat-La Jolla Playmol-
+tabby/callco fem. - shorthalr Nikki' 452· 
+4090, 455·0242 (51 31 ) 
+Lost Albino Cockatiel b,rd, light yellow 
+w/orange cheeks Answers to Norman Hes 
+very tame, Will perch on finger, won't bite Lost 
+In Genesee Hishiands area 5/2 5 REIXIARD 
+Carol, x4356 or 450·06 73 (6/6) 
+Lost Small mother of p""rl he.rt It must have 
+fallen off my chain Tuesday ( 17th). Please call 
+(nsbna at 755·8808 Thanks (6/ 9) 
+FOUNDSwe.ter outSide of HL on May 1 SCali 
+to Identify '11111 45()'3016. (5/31) 
+Lost!' A ll notes for AMES 163A, Moth 2F, EECS 
+61 If you have found It, pleas" leave messase 
+for ZOj<lJI .t EECS Dept or coli me at 459·6687 
+Th.nks (5/ 26 ) 
+Found · Bike helmet .nd pump 5/ 23. Contact 
+John.t 457· 1404 
+Lost . gold helbros watch II found coli Llndd 
+457·3636 ( 5/ 26 ) 
+Found - Wh ite male west hlshland terrier on La 
+Jolla Dr Moy 23 near UCSD C.II 4S2· 
+7194 (6/2 ) 
+Lost. Keys on met.1 ring somcwhore ",ound 
+Revelle on 5-11 coli Barry 455·0912.(6/ 2 ) 
+LOST- Tan Frostllne DAYPACK .nd a block 
+umtlrell • . If you have found I~ please coli 455-
+9182. (5/ 26) 
+1 pair pink Nlke runnlns shoes. LostThurnJay 5-
+12·83 If found, p l""se coil Andrea .t 459· 
+7540 (6 / 2 ) 
+STOlEN Red UCSD bockpock on5/ 21 tromcor 
+In front o f MUir Field. Contolns Important 
+lecture notes of Spnng Quarter, wallet, 
+sunglasses, If found, please contact MOtt <It 
+273,4472. (6/ 2) 
+GRE TEST nCKET, near ScriPPS Institution of 
+Qc""nography, for test date June 11 at SOSU. 
+Coli 45()'9611 to Claim. (6/2) 
+
+Apply now for summer dates Wendy IS tired of 
+gOing out 'Mth 97-year old nerds Act now for 
+be.t selection (5 / 26 ) 
+Student With wOltress or coterlng up to wOO 
+.t receptIOn near UCSD 6/ 26 $7 .oo/hr Call 
+453-0894 (5/2b) 
+A "de to LA this and next weekend '111 11 help 
+pay lor go. Coli 455·9966 AsIc fo< Sharon 
+(5/ 26) 
+Prlv.te pilot computer study "ds-I need 
+about 20 hou" of tyPln'3 .t $4 hr Expenence 
+not necessary Perfect way lor student Pilot to 
+study Brad Schrick Solana Beocn 481 1355 
+eves 459·9190 d¥ (5/26) 
+Textbooks Calculus·Sch.nl<, 2 ed To buy alter 
+SpnS finalS 27()'3876 (5/30 
+Wanted - Flhplno--Ame-IC.,ns between the: 
+
+~ses of 1 B·23 Need .olunte.,s to complete. 
+questlonno,re on the cultural addptlOn of 
+FlllplnO-Me"cans PI"" .. contact on" of tnt 
+lollow'ng Tn"a Her.s 457' 4384, Mel Ton .. 
+453·86 76, Margaret Thorton 453·9568 or Slsn 
+'''t In the A~.n Pacific Stud"nt AlII,,"ce Office 
+452·2048 (5/ 26) 
+Wanted Fun lOVing, hardwor1<lns. enthUSIastiC 
+persons who love the outdoo<s Unit director, 
+counselor & w.tertront positions open at 
+coed comp Please call Debbie at 450·0078 for 
+more Information. ( 5 / 26 ) 
+
+AQUA COWS-BS ftoats high when the stuff IS 
+dry, But when It sqUirts you know It hurt .. 
+Cause the Dr""ms you get .re ",ways Wet! 
+Dont forset WET DREAMERS (5/26) 
+A speCial thonks to .11 tho.e Guardian staffe" 
+& friends who made my b,rthdoy. memor.bl. 
+one V.'"ne (5/ 26) 
+B 5 I loved you expresSion .M1en I p,cked up 
+the pap., 'DlSh puck" In your office ICh Liebe 
+dlch.(5i2b) 
+Hey Ph,s' Kidnapping has never been SO much 
+tun!!1 Hope. It made up 'or th~ "C1ry" Heek to 
+come Until rUf!~dt, your e ... "r·dttflng 
+OGs(5'261 
+
+.... '?li!'I')I')!'I?! !?I'I'I'I'I'I' ••• 
+Me you 'I PINHEAD' Are you tre oerson that 
+
+found my daypaCk a couple of weel<S ago and 
+deCided to keep it tor tCUrSel'" if SO, drop 
+oeao geek'!(5f26) 
+Hey K.thy 8eck Now you con't <dY that you 
+never r~d your name In print thanks for being 
+thor", when ever' nceded you, Llnda(5!26, 
+We DreamC's Talk IS ch""pb'Jt numberS don-! 
+he' Remember F.II QIr , .nd 3()'8' Enough said, 
+Love MOO ( 526) 
+Anyone gOlns to school In Madrid nvt year 
+that sum' POSSIble surf tnps to the north or to 
+Morocco Serse 429·4491 (5/ 26) 
+
+HOW TO GET IT 
+FOR LESS 
+
+THIS WEEKEND. 
+1\llIh,ng 111 co ll l'gc I ~ Inc' lw lblVl' th l"L' d, \v" 
+r .1rlll'ubr!v the II'cd ,l'nJ, Th.II ', whl r(lLi ,huliid 
+I I,'t liquor Barn Wl'\ l ' gm ll\l'r :;.00l~ Il11pllrtl'd 
+<lIlJ doml"tll' \\'1I11", l'halllpagl1l". 'Plrl!' ,111<1 
+hl'cr., I -W dlffcrl'l1t keg hrand, ,!I'll ,II <Iri,lhk' ) 
+And ,111 ,It till' lowl" t p""lhll' dl'CllUIH price, 
+That 1l1l',lIlo, yOUl'<In 1"\I 'l'r your l'Olll'j.!l' l" I'l'II'l" 
+II IthllLlt l'lIttll1j.! hack 
+"ll VIllir (pllegl' l ' l1llT 
+1,lIl1l11l'l1t And till"l' 
+,lay ... th,n'., ,I prelt\ 
+
+SPECIAL SPECIAL THIS WEEK 
+Budwl.'bl.'r Beer, 11 12 0;: , C an .. $3.99, 
+
+Coke, Diet Coh,. T.lh or Sprite_ 12 12 0 :. 
+Can~. $1.99, 
+
+Almaden Mt. C hahii .. o r ~tt . Rh in e. 
+4 lite r 4 .9<;. 
+
+Rllbt.' r t ~l(lnd 'l\ i 
+Fume Blan .: 19H I. 
+
+7S(' mL _ C).99, 
+gll"d til',ll ~ w. 
+
+and wu get it for less. 
+
+
+
+12 The UCSD Guardian Thursday, May 26, 1983 
+---------------------------------------------------------
+
+Graduation Announcemenls-
+are avallable at the 
+
+University Bookstore 
+
+Hurry in and see our 
+beautiful new graphic 
+
+design. 
+
+Shop early and 
+avoid the rush! 
+University Bookstore 
+
+Q-008 La Jolla, CA. 92093 
+8:00 am to 4:45 pm 
+
+Me .f\... Monday through friday 
+
+UCSD 
+Computer Science Coop 
+Presents 
+
+IBM PERSONAL COMPUTER 
+OPEN HOUSE 
+June 1, 1983. 
+
+flectronic Deparbnent 10:00 am to 4:00 pm 
+
+10:30 c.m. & 1 :00 p.m. 
+North Conference Room 
+~udentCen~r -UCSD 
+Learn more about the Personal Computer 
+Discounts available to Students, Faculty & Staff Phone 452-4291 Saturdays 
+
+/ 
+/ 
+
+I II 
+
+,', 
+
+-----~ 
+
+JOS 
+
+FROM 10UE BIG 
+BROOBERSOF 
+
+..... ........ ...:::' .......................... ?~ .. . 
+
+

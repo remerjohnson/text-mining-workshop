@@ -1,0 +1,2767 @@
+
+VOLUME 47, ISSUE 58                     THURSDAY, MAY 29, 2014 WWW.UCSDGUARDIAN.ORG
+
+MUSIC TO OUR 
+EARS
+
+Jamming out to Jack 
+Johnson? Replaying 
+
+“Reflektor” by Arcade 
+Fire constantly? Read our 
+guide to these artists and 
+other hot acts coming to 
+San Diego this summer.
+
+REMEMBERING  IV
+
+A  LOOK  AT  LIZOTTE
+
+dealing  with  the  aftermath
+
+senior  reflects  on  career
+
+opinion,  Page   4
+
+sports,  Page  12
+
+THURSDAY
+H 76  L 59
+
+FRIDAY
+H 77 L 59
+
+SATURDAY
+H 74 L 56
+
+SUNDAY
+H 74 L 57
+
+FORECAST
+
+VERBATIM
+It’s hard to 
+believe that 
+data col-
+lectors can 
+extract our 
+information 
+and web his-
+tory to invade our privacy, yet 
+they neglected to take action 
+when a terrorist uploaded 
+plans for a massacre online.”
+
+- Lauren Koa
+TECHNICALLY SPEAKING
+
+OPINION, PAGE 4
+
+INSIDE
+New Business ................. 3
+Editorials ........................ 4
+Coffee Break ................... 7
+Sudoku ......................... 10
+Sports ........................... 12
+
+“
+
+WEEKEND,  PAGE  6
+
+ P
+H
+
+O
+TO
+
+ U
+S
+
+E
+D
+
+ W
+IT
+
+H
+ P
+
+E
+R
+
+M
+IS
+
+S
+IO
+
+N
+ F
+
+R
+O
+
+M
+ P
+
+R
+E
+
+S
+S
+
+ H
+E
+
+R
+E
+
+ N
+O
+
+W
+
+CAMPUS
+
+Students Hold Vigil to 
+Mourn Recent Passings
+
+BY    Meryl  Press  staff writer
+
+The A.S. Women’s Commission held a candlelight vigil at UCSD to com-memorate the victims of the Isla 
+Vista shooting, along with the passing 
+of Revelle College student Ricky Ambriz 
+and bioengineering professor Anouchka 
+Mihaylova.
+
+An estimated 1,000 people attended the 
+vigil held on Monday, May 26 at 8 p.m.
+
+On Friday, March 24, 22-year-old Elliot 
+Rodger stabbed his three roommates before 
+shooting down three other individuals in Isla 
+Vista, a neighborhood where many UCSB 
+and Santa Barbara Community College stu-
+dents live. Rodger was the son of Hollywood 
+
+director Peter Rodger and committed the 
+murders because, according to his YouTube 
+videos, he wished to “slaughter every single 
+spoiled, stuck-up blonde slut I see inside [the 
+sorority house].”
+
+One of the organizers of the vigil, Eleanor 
+Roosevelt College senior Mina Nilchian, said 
+how inspiring it was to see an abundance of 
+individuals taking time out of their weekend 
+to join in solidarity with all the UCs and pay 
+their respects to the victims.
+
+“The event was definitely a success — 
+there was a really strong sense of unity 
+and strength as we lit candles and silently 
+marched to Revelle Plaza,” Nilchian said. 
+
+Cell Model 
+Predicts 
+Cancer 
+Treatment
+
+SCIENCE & TECHNOLOGY
+
+UCSD researchers 
+designed a virtual cell 
+model that forecasts how 
+patients will react to drugs.
+
+BY  Natali e  Cu lhan e
+Contributing Writer
+
+Scientists at the UCSD Moores 
+Cancer Center successfully designed 
+a virtual cell model that predicts brain 
+cancer cell responses to various drug 
+treatments. The model’s algorithm 
+uses the genetic and molecular infor-
+mation from patient tumor cells to 
+determine which drug would be most 
+effective in combatting the cancer.
+
+Researchers published results in the 
+May 21 online edition of the Journal 
+of Translational Medicine. Project sci-
+entists spearheaded the study under 
+the direction of Director of Neuro-
+Oncology at Moores Cancer Center 
+Dr. Santosh Kesari. The successful 
+findings will further personalize can-
+cer treatment, according to lead author 
+Dr. Sandeep Pingle.
+
+Currently, personalized cancer 
+therapy suggests the use of “mouse 
+avatars.” In this method, scientists 
+implant patient tumor cells into live 
+mouse subjects. Researchers then test 
+various treatments on the mice to 
+see which drug has the most positive 
+effect. Pingle’s method, instead, virtu-
+ally models human tumor cells and 
+predicts an ideal treatment, without 
+relying on variable results from live 
+subjects.
+
+“For every tumor, in order for treat-
+ment to be effective, treatment has to 
+be tailored to the specific molecular 
+nature of the tumor,” Pingle said. “We 
+can get that information from genom-
+ics and proteomics.” 
+
+To customize treatment, research-
+ers remove a cell sample from the 
+tumor of a patient and extract spe-
+cific metabolic information. The team’s 
+algorithm takes this data and generates 
+a virtual profile of the patient’s natu-
+ral, healthy cells. Researchers can then 
+simulate metabolic mutations of this 
+healthy model to produce virtual can-
+cerous cells. Finally, the model simu-
+lates various drug treatments upon 
+these cells and predicts the most com-
+bative drug for the patient’s specific 
+cancer type.
+
+The study published on May 21 
+observed glioblastoma, a particu-
+larly aggressive form of brain cancer 
+with just a 50-percent survival rate 
+within the first 15 months of diag-
+nosis. Treatment is difficult, as each 
+glioblastoma tumor has a unique cell 
+composition. 
+
+Despite this, when researchers 
+compared the reactions of virtual cells 
+to the actual reactions of their living 
+culture cell counterparts, they found 
+a 75-percent response accuracy. The 
+study solely tested glioblastoma cells, 
+but its algorithm can be used on any 
+cancer.
+
+“Our ultimate goal is to take this 
+technology to the clinic to identify 
+the best drugs for treating each indi-
+
+See TREATMENT, page 3
+
+TRANSPORTATION
+
+Largest Campus Transit Center to be Constructed 
+This Summer by Gilman Parking Structure Bus Stop
+The San Diego Association of Governments and Metropolitan Transportation Services initiated   
+and will fund the Gilman Transit Center, which will add four new bus stations on campus.
+
+UCSD’s Strategic Campus 
+Resource Initiatives announced on 
+May 22 that the Gilman Transit 
+Center, a proposed regional bus 
+hub, will start construction this 
+summer. When finished, it will be 
+the largest transit center on campus 
+and will include four new stations to 
+improve commuting services for all 
+UCSD students. 
+
+According to a UCSD Physical 
+and Community Planning report, 
+the center itself will have two new 
+shelters each for Superloop and 
+campus loop shuttles, located at the 
+current Gilman Drive stops between 
+Myers Drive and Russell Lane. 
+
+There will also be bus turnout 
+
+By  An drew H uang  
+senior staff writer
+
+See VIGIL, page 3
+
+See GILMAN, page 3
+
+PHOTO BY NAME HERE /GUARDIAN
+
+SuperLoop
+Bus Station
+
+SuperLoop
+Bus Station
+
+Campus
+Shuttle Station
+
+Campus
+Shuttle Station
+
+Bus Turnout
+
+Bike Lane
+
+Bike Lane
+
+Bike Racks
+
+Bus Turnout
+
+Above is a predicted map of the Gilman/Meyers Bus Stop changes created by the UCSD Guardian.
+
+Additional Seating
+Added
+
+Gilman and Meyers Bus Stop Changes 
+
+INFOGRAPHIC BY DOROTHY VAN/GUARDIAN
+
+Over 1,000 attendees gathered for a candlelight vigil to honor the victims of the May 23 Isla Vista shooting and the re-
+cently deceased UCSD community members Ricky Ambriz and Anouchka Mihaylova. Photo by Albert Chang/Guardian.
+
+
+
+2 T H E  U C S D  G U A R D I A N  |  T H U R S D AY,  M AY  2 9 ,  2 0 1 4  |  W W W. U C S D G U A R D I A N . O R G  N E W S
+
+A COUPLE OF DERPS By Elyse Yang
+
+SILLY MUMENTS By Annie Liu
+
+The UCSD Guardian is published Mondays and 
+Thursdays during the academic year by UCSD students 
+and for the UCSD community. Reproduction of this 
+newspaper in any form, whether in whole or in part, 
+without permission is strictly prohibited. © 2014, all 
+rights reserved. The UCSD Guardian is not responsible 
+for the return of unsolicited manuscripts or art. The 
+views expressed herein do not necessarily represent 
+the opinions of the UCSD Guardian, the University of 
+California or Associated Students. The UCSD Guardian 
+is funded by advertising. Andrew is knee deep in pussy.
+
+General Editorial:  
+editor@ucsdguardian.org
+
+News: news@ucsdguardian.org
+Opinion: opinion@ucsdguardian.org
+Sports: sports@ucsdguardian.org
+
+Features: features@ucsdguardian.org
+Lifestyle: lifestyle@ucsdguardian.org
+
+A&E: entertainment@ucsdguardian.org 
+Photo: photo@ucsdguardian.org
+
+Design: design@ucsdguardian.org
+Art: art@ucsdguardian.org
+
+Advertising: 858-534-3467
+ads@ucsdguardian.org
+Fax: 858-534-7035
+
+Business Manager
+Emily Ku 
+
+Advertising Director 
+Audrey Sechrest
+
+Advertising Design 
+Alfredo H. Vilano, Jr.
+A.S. Graphic Studio 
+
+Zev Hurwitz
+
+Rachel Huang
+Lauren Koa
+
+Gabriella Fleischman
+
+Yan Gao
+
+Kelvin Noronha
+
+Morgan Jong
+
+Brandon Yu
+
+John Story
+Daniel Sung
+
+Sydney Reck
+
+Soumya Kurnool
+
+Vincent Pham
+
+Jacqueline Kim
+
+Taylor Sanderson
+
+Alwin Szeto
+
+Dorothy Van
+
+Zoë McCracken
+
+Elyse Yang
+
+Annie Liu
+
+Andrew Huang
+
+Susan Shamoon
+
+Madeline Mann
+
+Dorothy Van
+
+Aleksandra Konstantinovic
+
+Editor in Chief
+
+Managing Editors
+
+News Editor
+
+Associate News Editor
+
+Opinion Editor
+
+Associate Opinion Editor
+
+Sports Editor
+
+Associate Sports Editors
+
+Features Editor
+
+Associate Features Editor
+
+Lifestyle Editor
+
+A&E Editor
+
+Photo Editor
+
+Associate Photo Editor
+
+Design Editor
+
+Associate Design Editor
+
+Art Editor
+
+Associate Art Editor
+
+Copy Editor
+
+Associate Copy Editor
+
+Training & Development
+
+Social Media Coordinator
+
+Multimedia Editor
+
+Page Layout
+Lauren Koa, Joselynn Ordaz, Amber Shroyer
+
+Copy Readers
+Micaela Stone, Kriti Sarin, Andrew Chao
+
+Editorial Assistants
+Tina Butoiu, Teddi Faller, Rosina Garcia, Charu Mehra, 
+
+Shelby Newallis, Meryl Press, Waverly Tseng, Jonah Yonker
+
+WEEK
+
+SALESALE
+S P R I N G  2 0 1 4
+
+DAILY SPECIALS DURING WEEK 10!
+MON - FRI, LIBRARY WALK, 10am-3pm
+
+BRIEFS YAN  GAOassociate news editorBY
+▶ Nobel Laureate Receives UCSD 
+Chancellor’s Medal:
+
+UCSD professor Mario Molina 
+received the Chancellor’s Medal for his 
+work in climate change science at the 
+Seaside Forum at Scripps Institution of 
+Oceanography on May 12.
+
+Guidelines for the UCSD 
+Chancellor’s Medal mandate that there 
+may only be three recipients yearly, 
+and the award can be received by a 
+couple as a single recipient. Since it was 
+established in 2000, the award has only 
+been presented 10 times.
+
+UCSD Chancellor Pradeep K. 
+Khosla recognized Molina for his 
+award at a dinner ceremony, honoring 
+him as a distinguished professor of 
+chemistry and biochemistry.
+
+“You have changed the world,” 
+Khosla said. “... for us, our children 
+and our grandchildren.”
+
+Molina won a Nobel Prize 
+for Chemistry in 1995 alongside F. 
+Sherwood Rowland and Scripps 
+Oceanography Professor Emeritus 
+Paul Crutzen for proving that the use 
+
+of chlorofluorocarbons in sprays is 
+harmful to the Earth’s ozone layer.
+
+▶ City of San Diego Will Construct 
+New Bike Loop Downtown:
+
+The City of San Diego announced 
+a new seven-mile bike loop that would 
+connect destinations from Balboa Park 
+to the Gaslamp Quarter, as well adding 
+additional bike lanes in Bankers Hill.
+
+The loop will be completed by 
+mid-June and City of San Diego 
+Deputy Director of Transportation 
+Engineering Operations Linda 
+Marabian told UT-San Diego that the 
+project would cost $70,000 in labor 
+and material.
+
+Officials emphasized that the bike 
+route is for all San Diego residents and 
+that the bike loop will be completed 
+in alignment with an upcoming bike-
+sharing program between the City of 
+San Diego and DECOBIKE, a local 
+bike-sharing provider. 
+
+readers can contact
+yan  gao  yag016@ucsd.edu 
+
+
+
+N E W S  T H E  U C S D  G U A R D I A N  |  T H U R S D AY,  M AY  2 9 ,  2 0 1 4  |  W W W. U C S D G U A R D I A N . O R G  3
+
+University of California Undergraduate Experience Survey
+
+SURVEY
+2014
+
+UNDERGRADUATES - TELL US ABOUT LIFE
+AT UC SAN DIEGO AND WIN BIG PRIZES
+
+It's easy.
+It takes only 20-25 minutes!
+
+Take the UC Undergraduate 
+Experience Survey 2014. 
+Make a di�erence, 
+and get a chance to win great prizes.
+
+ucues.ucsd.edu
+
+UC Undergraduate Experience Survey
+UCSD Student Research and Information Office
+
+45 VISA gift cards 
+valued at $50.00 each
+2 Apple iPad Minis
+
+Participate and win.
+
+Tell us how you see it!             
+Look for your official email,
+or go directly to:
+
+Vigil Honored Recently Deceased UCSD Student and Professor
+
+ASUCSD MOVES Helped Implement New Bike Racks, Lanes
+
+Researchers Hope to Test Drug Combinations on Tumor Cell Models
+
+areas to allow traffic flow while passen-
+gers are loading, larger waiting areas 
+and several other open-space improve-
+ments. The San Diego Association 
+of Governments and Metropolitan 
+Transportation Services, who initiated 
+the project with other stakeholders in 
+accordance with the 2004 University 
+Centers Neighborhood Planning 
+Study, hope it will increase the conve-
+nience and efficiency of mass transit.
+
+“With the addition of the turn-
+outs, city buses and campus shut-
+tles will be able to line up in the 
+turnouts, outside of the regular 
+travel lanes,” Director of University 
+Marketing and Communications 
+Laura Margoni said. “This will keep 
+vehicle traffic moving and enable 
+more efficient passenger pick-up 
+
+and drop-off for buses and shuttles. 
+SANDAG is currently fund-
+
+ing the entire project. Once com-
+plete, the Gilman Transit Center 
+will continue to serve all current 
+bus routes and several new ones, 
+including MTS, Mira Mesa Rapid, 
+SuperLoop and the North County 
+Transit District. 
+
+ASUCSD MOVES worked closely 
+with the planning office to further 
+implement bike racks and dedicated 
+bike lanes around the transit center. 
+
+“I personally advocated for the bike 
+lanes to be included in this project and 
+made sure that there was increased 
+bike parking to be a part of the design,” 
+MOVES Director Kyle Heiskala said. “I 
+worked in conjunction with the UCSD 
+Physical and Community Planning 
+office to get MTS and SANDAG to 
+agree to these aspects of the project.”
+
+According to a campuswide email 
+from Associate Vice Chancellor Brian 
+Gregory, the transit center is the first 
+of several planned transportation proj-
+ects that will improve campus access 
+and reduce greenhouse gas emissions. 
+Other projects include a new bridge 
+across Interstate 5 at Gilman Drive, 
+Mid-Coast Corridor Transit exten-
+sions to UCSD and enhanced bicy-
+cle features on the Genesee Avenue 
+Bridge. 
+
+The office of Campus Resource 
+Planning Initiatives also plans to 
+launch its On The Go website in June 
+to provide timely updates on the proj-
+ects, including estimated finish times 
+and alternative bus stops during con-
+struction.
+
+“A lot of different organizations and 
+individuals came together to donate 
+candles, provide a sound system or 
+even help spread the word.”
+
+Another person whom the vigil 
+honored is Revelle junior Ricky 
+Ambriz, who was found unrespon-
+sive in his apartment in the Village 
+at 2:30 a.m. on Saturday, May 17. 
+Ambriz was transported to Scripps 
+Hospital where he was pronounced 
+deceased. The San Diego County 
+
+Medical Examiner has yet to release 
+any record of Ambriz’s death.
+
+A donation page was created to 
+assist the family with funeral expens-
+es (tinyurl.com/rickyambriz) and had 
+raised $10,275 at press time, exceed-
+ing its goal of $10,000. There are four 
+more days left to donate.
+
+UCSD professor Anouchka 
+Mihaylova was also honored at the 
+vigil. Mihaylova was killed in a hit-
+and-run incident on Saturday, May 
+17 around 8:30 p.m. in the 11000 
+block of Rancho Bernardo Road. 
+
+She passed away in her husband’s 
+arms.
+
+The main organizer of the vigil, 
+Revelle freshman Julia Eva-Maria 
+Brown, said that the event was a 
+success.
+
+“The vigil was beautiful and prob-
+ably one of the most humbling expe-
+riences of my life,” Brown said. “It 
+would have been a success if even 
+one person came.”
+
+▶ VIGIL, from page 1
+
+▶ GILMAN, from page 1
+
+readers can contact
+meryl  press    mpress@ucsd.edu 
+
+readers can contact
+andrew  huang    aehuang@ucsd.edu 
+
+vidual cancer patient,” Kesari said 
+in a May 21 UCSD Health Sciences 
+press release. 
+
+Ideally, the team wants to test 
+its model in clinical trials within 
+
+the year. Meanwhile, researchers 
+are pursuing the next step for the 
+model. Currently, the algorithm 
+only accurately predicts which 
+single drug would most effectively 
+combat tumor cells. 
+
+“Single drug therapy is not very 
+
+effective; eventually, the tumor 
+develops a resistance against these 
+single drugs,” Pingle said. “We want 
+to test combinations.”
+
+▶ TREATMENT, from page 1
+
+Sun God Festival Discussion 
+Will Be Tabled for Thirty Days
+
+Greetings, Tritons.
+This week, Co-Station Managers 
+
+of Triton Television Alexa Rocero 
+and Jake Cushnir held a presentation 
+to A.S. Council requesting money 
+to be allocated for their budget in 
+order to open more paid positions. 
+Currently, each position’s stipend is 
+$50 per week. Opening new positions 
+would add $40 
+per individual 
+every week, which 
+would sum up to 
+$4,000 weekly.
+
+In terms of 
+future goals for Triton TV, Cushnir 
+said that they are hoping for an 
+hour slot to be split up into several 
+different sectors.
+
+“I’m only a sophomore, and I 
+have a lot of ideas for where to take 
+Triton TV,” Cushnir said. “A more 
+structured environment would help 
+across the board — we produce a lot 
+of good results, but a lot of the times 
+things don’t get done because we are 
+stretching ourselves.”
+
+A.S. Council tabled a conversation 
+about amendment C1, which would 
+create new class councils.
+
+AVP Student Advocacy Ryan 
+Huyler said that the proposal provides 
+the council with more structure.
+
+“It’s more relatable if you have a 
+class council because people of the 
+same class can identify with certain 
+issues that college councils necessarily 
+might not be able to,” Huyler said. “I 
+think the changes are for the better.”
+
+During question time, Council 
+discussed actions following the 
+Transportation Referendum, the 
+current status of the Che Cafe and the 
+state of the Sun God Festival 2015.
+
+ASUCSD MOVES Director 
+Kyle Heiskala talked about the 
+implementation of the passed 
+Transportation Referendum and 
+how, due to the redesigning of the 
+
+identification cards, there is no longer 
+any room for serial numbers to be 
+placed on student ID cards. Therefore, 
+they are debating on whether to 
+implement stickers or a transportation 
+identification card.
+
+Heiskala explained that, ideally, 
+he would like to have one sticker per 
+year for the transportation system; 
+
+however, due 
+to the fact that 
+students pay on 
+a quarterly basis, 
+the San Diego 
+Metropolitan 
+
+Transit Center will center the 
+payments on a quarterly rate as well. 
+Currently, Heiskala is leaning toward 
+the second campus card.
+
+Campuswide Senator Brandon 
+Kim explained shortly after that the 
+Che Cafe is currently in a limbo status 
+and will continue to operate until 
+University Centers shuts it down.
+
+“[The Che Cafe] lost its nonprofit 
+status; however, they will have that 
+reinstated next month,” Kim said. “For 
+now, it will continue to operate in that 
+space without any funding allocated 
+from University Centers, and, should 
+they decide that improvement is 
+absolutely necessary, they will have to 
+come and close it down.”
+
+When Council touched on the 
+subject of the Sun God Festival, 
+A.S. President Robby Boparai said 
+that all discussion of the festival has 
+been halted by the university for 
+30 days, and no decision regarding 
+future festivals will be made until Fall 
+Quarter 2014.
+
+May the victims of the tragic Santa 
+Barbara shootings rest in peace. No 
+words can describe the deplorable 
+actions that occurred last week, and 
+I send my support and condolences 
+to the family and friends of the seven 
+individuals whose lives were so 
+selfishly taken away from them.
+
+meryl  press 
+mpress@ucsd.edu
+
+new  business
+
+readers can contact
+natalie  culhane    nculhane@ucsd.edu 
+
+
+
+OPINION CONTACT THE EDITORKELVIN  NORON HAopinion@ucsdguardian.org
+4 T H E  U C S D  G U A R D I A N  |  T H U R S D AY,  M AY  2 9 ,  2 0 1 4  |  W W W. U C S D G U A R D I A N . O R G  
+
+Next week, Janet Napolitano will wrap up her first year of University of California 
+instruction as the nine-campus sys-
+tem’s 21st president. 
+
+Back in Fall Quarter, we 
+urged readers not to condemn 
+Napolitano’s leadership until she 
+had definitively worsened the state 
+of the UC system. At the same 
+time, we hoped Napolitano would 
+rise to the occasion and help move 
+our university forward.
+
+As we look back on year one, we 
+are fairly certain that Napolitano 
+has neither moved us forward nor 
+backwards. To date, Napolitano 
+hasn’t made any inherently disas-
+trous policy decisions. 
+
+But a year of cautious action (or 
+more often, inaction) has left us 
+wondering when change will come 
+to UC campuses and if Napolitano 
+has a long-term agenda she hopes 
+to roll out in the near future.
+
+Aside from an early-term 
+increase in scholarship funding for 
+DREAM Act students, Napolitano 
+hasn’t dramatically changed UC 
+student life. Many of the problems 
+
+our system faced over the past 10 
+months were student focused (UC 
+Student Association membership 
+wars), campus-specific (Sun God 
+Task Force Affairs) or pre-existing 
+(balancing budgets).
+
+The only definitive statement we 
+can make regarding Napolitano is 
+that she is not being accessible to 
+students, hearing our grievances or 
+working with us to fix them.
+
+More specifically, she seems 
+unavailable and distant to students 
+who want to correspond. Uproar 
+broke out at the UC Washington 
+Center in the nation’s capital last week 
+after Napolitano refused to meet with 
+several dozen UCSD Washington 
+Program students — even briefly — 
+after she gave a talk nearby. 
+
+Napolitano is so far removed 
+from the student awareness that a 
+UCSD Guardian roving reporter 
+last quarter had a hard time finding 
+a UCSD student on Library Walk 
+who knew the UC president’s name; 
+“Neeopolotahni” was the closest 
+anyone one got.
+
+To contrast, Napolitano’s pre-
+decessor Mark Yudof was so well 
+
+known on our campus — albeit 
+because of student disdain for his 
+policies — that “Layoff ‘Poo-dof ’” 
+signs and banners frequented cam-
+pus protests and demonstrations. 
+Though Yudof was a familiar name 
+on UC campuses for his oft-ill-
+advised policies, our new UC head 
+will need to reach out to students in 
+stronger and more visibly positive 
+ways to earn student support.
+
+Napolitano’s relationship with 
+students will only need to get stron-
+ger since the UC system has poten-
+tial issues on the horizon. Though 
+UC tuition hasn’t gone up in several 
+years, a $142 million gap between 
+the governor’s proposed budget and 
+the UC system’s requested alloca-
+tion could mean bad news for stu-
+dent piggy banks.
+
+UC affiliates and supporters 
+must keep their eyes on looming 
+budget woes into the summer while 
+Napolitano must seek out student 
+allies for the next year and beyond.
+
+With accessibility and afford-
+ability of the UC System continu-
+ously at risk, we need a Napolitano 
+who bats for Team UC Students.
+
+Big Brother 
+Doesn’t 
+Always Have 
+Your Back
+
+lauren  koa  lkoa@ucsd.edu
+technically
+ speaking
+
+In today’s technology-filled world, we’re convinced to believe that our information is not safe, 
+that our emails can be read and that 
+everything we post online can be 
+used against us. We’ve been assured 
+by the NSA and the president that 
+the government’s use of data collec-
+tion is only out there to protect us, 
+but in light of the recent UCSB trag-
+edy, Big Brother was really nowhere 
+to be found. 
+
+The Isla Vista events have left 
+many students upset and confused 
+about how they could happen and 
+what they could mean for mental 
+health or gun control, but it’s not 
+the time to let the government off 
+the hook for a huge fault in its sys-
+tem. The government has provided 
+us with a false sense of security by 
+ensuring us that our data is being 
+collected for our own good, while 
+recent events have proven to us that 
+this is not the case.
+
+The recent tragedy became even 
+more disturbing after the revela-
+tion  that so many clues had been 
+available and overlooked. Elliot 
+Rodger had uploaded 22 videos 
+to his YouTube account and made 
+regular posts on social media sites 
+that revealed his angry and threat-
+ening disposition. His videos often 
+mentioned a “day of retribution,” 
+while his activity on Puahate.com, 
+a website for men to share advice 
+on how to pick up women, was full 
+of violent posts describing revenge 
+against women. One post had even 
+described how “satisfying” it would 
+be if all the men in the world had 
+died from a virus, so that Rodger 
+could finally have his pick of beau-
+tiful women.
+
+There was ample time for the 
+government to take action and 
+legally investigate the case before 
+it was too late. Weeks before the 
+attack, Rodger’s parents saw sev-
+eral disturbing videos and alerted 
+a therapist and the police about 
+their concerns for the mental health 
+of their son. The Santa Barbara 
+County police met with the shooter 
+— who essentially fooled them dur-
+ing the investigation — without 
+watching the videos or requesting 
+a warrant to search his apartment. 
+Viewing the videos may have very 
+well changed their procedure and 
+even their assessment. Rodger even 
+confessed in his manifesto that if 
+the police had even entered his bed-
+room, his entire plan would have 
+been foiled immediately.
+
+Besides the mistake made by the 
+deputies, the NSA was absent in 
+the Rodger case. It’s hard to believe 
+that data collectors can regularly 
+extract our information and web 
+history to invade our privacy, yet 
+they neglected to see or take action 
+when a terrorist uploaded plans for 
+a massacre online. It’s also upset-
+ting to realize that advanced algo-
+rithms can detect copyright music 
+or film material to protect company 
+profits but cannot ensure the safety 
+of the public.
+
+If the NSA really spends so 
+much time and money sifting 
+through our data, it’s only fair for us 
+to feel protected, not neglected or 
+exploited. This mistake was made at 
+a large cost, and my heart goes out 
+to the victims, their families, their 
+friends and students at UCSB.
+
+Napolitano Must Be a More Accessible Leader
+
+Zev Hurwitz
+EDITOR IN CHIEF
+
+Rachel Huang
+MANAGING EDITOR
+
+Lauren Koa
+MANAGING EDITOR
+
+Kelvin Noronha
+OPINION EDITOR
+
+Morgan Jong
+ASSOCIATE OPINION EDITOR
+
+Gabriella Fleischman
+NEWS EDITOR
+
+Yan Gao
+ASSOCIATE NEWS EDITOR
+
+ 
+Aleksandra Konstantinovic
+
+MULTIMEDIA EDITOR
+
+EDITORIAL BOARD
+
+The UCSD Guardian is published twice a week at the 
+University of California at San Diego. Contents © 
+
+2014. Views expressed herein represent the majority 
+vote of the editorial board and are not necessarily those 
+
+of the UC Board of Regents, the ASUCSD or the 
+members of the Guardian staff. 
+
+Following last weekend’s Isla Vista tragedy, students and university leadership 
+should reflect together and establish new safety measures on campus. 
+
+In the Aftermath
+
+See UCSB, page 5
+
+Here at the UCSD Guardian, the tragedies of the last two weeks have been difficult for us to both experience and cover. Our community is still reel-
+ing from the loss of two members of our own campus, and 
+the disturbing events of the massacre at Isla Vista leave us 
+with even more unanswerable questions. With so many col-
+leagues, friends and family mourning, recovering and suf-
+fering, it is important to support UCSB, the UC system and 
+one another as UCSD students.
+
+We’re not interested in using the Isla Vista tragedy as a 
+soap box for speaking on gun control, mental illness or even 
+misogyny, but students need to critically analyze the shoot-
+ing and see how our university and the UC system can learn 
+from it.
+
+In light of the recent deaths within our own campus, 
+UCSD students pulled together to mourn both a lost stu-
+dent and a professor and have even helped the family who 
+lost a son pay for funeral services. On Monday, hundreds 
+of students participated in a vigil outside of Geisel Library 
+to commemorate the UCSB victims, UCSD student Ricky 
+
+Ambriz and UCSD professor Anouchka Mihaylova. While 
+it is clear that students care about supporting one another, 
+standing in solidarity in light of tragedy is only the first step.
+
+We need to actively support one another through this 
+difficult time but also be an active community even after 
+everyone has grieved. We can’t wait around crossing our fin-
+gers and hoping that another massacre won’t occur; things 
+will have to change. As a university, we need to become 
+more prepared and educated on what to do in case of anoth-
+er emergency. And as students, we need to understand our 
+responsibility to be aware of our campus resources and to 
+watch out for one another even after the initial shock wave 
+from Isla Vista starts to fade.
+
+The Isla Vista shooting was frightening and disturbing, 
+but it showed us that our universities might be more vul-
+nerable to attack and unprepared for emergencies than we 
+would have thought. With a campus designed as disjointedly 
+as UCSD, improving intracampus communication should 
+now become a top priority. Currently, our only method of 
+communication is ridiculously slow, ineffective and incon-
+
+ILLUSTRATION BY ELYSE YANG
+
+
+
+venient; in case of an emergency or 
+crisis, we need a method that will 
+spread messages to students rapidly 
+and reliably.
+
+Students must also start to take 
+the initiative to avoid potentially 
+dangerous situations. “See some-
+thing, say something” is an easy 
+phrase to throw around, but it is 
+pertinent and critical for any situa-
+tion in which a student’s life could 
+potentially be at risk. We don’t 
+expect students to suddenly change 
+their majors to psychology to bet-
+ter understand the complexities of 
+their peers’ minds, but it is fair to 
+ask students to look out for their 
+friends. Students should be able to 
+
+point their friends in the direction of 
+help when they are concerned, and to 
+notify campus resources when a situa-
+tion seems unsafe or when the health 
+of a friend appears jeopardized.
+
+In regard to the Isla Vista case, 
+it is unclear whether the shooter’s 
+peers had reported the actions 
+and the nature of their colleague. 
+Released investigation files report 
+that one of the suspect’s roommates 
+had indicated some problems to his 
+parents, but it remains unclear as 
+to whether any concerns had been 
+raised with authorities. And while 
+the shooter’s family had been suspi-
+cious of the shooter’s videos, even 
+reporting their son to the police, 
+the investigation was put to rest 
+after one cursory police visit to his 
+
+apartment. We’re unsure if multiple 
+student reports could have pushed 
+the case for further investigation by 
+the university or the police, but we 
+can only wish it did.
+
+UCSB is only hours away from 
+La Jolla, and it hits particularly 
+close to home that many students 
+were killed and put at risk by a 
+member of their own community. 
+There are many ways to address 
+these recent events, but the most 
+important thing that can come 
+from this is actual change. All too 
+often, awful events have riveted and 
+shocked millions of people only to 
+be forgotten. We cannot wait for 
+greater tragedies to occur in our 
+own neighborhoods, communities 
+and campus before taking action.
+
+O P I N I O N  T H E  U C S D  G U A R D I A N  |  T H U R S D AY,  M AY  2 9 ,  2 0 1 4  |  W W W. U C S D G U A R D I A N . O R G  5
+
+FUNGLY By Kyle Trujillo
+
+Students Must Remain Vigilant Regarding Safety Matters
+▶ UCSB from page 4
+
+WE WANT TO
+HEAR FROM YOU
+
+BE HEARD
+BY YOUR PEERS!
+
+SEND YOUR 
+LETTERS TO
+
+OPINION@UCSDGUARDIAN.ORG
+
+@UCSDGUARDIAN
+
+FOLLOW US 
+ON TWITTER
+
+
+
+A&E EDITOR // JACQUELINE KIM 
+ENTERTAINMENT@UCSDGUARDIAN.ORG
+LIFESTYLE EDITOR // VINCENT PHAM
+LIFESTYLE@UCSDGUARDIAN.ORG
+
+ARTS | FOOD & DRINK | MOVIES & TV | MUSIC | THINGS TO DO
+
+WEEKEND
+
+ 
+
+pl
+at
+
+in
+um
+
+ c
+er
+
+tif
+ ed
+
+  
+  
+
+    chill Out    
+  folk folks  
+
+ 
+
+ 
+
+PH
+OT
+
+O U
+SE
+
+D W
+ITH
+
+ PE
+RM
+
+ISS
+ION
+
+ FR
+OM
+
+ SU
+BP
+
+OP
+ RE
+
+CO
+RD
+
+S
+
+rock party   
+     sick riffs  
+
+  
+  c
+
+le
+ve
+
+r 
+ly
+
+ri
+cs
+
+Summer 2014 Co
+ncerts preview.
+
+With finals jus
+t around the c
+
+orner, staying
+ on campus af
+
+ter this spring
+ quarter is far
+
+ from music to
+ your 
+
+ears. Make yo
+ur summer in 
+
+San Diego mo
+re melodious 
+
+by rocking ou
+t to your favor
+
+ite artists live.
+
+Jack Johnson
+Venue: RIMAC Field
+Concert Date: Aug. 30
+
+Show: 6:30 p.m. 
+Tickets: $49.50 (Students: $34.50) 
+
+Singer-songwriter Jack Johnson is the 
+epitome of laid-back Hawaiian culture. 
+He had it made as a professional surfer, 
+but after neatly cracking his head open at 
+Pipeline, he gave up going pro and picked 
+up the guitar. 
+
+Jack Johnson’s songs range from upbeat 
+rock to chilled-out blues tracks, and many 
+of them are about living slow, going to the 
+ocean and finding someone you love. But 
+somehow, his music is always fresh, pull-
+ing off calm and content without ever get-
+
+ting sappy or monotonous. Consistently 
+versatile in concert, Jack Johnson switches 
+off between distorted electric guitar, 
+acoustic guitar and ukulele, singing lead 
+vocals while his concert band backs him 
+up with drums, bass and piano. Both a bro 
+and a heartthrob, Jack Johnson’s music has 
+a wide appeal, and we’re lucky to be able 
+to rock out to his music right at UCSD.
+
+ —     kyle  somers,
+Staff Writer
+
+Carnivores Tour
+Venue: Sleep Train Amphitheatre
+Concert Date: Sept. 16
+Show: 6:30 p.m. 
+Tickets: $33.00 to $251.46
+
+Linkin Park, 30 Seconds to Mars and AFI
+
+In one of the most anticipated alternative 
+music collaborations of all time, Linkin Park 
+will team up with 30 Seconds to Mars and AFI 
+for the upcoming “Carnivores” tour. As leading 
+artists in the rock music genre, LP and Mars 
+share many fans who will be eager to get tickets 
+to this tour. Supporting these bands with over 
+two decades of experience is AFI, rounding out 
+the high level of talent on the tour.
+
+The concert will be held at Sleep Train 
+Amphitheatre, an open air stadium, which will 
+
+complement the perfect setting of warm San 
+Diego weather to amazing music. The venue is of 
+average quality, but with these high-profile bands, 
+it will be more than adequate to rock out in.
+
+All three of these bands have reputations for 
+incredible, live vocals and acoustics, making this 
+concert one that will be memorable.
+
+ —     devon  munos,
+Staff Writer
+
+Arctic Monkeys
+Venue: Cal Coast Credit Union Open Air Amphiteatre
+Concert Date: Aug. 6
+Show: 7:30 p.m.
+Tickets: $26.50 to $74.90
+
+The mark of the master musician is work 
+that improves with time. Arctic Monkeys is 
+one of the few rock groups whose music has 
+been consistently praised and loved by fans 
+and critics alike, album after album.
+
+For many fans, Arctic Monkeys’ 
+suburb-punk sound defined their rebel-
+lious teenage years. Sadly, the band rarely 
+plays classic favorites such as “A Certain 
+Romance” or “Fluorescent Adolescent,” but 
+this should be no deterrent for fans who 
+
+have wanted to see the band for a long 
+time. “AM” is a fantastic album dripping 
+with energy and the genre-eluding sound 
+that the Arctic Monkeys are known for. A 
+true fan of any of their work, old and new 
+alike, should not miss the opportunity 
+to see such a unique and talented group 
+perform live.
+
+ —     raquel  calderon,
+Staff Writer
+
+PH
+OT
+
+O C
+OU
+
+RT
+ES
+
+Y O
+F 3
+
+0 S
+EC
+
+ON
+DS
+
+ TO
+ M
+
+AR
+S S
+
+UP
+PO
+
+RT
+
+PH
+OT
+
+O U
+SE
+
+D W
+ITH
+
+ PE
+RM
+
+ISS
+ION
+
+ BY
+ PR
+
+ES
+S H
+
+ER
+E N
+
+OW
+
+PHOTO COURTESY OF THE WORLD’S CHEAPEST TICKETS
+
+
+
+WEEKEND T H E  U C S D  G U A R D I A N  |  T H U R S D AY,  M AY  2 9 ,  2 0 1 4  |  W W W. U C S D G U A R D I A N . O R G  7
+
+ 
+
+pl
+at
+
+in
+um
+
+ c
+er
+
+tif
+ ed
+
+  
+  
+
+    chill Out    
+  folk folks  
+
+ 
+
+ 
+
+PH
+OT
+
+O U
+SE
+
+D W
+ITH
+
+ PE
+RM
+
+ISS
+ION
+
+ FR
+OM
+
+ SU
+BP
+
+OP
+ RE
+
+CO
+RD
+
+S
+
+rock party   
+     sick riffs  
+
+  
+  c
+
+le
+ve
+
+r 
+ly
+
+ri
+cs
+
+Summer 2014 Co
+ncerts preview.
+
+With finals jus
+t around the c
+
+orner, staying
+ on campus af
+
+ter this spring
+ quarter is far
+
+ from music to
+ your 
+
+ears. Make yo
+ur summer in 
+
+San Diego mo
+re melodious 
+
+by rocking ou
+t to your favor
+
+ite artists live.
+
+Iron & wine
+Venue: Humphrey’s By The Bay
+Concert Date: Aug. 11
+Show: 7:30 p.m. 
+Tickets: $49.30 to $286.55 
+
+Since 2002, Samuel Beam has been 
+producing soft-spoken folk rock with rich 
+guitar and banjo under the stage name 
+Iron & Wine. His down-to-earth lyrics will 
+make you feel like you’re gently moving 
+through a field on a summer’s day. Even 
+
+more somber melodies like “Cinder and 
+Smoke” and “Caught in the Briars” 
+
+are soothing and reminiscent of the 
+sounds you hear in nature; this 
+
+rhythm will ground you no matter what 
+mood you’re in.
+
+In terms of venue, with an incredible view 
+of the San Diego Harbor and the magnificent 
+sunset in the backdrop, Humphrey’s Concerts by 
+the Bay is the perfect place to unwind from your 
+busy workday and relish this summer with some 
+Iron & Wine. 
+
+ —     nilu  karimi,
+Staff Writer
+
+Passenger
+Venue: House of Blues
+Concert Date: Sept. 14
+Show: 7:30 p.m. 
+Tickets: $55.00 to $217.80
+
+Mike Rosenberg of Passenger may not 
+sport a beard as epically long as Wil-
+liam Fitzsimmons’ or as frilly as Iron and 
+Wine’s, but his idiosyncratic voice and wit-
+ty quips are more than enough to solidify 
+his status as a fellow folk-rock musician.
+
+Although widely known for the melan-
+cholic track “Let Her Go,” Passenger’s other 
+songs richly blend honesty and satire. His 
+lyrics range from stars and tea, to Facebook 
+and clever phones (yes, that’s what he calls 
+iPhones), all coupled with a British accent.
+
+Noted for his intimate performances, 
+Passenger has the ability to hush enthu-
+
+siastic fans during slower, quieter tunes 
+— every folk-rock concert-goer’s dream. 
+His stage presence is carefully crafted, 
+perfectly balancing moments of silence 
+with hilarious anecdotes and loud sing-
+alongs to engage audiences, all the while 
+demanding their respect.
+
+Mike Rosenberg’s fuzzy beard is great, 
+but his sense of humor and control over 
+crowds are even better.
+
+—     salena  quach,
+ A&E associate editor
+
+Arcade Fire
+Venue: Sleep Train Amphitheatre
+Concert Date: Aug. 5
+
+Show: 7:30 p.m. 
+Tickets: $39.50 to $325.00
+
+Indie powerhouse Arcade Fire has showed 
+no sign of slowing down despite dominating 
+its genre for a decade. Instead, the band has 
+successfully pushed its sound in various 
+directions, blending its signature art rock with 
+a strange, tongue-in-cheek disco throwback for 
+2013’s album “Reflektor.”
+
+The band will bringing its new sound to 
+Sleep Train Amphitheatre in August. And 
+luckily, this is one of the few bands we’d 
+recommend seeing at such an enormous venue. 
+
+The “wall-of-sound” generated via its numerous 
+band members creates an intimate performance 
+for every audience member, despite the size of 
+the crowd.
+
+As August rolls around and the tally of 
+summer days diminishes, there is no better cure 
+for the coming of fall than the hypnotic beats 
+and tender contemplations of Arcade Fire.
+
+—     DIETER JOUBERT,
+ senior staff writer
+
+PHOTO USED WITH PERMISSION FROM GUY AROCH VIA NASTY LITTLE MAN
+
+PHOTO USED WITH PERMISSION FROM LAINEZ VIA PARADIGM TALENT AGENCY
+
+
+
+8 T H E  U C S D  G U A R D I A N  |  T H U R S D AY,  M AY  2 9 ,  2 0 1 4  |  W W W. U C S D G U A R D I A N . O R G  WEEKEND
+
+HOURS:
+Mon. to Sun.: 7 a.m. to 4 p.m.
+
+LOCATION:
+3833 Mission Blvd.
+San Diego, CA 92104
+
+THE SWELL CAFE
+
+MONICA MCGILL
+STAFF WRITER
+
+   WITH
+
+$
+
+ILLUSTRATION BY AMBER SHROYER 
+
+The Guardian samples the world’s cuisine in San Diego. This week: Thai.
+GUARDIAN GOES GLOBAL
+
+Newly opened Aroi Cafe 
+offers a modest depiction of an 
+authentic Thai restaurant. Like 
+most Thai places traditionally 
+presented in a low light setting, 
+Aroi Cafe’s ambiance definitely 
+delivers on the promised “darkness” 
+but perhaps a bit too much. 
+Embellished with limited Oriental 
+decor, the atmosphere is slightly 
+on the gloomy side rather than 
+an embodiment of a genuine Thai 
+experience. Making up for the 
+lack of authenticity, however, Aroi 
+plays placid, native Thai music 
+in the background and provides 
+benevolently attentive service from 
+the moment you walk in until the 
+moment you leave. 
+
+Thai cuisine is known for 
+bringing harmony to otherwise 
+discordant flavors, a marvel to the 
+connoisseur world. Aroi Cafe’s 
+dishes certainly live up to this 
+Thai-style expectation. Starting off 
+with the light appetizer, “Chicken 
+Satay,” ($9) is a surefire choice that 
+tingles the taste buds with its savory 
+marinated chicken contrasted 
+against a delicate, sweet peanut 
+
+sauce. In addition to this starter, 
+you might consider adding “Half 
+Moon,” “Summer Rolls” or “Por 
+Pia Tord,” each delivering uniquely 
+memorable tastes to start off the 
+meal. Aroi also offers traditional 
+Thai soups such as the “Tom Kha,” a 
+strong mixture of soothing, creamy 
+coconut milk, crisp mushrooms, 
+a pungent dash of lemon and a 
+plethora of fresh salads, such as the 
+cucumber salad, “Crying Tiger” and 
+“Papaya Salad.” 
+
+For the main course, Aroi offers a 
+variety of fulfilling entrees. Ranging 
+from noodles (stir-fried and soups) 
+to fried rice to curries, Aroi serves a 
+fair representation of a typical Thai 
+meal. They also offer customers the 
+power to choose whether or not to 
+add a kick of spiciness to their meal, 
+ranging from a scale of one — a mild 
+spike to make things interesting —  
+to a hot 10 —  a worthy competitor 
+to a blazing fire. If you’re looking 
+for something different, the chef ’s 
+specialty, “Crab Fried Rice,” is a 
+noteworthy mention. With jasmine 
+rice providing a lightly sweet aroma, 
+chewy scallions, crisp green peas and 
+
+carrots and, of course a good portion 
+of tangy crab meat, the “Crab Fried 
+Rice” stands as a definite dish to 
+satiate any hunger. Other specialty 
+dishes worth mentioning are the 
+“Duck Curry,” “Lad Nah Noodles” 
+and “Pad Ped Stir Fry.” 
+
+At the end of the day, Aroi Cafe 
+offers appetizing and filling dishes 
+worthy of carrying the Thai culture’s 
+name. However, considering 
+the rather banal ambiance, this 
+restaurant is more suited for a 
+family type of meal than a typical, 
+
+casual place to eat for college 
+students. 
+
+In short: Go for the food, not for 
+the experience.
+
+HOURS:
+Mon. to Thurs.: 11:30 a.m. to 9:30 p.m. 
+Fri. to Sat.: 11:30 a.m. to 10 p.m.
+Sun.: 11:30 a.m. to 9 p.m.
+
+LOCATION:
+7467 Girard Ave., 
+La Jolla 92037
+
+AROI CAFE
+
+readers can contact
+An n i e  Ch en  ancoo5@ucsd.edu
+
+Chicken Satay ($9) at Aroi Cafe in La Jolla. Photo by Michelle Louie /Guardian
+
+Sandwiched between the Pacific Ocean and Mission Bay is The Swell Cafe, a local family-
+owned business that boasts both 
+great coffee and healthy breakfast 
+and brunch options that sample 
+from different cultures (many menu 
+items are vegetarian or gluten-
+free). Contrary to what one might 
+think from its name, there aren’t 
+any actual views of the ocean from 
+The Swell Cafe, but the coffee shop 
+compensates by having a huge mural 
+of the ocean that runs alongside its 
+patio. The majority of the seating at 
+the cafe is on the huge patio, which is 
+
+also dog-friendly. Although the noise 
+from passing traffic can be loud at 
+times, it is drowned out by the music 
+playing out on the patio, and on 
+weekends, local artists provide live 
+music for customers to enjoy.
+
+The Swell Cafe serves earth-
+conscious, dual-certified, direct-
+trade coffees. This means that the 
+coffee served comes directly from 
+the grower and holds at least two 
+earth-friendly certifications, like 
+fair trade certified, USDA organic 
+or Rainforest Alliance certified, 
+which not only makes you feel better 
+about the coffee you’re drinking 
+
+but also gives the coffee a richer 
+taste. To keep in line with its goal 
+of being environmentally friendly, 
+the cafe encourages patrons to get 
+cups “for here” in one of the cafe’s 
+mugs rather than to-go. Luckily, the 
+earth-conscious tactics don’t drive 
+up the price of the coffee. A double 
+shot of espresso costs $2.50, and a 
+cappuccino is only $2.95. However, 
+the cafe’s featured drinks can be a bit 
+pricier: The Monkey Mocha (banana, 
+chocolate and coffee) is $4.15, and the 
+Winter Island Mocha (coconut and 
+white chocolate) will cost you $4.45 
+for a single shot of espresso and $5.25 
+
+for a quad shot. If you aren’t craving 
+coffee, The Swell Cafe does offer tea as 
+well as vegan fruit smoothies like their 
+Vegan Creamsicle, which includes 
+orange juice, vanilla, coconut milk 
+and ice. Or, if you want something a 
+little sweeter, you can try one of their 
+“decadent smoothies,” which are made 
+with gelato or sorbet. The Chai-Nana 
+includes chai, Tahitian vanilla gelato 
+and banana.
+
+In addition to coffee, the menu 
+offers a wide variety of breakfast and 
+lunch meals. If you want to have some 
+food with your coffee, try the “cruisin’ 
+crepes.” The crepes really complement 
+
+whatever coffee beverage you get and 
+are one of the less expensive options 
+on the menu, costing a mere $4. 
+
+The staff is both friendly and 
+knowledgeable and is willing to 
+answer any questions you might 
+have regarding the menu or the 
+neighborhood. Free WiFi and 
+welcoming vibes make The Swell 
+Cafe the perfect place to visit after 
+spending the morning at the beach 
+or if you’re just looking for an 
+easygoing place to study.
+
+Swell Cafe in Pacific Beach. Photo by Alwin Szeto /Guardian
+
+readers can contact
+Mon ica Mcgi ll    mamcgill@ucsd.edu 
+
+$ $
+
+
+
+WEEKEND T H E  U C S D  G U A R D I A N  |  T H U R S D AY,  M AY  2 9 ,  2 0 1 4  |  W W W. U C S D G U A R D I A N . O R G  9
+
+110 MEDICAL SCHOOLS
+30 PHARMACY SCHOOLS
+30 DENTISTRY SCHOOLS
+25 NURSING SCHOOLS
+
+25 PUBLIC HEALTH SCHOOLS
+
+15 VETERINARY SCHOOLS
+25 GRADUATE SCHOOLS
+
+15 PA SCHOOLS
+10 PHYSICAL THERAPY PROG.
+
+10 OCCUPATIONAL THERAPY PROG.
+
+CONFERENCE WILL INCLUDE:  
+
+Registration, Transportation, & Housing Packages from UCSD Available For Under $100
+
+Join us at the largest Pre-Medical & Pre-Health Conference in the Nation!
+
+UCDPREHEALTH.ORG
+
+WHY SHOULD I ATTEND?
+Meet over 1200 Admissions and Health Professionals
+Over 300 Workshops
+
+Excellent Networking Opportunity
+Deans of Admission Panels and Q&A
+
+www.ucsdguardian.org/advertising
+
+1 Month FREE!
+Ask for details! Offer valid at Mira Mesa, Kearny Mesa & Fashion Valley locations only. For new customers only. 
+
+On select units while supplies last. Cannot be combined with other discounts or offers. Expires 6/30/14.
+
+Quick & Easy – Reserve Your Space Today!
+
+3 FREE Boxes!
+
+Fashion Valley
+1501 Frazee Road 
+619-633-3061
+
+Ofﬁce Hours: 9-6 M-F, 9-5 S-S  
+Access Hours: 7am-8pm, daily
+
+*Located off of Miramar Rd & Camino Ruiz
+
+24 Hr R
+ental/ 
+
+Payme
+nt Kios
+
+k 
+
+availab
+le at Mi
+
+ra Mes
+a 
+
+& Kear
+ny Mes
+
+a!
+
+Mira Mesa*
+9701 Camino Ruiz 
+858-790-8755
+
+Ofﬁce Hours: 9-6 M-F, 9-5 S-S  
+Access Hours: 6am-10pm, daily
+
+Kearny Mesa
+5654 Copley Drive 
+858-939-9909
+Ofﬁce Hours: 9-6 Mon-Tue,  
+
+9-6 Thur-Fri, 9-5 Sat  
+Access Hours: 6am-10pm, daily
+
+a1storage.com/ucsd
+
+Present this coupon for 3 FREE small boxes at A-1 Self Storage Mira Mesa, 
+Kearny Mesa or Fashion Valley locations only. For UCSD students only. No 
+purchase or rental necessary. Expires 6/30/14. Limit 1 coupon per student only .
+
+One of my favorite Italian words is “Ciao”. Not only is “ciao” incredibly fun and easy to say, but it’s also a multipurpose word, meaning 
+both “hello” and “goodbye.” This is why I have (not-
+so) cleverly entitled this column “Ciao America, Ciao 
+Italy” because on June 13, I will be saying goodbye to 
+the States and hello to Italy, as I depart for a year-long 
+study abroad trip. This column will serve as my attempt 
+to act as a cultural foreign correspondent by reporting 
+on the people I meet, places I go and things I do — you 
+know, the important things. 
+
+My first experience living la dolce vita was in Italy 
+at just 16 years old on a high school trip. During this 
+month-long stay, I was seduced 
+by a romanticized version of Italy: 
+cute boys on vespas, a plethora 
+of gelaterias and no drinking age 
+for wine. Though these aspects of 
+Italian life are very real and still enticing, I’ve grown 
+up a bit since then and have realized that life in Italy 
+is not always perfetto. Actually, Italy has tantissimi 
+problem. For example, in Italy, there is an insane amount 
+of political corruption, a huge youth unemployment 
+rate and don’t even get me started on Italian rap (the 
+language just wasn’t meant for rap music). Despite all 
+of these problems, I still want to live there. Even though 
+Italy is less than perfect and is very different from the 
+U.S., I want to experience something different because 
+I think that immersing yourself into another culture 
+is important. I’ve realized that every country has its 
+quirks and that gaining a new cultural perspective is 
+worth facing all of the problems that come with living in 
+another country.
+
+Even though I am excited to experience something 
+new and exciting, I’m not going to sugarcoat it — leaving 
+the U.S. for a year is hard. There’s so much you have to 
+do, like fill out a million applications — including a visa 
+application, in which you render your passport to some 
+foreign consulate office. Then, there’s the whole trying 
+to fit your life into a suitcase thing, which is incredibly 
+difficult for a notorious overpacker. Also, you have to 
+accept the fact that Europeans don’t measure distances 
+in miles or feet — they put commas where decimals 
+should be ($1,50 is equivalent to $1.50), and they don’t 
+wear yoga pants to places other than to yoga. Finally, you 
+have to say goodbye to your friends and family, which 
+
+is quite possibly the hardest thing of 
+all. Luckily, my friends and family are 
+already planning their trips to come 
+visit and save me from my inevitable 
+homesickness.
+
+Though there will definitely be things I miss about 
+home, mainly Mexican food, people understanding my 
+weird sense of humor and Netflix, I feel like leaving now 
+is important for me. I feel very comfortable in my current 
+lifestyle, and I think that’s a sign that I need to go and 
+do something that makes me appreciate my life here. 
+Leaving the country for a year seems like a great way to 
+gain some life-changing experiences in a safe way that 
+doesn’t involve taking any hardcore drugs in the desert or 
+cutting off all my hair. My hope with this column is that 
+it encourages all of my readers to travel. I know it’s a tad 
+cliche, but through traveling, you learn so much about 
+yourself. If traveling is not in the cards for you right now, 
+please pour yourself a glass of wine, kick back and read 
+about the crazy adventures I plan to go on. Ciao for now.
+
+Ciao United States and Ciao Italia
+
+ Shelby Newalis  snewalis@ucsd.edu
+VINOS AND VISAS
+
+“...there will definitely be things I miss about home, mainly Mexican food, people 
+understanding my weird sense of humor and Netflix.”
+
+PHOTO FROM PIXABAY.COM
+
+
+
+10 T H E  U C S D  G U A R D I A N  |  T H U R S D AY,  M AY  2 9 ,  2 0 1 4  |  W W W. U C S D G U A R D I A N . O R G  C L A S S I F I E D S
+
+Complete the grid so
+each row, column and
+3-by-3 box (in bold
+borders) contains
+every digit, 1 to 9. For
+strategies on how to
+solve Sudoku, visit
+www.sudoku.org.uk
+
+SOLUTION TO
+SATURDAY’S PUZZLE
+
+Level:
+1 2
+3 4
+
+© 2009 The Mepham Group. Distributed by
+Tribune Media Services. All rights reserved.
+
+9/14/09
+
+Complete the grid so each row, column and 3-by-3 box (in 
+bold borders) contains every digit, 1 to 9. For strategies 
+
+on how to solve Sudoku, visit www.sudoku.org.uk
+
+Le
+ve
+
+l:
+1
+
+2
+3
+
+4
+
+Le
+ve
+
+l:
+1
+
+2
+3
+
+4
+
+Le
+ve
+
+l:
+1
+
+2
+3
+
+4
+
+Le
+ve
+
+l:
+1
+
+2
+3
+
+4
+
+Le
+ve
+
+l:
+1
+
+2
+3
+
+4
+
+Le
+ve
+
+l:
+1
+
+2
+3
+
+4
+
+Le
+ve
+
+l:
+1
+
+2
+3
+
+4
+
+Le
+ve
+
+l:
+1
+
+2
+3
+
+4Le
+ve
+
+l:
+1
+
+2
+3
+
+4
+
+Le
+ve
+
+l:
+1
+
+2
+3
+
+4
+
+Le
+ve
+
+l:
+1
+
+2
+3
+
+4
+
+Le
+ve
+
+l:
+1
+
+2
+3
+
+4
+
+Le
+ve
+
+l:
+1
+
+2
+3
+
+4
+
+Le
+ve
+
+l:
+1
+
+2
+3
+
+4
+
+Le
+ve
+
+l:
+1
+
+2
+3
+
+4
+
+Le
+ve
+
+l:
+1
+
+2
+3
+
+4
+
+www.ucsdguardian.org/advertising
+
+Classifieds $Guardian Classi�eds are FREE for the UC San Diego community. VISIT www.ucsdguardian.org/classiﬁeds
+Classifieds $Guardian Classi�eds are FREE for the UC San Diego community. VISIT www.ucsdguardian.org/classiﬁeds
+
+BOATS
+‘89 650sx part out. 1989 KAWASAKI 650SX 
+Salvage, mariner filter, driveshaft, 2 hood locks, 
+1 neg, cable, 2 engine plates, 2 pads, rear bum-
+per, rebuilt crank (hydrolocked), idler gear, 2 
+stock manifolds etc. Asking for $1,000.00. Listing 
+ID: 85477233 at ucsdguardian.org/classifieds for 
+more information
+
+Folding 18’ Tri - Beautiful Farrier folding trail-
+erable Tri 18’ 9” Strip planked main hull, loaded 
+with tons of extras, a must see! Listing ID: 
+85306737 at ucsdguardian.org/classifieds for 
+more information
+
+‘89 650sx hull - 1989 Kawasaki 650sx White, 
+Used, Private Party Asking for $150.00. Listing 
+ID: 85477229 at ucsdguardian.org/classifieds for 
+more information
+
+BIKES
+Motorized Bicycle - Motorized gas powered 
+bicycle, heavy duty and assembled by a manu-
+facturer, pedal start for easy use, no drivers 
+license required, cruises at 35 mph, two stroke 
+with about 50 mi range, rear rack and front bag 
+for lots of storage, horn and lights, use with 
+or without motor, can deliver, call for more 
+information, 425 or best, Troy show contact info. 
+Listing ID: 85751866 at ucsdguardian.org/clas-
+sifieds for more information
+
+Awesome Trek Trike - SELLING AWESOME 
+TREK TRIKE .TERRIFIC CONDITION,ALL 
+ALUMINUM,THREE PIECE CRANCKS ,LIKE NEW.. 
+Listing ID: 85751865 at ucsdguardian.org/clas-
+sifieds for more information
+
+Masi Track roller (80’s) - Up for sale is a 56cm 
+Masi track bike from the 80’s. You could say it’s 
+kind of rare. It was repainted by a prior owner 
+and it wasn’t a great job, so it would be a great 
+candidate for restoration... or just finish it and 
+ride it. The frame and fork are straight, though 
+there are a few minor dings in the top tube- 
+common on track bikes from the bars hitting. 
+Brev Masi horizontal dropouts, recent Torelli 
+headset, Selle Italia seat ( weathered) profile 
+design bullhorns with brake levers, a generic 
+front brake (the fork was made for a brake as 
+was the rear bridge), 700c Surly wheels with 
+flipflop hub and two cogs. New generic tires. All 
+you need is a chain, crank, bb and pedals and 
+you’re riding. Listing ID: 85751864 at ucsdguard-
+ian.org/classifieds for more information
+
+ELECTRONICS
+Alpine Type S Subwoofer 10” 10 inch Box. Selling 
+some things from my previous car sound sys-
+tem. Everything works since I was just using 
+it little over a week ago *If this post is still up, 
+items are still for sale!* *If prices are up, those 
+items are still for sale!* Alpine SWS-1043D - $35 
+10” Sealed Box - $30. Alpine SWS-1043D & 10” 
+Sealed Box Combo - $70 Listing ID: 84500709 
+at ucsdguardian.org/classifieds for more infor-
+mation
+
+2-LARGE SPEAKERS - I am selling 2-large speak-
+ers, they were lightly, and seldom used. - Listing 
+ID: 86008700 at ucsdguardian.org/classifieds 
+for more information. Canon PIXMA PRO-100 
+Digital Wireless Professional Photo Inkjet Printer
+
+BRAND NEW IN UNOPENED RETAIL BOX -,Canon 
+PIXMA PRO-100 Color Professional Inkjet Photo 
+Printer - Never used, Never opened, NOT refur-
+bished, with all the original ink cartridges. 
+Listing ID: 86008699 at ucsdguardian.org/clas-
+sifieds for more information
+
+UCSD BLOOD 
+DONOR ALLERGY 
+
+STUDY: 
+Subjects with either current 
+allergy symptoms to inhaled 
+
+allergens (cat, grass, dust 
+mite), or healthy non-allergic 
+volunteers, needed as blood 
+
+donors for research study. 
+Will be reimbursed $20 for 
+
+blood donation.
+Contact Dr. Broide, 
+
+Department Medicine 
+(619-335-8685).
+
+t
+your vision,
+our mission.
+
+The Associated Students Store
+Contact outfitters@ucsd.edu for more info.
+
+Create custom apparel to promote your
+student organization with Triton Outfitter's
+new Made TO Order program!
+
+A�ly now!
+Email your resume & portfolio to
+asgraphicstudio@ucsd.edu
+
+posted. CHECK OUT YOUR PICS FROMfacebook.com/tritonoutfitters
+
+
+
+S P O R T S  T H E  U C S D  G U A R D I A N  |  T H U R S D AY,  M AY  2 9 ,  2 0 1 4  |  W W W. U C S D G U A R D I A N . O R G  11
+
+coaches reached out to the uncom-
+mitted high school senior. 
+
+“They pretty much just sold 
+me on the school,” Lizotte told the 
+UCSD Guardian. “I wanted to come 
+to a program where I felt like I could 
+have an impact on the team and the 
+school.”
+
+Over the last four years, she 
+has certainly had quite the impact. 
+However, the beginning of her col-
+legiate career began on a rather 
+rough note, as she was academically 
+ineligible during the first half of her 
+freshman season. 
+
+“I took it for granted how easy 
+high school was, and then I came 
+here and failed a class,” Lizotte said. 
+“Coming back halfway through sea-
+
+son, I felt I had a lot to prove to my 
+teammates as we finished out our 
+season.”
+
+It seems the short time that she 
+missed out on only motivated her 
+more to succeed. The Tritons have 
+won the WWPA championship 
+title and qualified for the NCAA 
+Championship tournament the past 
+three out of four years with Lizotte and 
+her fellow seniors at the heart of it all. 
+
+“There have been a ton of memo-
+ries and experiences in and out of 
+the pool that I will never forget,” 
+Lizotte said. “There is [a] bond I 
+have with my teammates, especially 
+my senior class, that I will take with 
+me the rest of my life.”
+
+Beyond the pool, Lizotte’s influ-
+ence extends into student politics, 
+as she has been a part of the Triton 
+
+Athletes Council — UCSD’s united 
+student-athlete voice — for the past 
+three years. In her first year with 
+TAC, she was involved with the 
+department’s attempted Division I 
+athletics referendum.
+
+“Although we did not get the 
+outcome we had hoped for, the 
+department is gearing up for another 
+referendum,” Lizotte said. “It really 
+demonstrated the bond of this com-
+munity and that the athletes and the 
+athletic department is a force to be 
+reckoned with.”
+
+In regards to her own future, 
+Lizotte doesn’t have to look too far. 
+She will remain at UCSD through 
+winter quarter to complete her degree 
+in communications, and as for her 
+water polo career, she has no intention 
+of hanging things up just yet. 
+
+“I am going to be working out and 
+taking a shot at the senior national 
+team,” Lizotte said. “And going to the 
+Olympics, that’s the ultimate goal.”
+
+As one of the top players in the 
+country, an ambitious destination such 
+as Rio for the 2016 Olympic games is 
+undoubtedly within her reach. When 
+Lizotte broke UCSD’s all-time scoring 
+record earlier this season, her mark 
+in the Triton record books surpassed 
+none other than former Olympic sil-
+ver medalist Julie Swail. 
+
+“I am willing to try to see if that 
+is a possibility for me,” Lizotte said. “I 
+know I can compete with any of those 
+girls, I just have to go out and prove it, 
+and prove it to myself.” 
+
+the vast majority of UCSD’s talent 
+will return in 2015 and with it, the 
+promise that 2014’s banner year will 
+not only be repeated but improved 
+upon as the team matures. Justin 
+Donatella and several other under-
+classmen pitchers are throwing on a 
+level comparable to the best in the 
+nation. Brandon Shirley, a redshirt 
+freshman and breakout star late in 
+the year, proved to be an offensive 
+powerhouse and an invaluable asset 
+in clutch situations. Troy Cruz start-
+ed every game for the Tritons, both 
+in the regular and postseason and, 
+as only a sophomore, has cemented 
+a position on the team as a standout 
+player on the mound, on the field 
+and at bat. 
+
+Along with returning talent, 
+UCSD also has plans to completely 
+renovate Triton Ballpark and estab-
+lish updated, polished facilities. This 
+change will undoubtedly advance 
+the school’s recruiting efforts, and 
+by my prediction, the Tritons will 
+be competing for Division II NCAA 
+Championships before the incoming 
+freshman class of 2018 graduates.
+
+There is no doubt that those 
+leaving this year have left an indel-
+ible mark on the program. However, 
+with so many young, talented play-
+ers rising to fill the ranks of those 
+departing and new facilities to ele-
+vate UCSD’s national recognition, 
+the 2015 season stands to be yet 
+another year for the record books. 
+I wish all those involved with the 
+program a healthy and productive 
+offseason and look to the Tritons 
+retaking the field next year with 
+great anticipation.
+
+UCSD’s Young 
+Class of  Stars 
+Will Replace 
+Valuable Seniors
+▶ BASEBALL, from page 12
+
+Lizotte Will Continue With Career, Aims for National Team and 2016 Rio Olympics
+▶ LIZOTTE, from page 12
+
+readers can contact
+kirsten  wilmon     kwillmon@ucsd.edu 
+
+PHOTO BY ALWIN SZETO/GUARDIAN
+
+
+
+SPORTS CONTACT THE EDITORBRAN DON  YUsports@ucsdguardian.org     follow us @UCSD_sports 
+12 T H E  U C S D  G U A R D I A N  |  T H U R S D AY,  M AY  2 9 ,  2 0 1 4  |  W W W. U C S D G U A R D I A N . O R G  
+
+ 
+
+TMC 198: TMC/CREATE PARTNERSHIP SCHOOLS PROGRAM 
+
+ERC 89: ERC/CREATE MATH TUTOR CORPS    
+
+EDS 198: COLLEGE ACADEMIC MENTORING PROGRAM (CAMP) 
+
+ 
+
+Give Back, Earn Credit 
+SECONDARY SCHOOL MENTORING + TUTORING PROGRAMS Open to ALL UCSD students | Transportation will be available To learn more about each program, visit:  http://create.ucsd.edu/opportunities 
+
+Promote college access by serving as a mentor to local high school students. Gain tools and training 
+through a weekly seminar.  
+
+Contact: Indira Esparza at inesparz@ucsd.edu 
+
+Support academic achievement by providing math tutoring to students at Lincoln High School. Gain 
+training by veteran math educators through a bi-weekly seminar.  
+
+Contact: Jacqueline Guan at j1guan@ucsd.edu 
+
+Serve as tutors, mentors, and positive role models to first-generation college-bound youth at UCSD  
+partnership charter schools: The Preuss School and Gompers Preparatory Academy.  
+
+Contact: Brianna Nelson bnelson@ucsd.edu  
+
+Lizotte’s Legacy
+After four outstanding years leading the UCSD women’s water polo team, senior utility Sarah 
+
+Lizotte reflects on a stellar collegiate career while looking ambitiously toward the future. 
+
+BY KIRSTEN WILLMON STAFF WRITER // DESIGN BY ZOE MCCRACKEN
+
+Bright 
+Future Lies 
+Ahead for 
+Baseball
+
+It was hard not to feel slightly 
+robbed as I watched the Chico State 
+players rally around one another 
+after beating the Tritons in the 
+NCAA West Regionals just a couple 
+of weeks ago. After a career year 
+for more than a handful of Tritons, 
+a 38–16 record and the school’s 
+sixth California Collegiate Athletic 
+Association Championship, I still 
+think the 2014 baseball season came 
+to a close too soon.
+
+Head coach Eric Newman and 
+his staff organized their talent to 
+win close, contentious games, time 
+and time again. The staff had an 
+uncanny ability to get players to buy 
+into game strategies over the course 
+of the season. If I had to attribute the 
+synergy of the squad late in the sea-
+son to one singular action, I would 
+have to say it would be the efforts of 
+the coaching staff and their pursuit 
+of player and team development. 
+
+To say that our graduating 
+seniors will be missed on the field 
+would be an understatement. Seniors 
+Nick La Face and Justin Rahn had 
+incredible years, evidenced by their 
+recent honors from the American 
+Baseball Coaches Association. The 
+two seniors always seemed to get 
+Triton bats going when they were 
+most needed and were season-long 
+cornerstones of the team’s offensive 
+effort. They will leave large holes 
+that may prove difficult to fill. Blake 
+Fassler, Spencer Frazier, David Hart, 
+Garrett Tuck and Scott Zeman also 
+pitched their last innings as Tritons 
+and their leadership both on and off 
+the field will be greatly missed. 
+
+However, in spite of the bitter end 
+and the exit of these valuable players, 
+the Tritons’ potential in the coming 
+years excites me. A couple months 
+earlier, as momentum built toward 
+the end of the season, I combed over 
+statistics and watched the team grow 
+and realize its full potential. While 
+the team graduated key seniors, 
+
+ john  story   jstory@ucsd.edu
+full  court  press
+
+See BASEBALL, page 11
+
+KEEP UP WITH ALL OF 
+THE LATEST SPORTS!
+
+FOLLOW THE GUARDIAN’S 
+SPORTS TWITTER
+@UCSD_Sports
+
+PLAYER SPOTLIGHT Sarah Lizotte
+
+W ith major records shattered and heaps of awards earned throughout an illustrious collegiate career, senior utility of the UCSD women’s water polo team Sarah Lizotte 
+has certainly left her mark on the Triton program she has led 
+for the past four years. 
+
+The Tritons recently wrapped up their 2014 campaign, 
+concluding the season with a 27–13 record and finishing 
+eighth overall at the NCAA Championships with Lizotte at the 
+head. She led in scoring in her fourth and final season with 84 
+goals and tying with teammate junior attacker Jolene Guiliana 
+for assists with 51 apiece. The team suffered a slightly bitter 
+end, going 0–3 in the final tournament against three of the 
+nation’s top eight squads. 
+
+However, the Riverside native exits her career far from 
+empty-handed; the senior holds a mile-long list of accolades 
+and unforgettable experiences in the Triton uniform. She was 
+the Western Water Polo Association Player of the Year in 2013 
+and 2014 and the 2012–13 UCSD Athlete of the Year; her 26 
+total goals in three NCAA appearances just barely trails the 
+
+all-time record of 30 goals set by Stanford University’s senior 
+driver Lauren Silver; and she broke UCSD’s all-time career 
+records for goals (313), attempts (557) and assists (171).
+
+Lizotte’s slew of accomplishments and elite skills in the 
+water stand firmly atop a dedication to the sport she has 
+immersed herself in since childhood. She began her career 
+at five years old, when she started swimming competitively, 
+before taking up water polo when her swim team added the 
+sport to its program. 
+
+Lizotte attended Riverside-Poly High School (2006–09) 
+and played four years of varsity water polo, winning three con-
+secutive conference and California Interscholastic Federation 
+championships. 
+
+By her senior year, Lizotte was a highly sought-after recruit, 
+receiving numerous offers from top Division-I programs. Yet, 
+amid all the top-tier university hoopla, Lizotte was accepted to 
+UCSD based purely on academic merit. Soon after, the Triton 
+
+See LIZOTTE, page 11
+
+PHOTOS BY ALWIN SZETO /GUARDIAN AND USED WITH PERMISSION FROM UCSD ATHLETICS
+
+“I am going to be working out and 
+taking a shot at the senior national 
+team ... and going to the Olympics, 
+that’s the ultimate goal.”
+
+– Sarah Lizotte
+
+
